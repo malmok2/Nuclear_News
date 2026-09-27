@@ -17,8 +17,12 @@ NEWS_CSS = """
 .day-nav{display:flex;flex-wrap:wrap;align-items:center;gap:.75rem 1rem;margin:0 0 2rem;padding:1rem 0;border-bottom:1px solid var(--color-line)}
 .day-nav a{font-size:.8125rem;color:var(--color-neutral-600);text-decoration:none;border:1px solid var(--color-line);padding:.5rem .8rem;white-space:nowrap}
 .day-nav a:hover{color:var(--color-neutral-900);border-color:var(--color-line-strong)}
-.day-nav label{display:inline-flex;align-items:center;gap:.6rem;font-size:.8125rem;color:var(--color-neutral-600)}
-.day-nav input{font:inherit;font-size:.875rem;padding:.45rem .6rem;border:1px solid var(--color-line-strong);background:var(--color-card);color:var(--color-neutral-900)}
+.day-nav input{font:inherit;font-size:.9375rem;height:2.75rem;padding:0 .7rem;border:1px solid var(--color-line-strong);background:var(--color-card);color:var(--color-neutral-900)}
+.stepper{display:inline-flex;align-items:stretch;gap:.5rem}
+.day-nav .step{display:inline-flex;align-items:center;justify-content:center;width:2.75rem;height:2.75rem;padding:0;
+  border:1px solid var(--color-line-strong);font-size:1.125rem;line-height:1;color:var(--color-accent);text-decoration:none}
+.day-nav a.step:hover{background:var(--color-accent-soft);border-color:var(--color-accent);color:var(--color-accent)}
+.day-nav .step[aria-disabled="true"]{color:var(--color-neutral-400);border-color:var(--color-line);cursor:default}
 .day-nav .spacer{flex:1}
 .day-msg{flex-basis:100%;margin:0;font-size:.8125rem;color:var(--color-accent)}
 .day-msg[hidden]{display:none}
@@ -126,28 +130,35 @@ def story_html(number, story, clusters_by_id, library):
 
 
 def day_nav(current, dates, prefix):
+    """← [date picker] →. Arrows stay in place and dim at either end; keyboard ←/→ does the same."""
     index = dates.index(current)
     prev_day = dates[index - 1] if index > 0 else None
     next_day = dates[index + 1] if index + 1 < len(dates) else None
 
-    def link(day, text):
+    def arrow(day, symbol, rel, word):
         if not day:
-            return ""
+            return f'<span class="step" aria-disabled="true" title="{word} 브리핑 없음">{symbol}</span>'
         d = date.fromisoformat(day)
-        return f'<a href="{prefix}days/{day}.html">{text.format(f"{d.month}월 {d.day}일")}</a>'
+        label = f"{word} 날 ({d.month}월 {d.day}일)"
+        return (f'<a class="step" id="day-{rel}" href="{prefix}days/{day}.html" rel="{rel}" '
+                f'title="{label}" aria-label="{label}">{symbol}</a>')
 
     script = (
         "(function(){var dates=%s,p=document.getElementById('day-picker'),m=document.getElementById('day-msg');"
         "if(!p)return;p.addEventListener('change',function(){var v=p.value;if(!v)return;"
         "if(dates.indexOf(v)>=0){location.href=%s+'days/'+v+'.html';return;}"
         "var earlier=dates.filter(function(d){return d<v;}).pop();m.hidden=false;"
-        "m.innerHTML='그날은 브리핑이 없습니다.'+(earlier?' 가장 가까운 이전 날짜: <a href=\"'+%s+'days/'+earlier+'.html\">'+earlier+'</a>':'');});})();"
+        "m.innerHTML='그날은 브리핑이 없습니다.'+(earlier?' 가장 가까운 이전 날짜: <a href=\"'+%s+'days/'+earlier+'.html\">'+earlier+'</a>':'');});"
+        "document.addEventListener('keydown',function(e){var t=e.target.tagName;"
+        "if(e.altKey||e.ctrlKey||e.metaKey||t==='INPUT'||t==='TEXTAREA'||t==='SELECT')return;"
+        "var a=e.key==='ArrowLeft'?document.getElementById('day-prev'):e.key==='ArrowRight'?document.getElementById('day-next'):null;"
+        "if(a)location.href=a.href;});})();"
         % (json.dumps(dates), json.dumps(prefix), json.dumps(prefix))
     )
     return (
-        f'<nav class="day-nav" aria-label="날짜 이동">{link(prev_day, "← {}")}'
-        f'<label>날짜 선택 <input type="date" id="day-picker" value="{current}" min="{dates[0]}" max="{dates[-1]}"></label>'
-        f'{link(next_day, "{} →")}<span class="spacer"></span><a href="{prefix}archive.html">전체 날짜 목록</a>'
+        f'<nav class="day-nav" aria-label="날짜 이동"><span class="stepper">{arrow(prev_day, "←", "prev", "이전")}'
+        f'<input type="date" id="day-picker" aria-label="날짜 선택" value="{current}" min="{dates[0]}" max="{dates[-1]}">'
+        f'{arrow(next_day, "→", "next", "다음")}</span><span class="spacer"></span><a href="{prefix}archive.html">전체 날짜 목록</a>'
         f'<p class="day-msg" id="day-msg" role="status" hidden></p></nav><script>{script}</script>'
     )
 
