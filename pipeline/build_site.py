@@ -170,11 +170,12 @@ def filter_bar(stories):
 
 
 def engine_notice(record):
-    engine = record.get("engine", {})
-    if engine.get("engine") == "claude" or not record.get("sources"):
+    engine = record.get("engine", {}).get("engine")
+    if engine not in ("pending", "failed") or not record.get("sources"):
         return ""
-    return ('<p class="notice">오늘은 AI 해설을 만들지 못해 수집한 기사 제목만 싣습니다. '
-            "해설은 다음 실행 때 다시 시도합니다.</p>")
+    if engine == "pending":
+        return '<p class="notice">오늘의 해설을 준비하고 있습니다. 우선 수집한 기사 제목만 싣고, 해설은 오전 중에 추가됩니다.</p>'
+    return '<p class="notice">오늘은 AI 해설을 만들지 못해 수집한 기사 제목만 싣습니다.</p>'
 
 
 def render_day(record, dates, prefix, canonical=""):

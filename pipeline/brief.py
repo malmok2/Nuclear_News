@@ -81,7 +81,7 @@ def candidate_lines(candidates):
         lead = c["items"][0]
         publishers = ", ".join(dict.fromkeys(i["publisher"] for i in c["items"]))[:120]
         line = f"[{c['id']}] ({c['region']}) {lead['title']} | 매체: {publishers} ({len(c['items'])}곳 보도)"
-        snippet = next((i["snippet"] for i in c["items"] if i["snippet"]), "")
+        snippet = next((i["snippet"] for i in c["items"] if i.get("snippet")), "")
         if snippet:
             line += f" | 요지: {snippet}"
         lines.append(line)
@@ -153,12 +153,16 @@ def validate(brief, candidates):
 
 
 def write_brief(candidates, day_label):
-    """Return (brief, meta). Without a key or on failure the page still lists the headlines (no commentary)."""
+    """Return (brief, meta).
+
+    Default setup has no API key: the day is saved as 'pending' and the daily Claude Code session
+    (pipeline/session_brief.py) writes the commentary. With ANTHROPIC_API_KEY set, it is written here.
+    """
     empty = {"overview": "", "stories": []}
     if not candidates:
         return empty, {"engine": "none", "reason": "no candidates"}
     if not os.environ.get("ANTHROPIC_API_KEY"):
-        return empty, {"engine": "none", "reason": "ANTHROPIC_API_KEY not set"}
+        return empty, {"engine": "pending", "reason": "waiting for the Claude Code session"}
     try:
         raw, usage = call_claude(build_prompt(candidates, day_label))
     except Exception as error:

@@ -2,8 +2,9 @@ name: Daily nuclear news brief
 
 on:
   schedule:
-    # 20:30 UTC = 05:30 KST. GitHub cron can start up to ~1 h late, so the page is up before ~07:00 KST.
-    - cron: "30 20 * * *"
+    # 19:30 UTC = 04:30 KST. GitHub cron can start up to ~1 h late; the Claude Code session that writes
+    # the commentary fires at 06:50 KST and needs today's headlines to be committed by then.
+    - cron: "30 19 * * *"
     # Safety net at 09:00 KST: runs only if the morning run failed or published without commentary.
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -22,7 +23,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: daily-news
+  group: pages-publish
   cancel-in-progress: false
 
 jobs:

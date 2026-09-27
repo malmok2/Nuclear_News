@@ -5,20 +5,34 @@
 
 `malmok2/PaperCollection`(주간 논문 동향)과 같은 구조입니다: **GitHub Actions에서 실행 → 결과를 저장소에 커밋 → GitHub Pages로 게시 → 연구실 홈페이지(Think_webpage) 도구 목록에서 연결.**
 
-## 1. 동작 방식
+## 1. 동작 방식 (API 키 없이 운영)
 
 ```
-매일 05:30 KST (GitHub Actions, 클라우드 실행 — 연구실 PC 불필요, cron 지연 감안 시 ~07:00 이전 게시)
+04:30 KST  GitHub Actions — 수집 (API 키 불필요)
   ├─ RSS 수집: Google 뉴스(국내·해외 검색), World Nuclear News, IAEA, U.S. NRC, ANS
-  ├─ 걸러내기: 지난 36시간 기사 · 원자력 키워드 포함 · 북핵·핵무기 등 군사 기사 제외
-  ├─ 같은 사건을 여러 매체가 쓴 기사는 한 묶음으로 (제목 유사도)
-  ├─ 이미 게시한 기사는 제외 (state/seen.json, 21일 보관)
-  ├─ Claude API 1회 호출: 4~8개 뉴스 선정 + 해설 작성
-  │    무슨 일이 있었나 / 공학도에게 왜 중요한가 / 개념 풀이 / 생각해 볼 질문 / 더 공부하기
-  ├─ data/days/날짜.json 저장 → docs/ 전체 다시 생성
+  ├─ 걸러내기: 지난 36시간 · 원자력 키워드 · 북핵·핵무기 등 군사 기사 제외
+  ├─ 같은 사건 여러 기사 → 한 묶음, 이미 게시한 기사 제외 (state/seen.json)
+  ├─ data/days/날짜.json 저장 (engine = pending) → 제목만 있는 페이지 먼저 게시
   └─ 저장소에 커밋 + GitHub Pages 배포
-09:00 KST 재시도 — 오전 실행이 실패했거나 해설 없이 게시된 경우에만 다시 수행
+06:50 KST  Claude Code 예약 작업(Routine) — 해설 작성 (교수님 Claude 구독 사용량에서 차감)
+  ├─ python3 -m pipeline.session_brief prompt   → 규칙 + 후보 기사 목록 출력
+  ├─ Claude가 해설 JSON 작성 (웹 검색·원문 열람 없음)
+  ├─ python3 -m pipeline.session_brief apply    → 검증 + 저장 + docs/ 다시 생성
+  └─ push → deploy-pages 워크플로가 사이트 재배포
+09:00 KST  수집 재시도 — 04:30 수집이 실패했을 때만
 ```
+
+해설 한 건은 "무슨 일이 있었나 / 공학도에게 왜 중요한가 / 개념 풀이 / 생각해 볼 질문 / 더 공부하기"로 구성됩니다.
+`ANTHROPIC_API_KEY`를 Actions Secret으로 등록하면 04:30 수집 단계에서 API로 바로 해설을 쓰고, 예약 작업은 할 일이 없어 곧바로 끝납니다(선택).
+
+### 분량 조절 (`config/settings.json`)
+
+| 키 | 지금 | 뜻 |
+|---|---|---|
+| `max_candidates` | 30 | 해설 작성 시 보여 주는 후보 기사 묶음 수 |
+| `min_stories` / `max_stories` | 3 / 5 | 해설하는 뉴스 수 |
+
+처음에는 토큰을 아끼려고 작게 잡았습니다. 늘리려면 이 세 값만 바꾸면 됩니다(예: 45 / 4 / 8).
 
 ## 2. 저작권 원칙
 
@@ -34,29 +48,15 @@ AI 해설은 제목·요지만 보고 쓰므로, 제목에 없는 수치·날짜
 
 ## 3. 최초 설정 (1회)
 
-1. **저장소를 공개(Public)로 전환** — Settings → General → Danger Zone → Change visibility.
-   무료 계정에서 GitHub Pages는 공개 저장소에서만 동작합니다(PaperCollection·도구 저장소도 모두 공개). 저장소에는 비밀 정보가 없습니다.
-2. **Pages 켜기** — Settings → Pages → Source: **GitHub Actions**.
-3. **Secret 등록** — Settings → Secrets and variables → Actions:
+1. 저장소 공개(Public) 전환 — 무료 계정의 GitHub Pages 조건
+2. Settings → Pages → Source: **GitHub Actions**
+3. 예약 작업(Routine) 등록 — Claude Code 세션에서 등록함. claude.ai의 Routines 목록에서 확인·중지 가능
+4. 예약 실행은 **기본 브랜치**의 워크플로만 동작합니다(현재 기본 브랜치에 있음)
 
-| 종류 | 이름 | 값 | 필수 |
-|---|---|---|---|
-| Secret | `ANTHROPIC_API_KEY` | Claude API 키 (PaperCollection과 같은 키 사용 가능) | 필수 (없으면 해설 없이 제목만 게시) |
-| Variable | `NEWS_MODEL` | 모델 변경 시에만. 예: `claude-sonnet-5` (비용 약 1/2.5) | 선택 |
+## 4. 사용량
 
-4. **첫 실행** — Actions → *Daily nuclear news brief* → Run workflow.
-   예약 실행은 **기본 브랜치**의 워크플로만 동작합니다. 이 브랜치를 기본 브랜치로 두거나 main에 병합하세요.
-
-## 4. 비용
-
-하루 1회 API 호출(입력 약 5~8천 토큰, 출력·사고 약 1만 토큰 내외):
-
-| 모델 | 1일 | 1개월 |
-|---|---|---|
-| `claude-opus-5` (기본) | 약 $0.3 | 약 $9 |
-| `claude-sonnet-5` | 약 $0.12 | 약 $4 |
-
-수치는 추정치입니다. 실제 사용량은 매일 `data/days/날짜.json`의 `engine.input_tokens`/`output_tokens`에 기록됩니다.
+- 수집(GitHub Actions): 무료
+- 해설(예약 작업): 하루 1회 세션. 해설용 입력 약 3~4천 토큰 + 출력 3~5천 토큰에, Claude Code 세션 자체의 고정 비용(시스템 지시문·도구 설명, 대부분 캐시)이 더해집니다. 실제 사용량은 첫 실행 뒤 확인이 필요합니다.
 
 ## 5. 로컬 실행
 
@@ -76,13 +76,14 @@ python -m unittest tests.test_offline -v         # 네트워크 없이 전체 �
 | `include_keywords` / `exclude_keywords` | 관련성 필터 |
 | `categories` | 뉴스 분류 (AI가 이 중에서만 고름) |
 | `reference_library` | '더 공부하기' 링크 후보 |
-| `model`, `effort`, `max_stories`, `lookback_hours` | 모델·분량·수집 기간 |
+| `max_candidates`, `min_stories`, `max_stories`, `lookback_hours` | 분량·수집 기간 |
+| `model`, `effort` | API 키를 쓸 때만 적용 |
 
 ## 7. 폴더 구조
 
 ```
 config/settings.json   설정
-pipeline/              collect.py(수집) · brief.py(해설) · build_site.py(페이지) · run_daily.py(진입점)
+pipeline/              collect.py(수집) · brief.py(해설 규칙·API) · session_brief.py(예약 작업용) · build_site.py(페이지) · run_daily.py(수집 진입점)
 data/days/             날짜별 브리핑 JSON (누적 아카이브)
 state/                 seen.json(게시한 기사) · latest-run.json(마지막 실행 결과, 피드별 성공 여부)
 docs/                  공개 사이트: index.html(오늘) · days/날짜.html · archive.html(날짜별 목록)

@@ -13,7 +13,11 @@ from unittest import mock
 
 import feedparser
 
-from pipeline import brief, build_site, collect, run_daily
+import io
+import json
+from contextlib import redirect_stdout
+
+from pipeline import brief, build_site, collect, run_daily, session_brief
 
 NOW = datetime(2026, 9, 27, 21, 0, tzinfo=timezone.utc)  # 06:00 KST 9/28
 
@@ -69,6 +73,7 @@ class OfflinePipeline(unittest.TestCase):
             mock.patch.object(run_daily, "LATEST_RUN_PATH", self.tmp / "state/latest-run.json"),
             mock.patch.object(build_site, "DAYS_DIR", self.tmp / "data/days"),
             mock.patch.object(build_site, "SITE_DIR", self.tmp / "docs"),
+            mock.patch.object(session_brief, "DAYS_DIR", self.tmp / "data/days"),
             mock.patch.object(run_daily, "collect", lambda seen: collect.collect(seen, now=NOW, entries_by_feed=FEEDS)),
             mock.patch.object(brief, "call_claude", lambda prompt: (copy.deepcopy(FAKE_BRIEF), {"model": "fake", "input_tokens": 1, "output_tokens": 1})),
             mock.patch.dict(os.environ, {"ANTHROPIC_API_KEY": "test"}),
@@ -116,6 +121,41 @@ class OfflinePipeline(unittest.TestCase):
         self.assertEqual(first["generated_at"], again["generated_at"])
         forced = run_daily.run(date(2026, 9, 28), force=True)
         self.assertEqual(len(forced["sources"]), len(first["sources"]))  # same-day seen keys stay eligible
+
+    def test_session_flow_without_api_key(self):
+        """Default setup: Actions saves a pending day, the Claude Code session applies the commentary."""
+        day = date(2026, 9, 28)
+        with mock.patch.dict(os.environ, {"ANTHROPIC_API_KEY": ""}):
+            record = run_daily.run(day)
+        self.assertEqual(record["engine"]["engine"], "pending")
+        build_site.build_site()
+        self.assertIn("해설을 준비하고 있습니다", (self.tmp / "docs/index.html").read_text(encoding="utf-8"))
+
+        out = io.StringIO()
+        with redirect_stdout(out):
+            session_brief.cmd_prompt(day)
+        self.assertIn("후보 기사", out.getvalue())
+        self.assertIn('"stories"', out.getvalue())
+
+        bad = self.tmp / "bad.json"
+        bad.write_text(json.dumps({"overview": "", "stories": [{"region": "국외"}]}), encoding="utf-8")
+        with redirect_stdout(io.StringIO()):
+            self.assertEqual(session_brief.cmd_apply(day, bad), 1)
+
+        good = self.tmp / "good.json"
+        good.write_text(json.dumps(FAKE_BRIEF, ensure_ascii=False), encoding="utf-8")
+        with redirect_stdout(io.StringIO()):
+            self.assertEqual(session_brief.cmd_apply(day, good), 0)
+        saved = json.loads((self.tmp / "data/days/2026-09-28.json").read_text(encoding="utf-8"))
+        self.assertEqual(saved["engine"]["engine"], "claude-code-session")
+        page = (self.tmp / "docs/index.html").read_text(encoding="utf-8")
+        self.assertIn("한수원이 i-SMR 표준설계 인가를 신청", page)
+        self.assertNotIn("해설을 준비하고 있습니다", page)
+
+        out = io.StringIO()
+        with redirect_stdout(out):
+            session_brief.cmd_prompt(day)                  # second call: nothing left to do
+        self.assertTrue(out.getvalue().startswith("SKIP"))
 
 
 if __name__ == "__main__":
