@@ -33,7 +33,8 @@ NEWS_CSS = """
 .tag.key{background:var(--color-navy);border-color:var(--color-navy);color:#fff}
 :root[data-theme="dark"] .tag.key{background:var(--color-ink);border-color:var(--color-ink);color:var(--color-canvas)}
 .story h2{margin:.75rem 0 0;font-size:1.3125rem;line-height:1.45;font-weight:600;letter-spacing:-.015em;color:var(--color-ink);text-wrap:balance}
-.story h3{margin:1.4rem 0 .4rem;font-size:.75rem;letter-spacing:.12em;font-weight:600;color:var(--color-neutral-500)}
+.story h3{display:flex;align-items:center;gap:.5rem;margin:1.6rem 0 .45rem;font-size:.875rem;letter-spacing:.02em;font-weight:700;color:var(--color-accent)}
+.story h3::before{content:"";flex:none;width:1rem;height:3px;background:var(--color-accent)}
 .story p{margin:0;font-size:.9375rem;line-height:1.9;color:var(--color-neutral-800)}
 .concepts{margin:0;display:grid;gap:.5rem}
 .concepts div{display:grid;grid-template-columns:9rem 1fr;gap:.75rem;padding:.6rem 0;border-bottom:1px solid var(--color-line);font-size:.875rem;line-height:1.75}
