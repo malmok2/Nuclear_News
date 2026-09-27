@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Nuclear News Brief">
+  <!-- 오늘자 한 장: 머리기사 줄, 본문 줄, 그리고 날짜 탭(강조색) -->
+  <rect x="20" y="26" width="70" height="80" fill="#ffffff" stroke="#1b2a41" stroke-width="3"/>
+  <rect x="30" y="37" width="50" height="7" fill="#1b2a41"/>
+  <path d="M30 54h50M30 63h50M30 72h34M30 81h42M30 90h28" stroke="#1b2a41" stroke-width="2.4" stroke-linecap="round" stroke-opacity="0.4"/>
+  <!-- 원자로 격납건물 윤곽 -->
+  <path d="M68 96v-12a9 9 0 0 1 18 0v12z" fill="none" stroke="#1b2a41" stroke-width="2.4" stroke-linejoin="round" stroke-opacity="0.7"/>
+  <rect x="84" y="16" width="26" height="26" fill="#00a35c"/>
+  <path d="M90 25h14M90 32h9" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
