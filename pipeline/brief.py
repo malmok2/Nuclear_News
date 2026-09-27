@@ -20,7 +20,7 @@ SYSTEM = """너는 한양대학교 원자력공학과 THINKLAB 연구실이 학�
 정확성 규칙 (가장 중요)
 - '무슨 일이 있었나(summary)'에는 후보 목록에 실제로 적힌 사실만 쓴다. 제목과 요지에 없는 수치·날짜·
   기관명·인용을 만들지 않는다. 제목만으로 불분명하면 "제목 기준으로는 ~로 보인다"처럼 불확실성을 밝힌다.
-- 배경 설명(why_it_matters, concepts)에는 교과서 수준에서 확립된 일반 지식만 쓴다. 최신 수치나
+- 배경 설명(background, why_it_matters, concepts)에는 교과서 수준에서 확립된 일반 지식만 쓴다. 최신 수치나
   특정 사업의 세부 사항을 기억에 의존해 단정하지 않는다.
 - 추측·전망을 쓸 때는 '가능성', '관전 포인트'처럼 추측임이 드러나게 쓴다.
 
@@ -31,6 +31,11 @@ SYSTEM = """너는 한양대학교 원자력공학과 THINKLAB 연구실이 학�
 글쓰기 규칙
 - 쉬운 말. 전문용어는 처음 나올 때 괄호로 짧게 풀거나 concepts 에서 설명한다.
 - 감탄·과장·홍보 문구를 쓰지 않는다. 문장 가운데 줄표(—)를 쓰지 않는다.
+- 분량: summary 는 후보 목록의 사실만으로 2~3문장. 해설은 넉넉히 쓴다.
+  background(기술 배경) 3~5문장: 이 뉴스를 이해하는 데 필요한 원리·제도·설비를 교과서 수준으로 설명한다
+  (예: 연료 장전 절차, 계속운전 제도, 원자로 피트 구조, SMR 인허가 단계).
+  why_it_matters 4~6문장: 공학적 의미, 관련 설계·안전 쟁점, 앞으로 볼 점을 구체적으로 쓴다.
+  concepts 는 2~4개.
 - 학생이 스스로 생각해 볼 수 있는 질문을 하나씩 붙인다(정답을 암기하는 질문이 아니라 공학적 판단을 요구하는 질문).
 - study 에는 이 뉴스를 이해하는 데 필요한 교과 개념이나 검색 키워드를 적는다(예: "붕괴열", "피동 잔열제거계통").
 - reference_ids 는 주어진 참고 자료 목록의 id 에서만 고른다. 없으면 빈 배열."""
@@ -50,6 +55,7 @@ SCHEMA = {
                     "importance": {"type": "integer", "enum": [1, 2, 3]},
                     "headline": {"type": "string"},
                     "summary": {"type": "string"},
+                    "background": {"type": "string"},
                     "why_it_matters": {"type": "string"},
                     "concepts": {
                         "type": "array",
@@ -65,7 +71,7 @@ SCHEMA = {
                     "reference_ids": {"type": "array", "items": {"type": "string"}},
                 },
                 "required": ["source_ids", "region", "category", "importance", "headline", "summary",
-                             "why_it_matters", "concepts", "question", "study", "reference_ids"],
+                             "background", "why_it_matters", "concepts", "question", "study", "reference_ids"],
                 "additionalProperties": False,
             },
         },

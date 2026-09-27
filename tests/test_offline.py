@@ -56,6 +56,7 @@ FAKE_BRIEF = {
     "stories": [
         {"source_ids": [0, 1, 99], "region": "국내", "category": "SMR·신형로", "importance": 3,
          "headline": "한수원이 i-SMR 표준설계 인가를 신청", "summary": "제목 기준으로 신청이 이뤄졌다.",
+         "background": "표준설계인가는 부지와 무관하게 설계 자체의 안전성을 먼저 심사받는 제도다.",
          "why_it_matters": "인허가는 설계가 규제 요건을 만족하는지 확인하는 단계다.",
          "concepts": [{"term": "표준설계인가", "explain": "같은 설계를 여러 부지에 쓰도록 미리 받는 인가"}],
          "question": "모듈 수가 늘면 안전 심사는 무엇이 달라질까?", "study": ["피동안전계통"],
@@ -150,6 +151,7 @@ class OfflinePipeline(unittest.TestCase):
         self.assertEqual(saved["engine"]["engine"], "claude-code-session")
         page = (self.tmp / "docs/index.html").read_text(encoding="utf-8")
         self.assertIn("한수원이 i-SMR 표준설계 인가를 신청", page)
+        self.assertIn("기술 배경", page)
         self.assertNotIn("해설을 준비하고 있습니다", page)
 
         out = io.StringIO()

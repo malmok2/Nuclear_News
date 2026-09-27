@@ -113,6 +113,7 @@ def story_html(number, story, clusters_by_id, library):
         f'<div class="story-top"><span class="num">{number:02d}</span>{"".join(tags)}</div>',
         f'<h2>{esc(story["headline"])}</h2>',
         f'<h3>무슨 일이 있었나</h3><p>{esc(story["summary"])}</p>',
+        f'<h3>기술 배경</h3><p>{esc(story["background"])}</p>' if story.get("background") else "",
         f'<h3>공학도에게 왜 중요한가</h3><p>{esc(story["why_it_matters"])}</p>',
     ]
     if concepts:

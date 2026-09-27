@@ -17,8 +17,9 @@ from .common import DAYS_DIR, SETTINGS, date_label, now_utc, read_json, today_ks
 FORMAT = """출력: 아래 형식의 JSON 하나만 파일로 저장한다(설명 문장 없이).
 {{"overview": "오늘 흐름 2~3문장",
  "stories": [{{"source_ids": [후보 번호...], "region": "국내|해외", "category": "{categories}",
-   "importance": 1~3, "headline": "새로 쓴 한 줄 제목", "summary": "무슨 일이 있었나 2~3문장",
-   "why_it_matters": "공학도에게 왜 중요한가 2~3문장", "concepts": [{{"term": "", "explain": ""}}],
+   "importance": 1~3, "headline": "새로 쓴 한 줄 제목", "summary": "무슨 일이 있었나 2~3문장(후보 목록의 사실만)",
+   "background": "기술 배경 3~5문장", "why_it_matters": "공학도에게 왜 중요한가 4~6문장",
+   "concepts": [{{"term": "", "explain": ""}}, ... 2~4개],
    "question": "생각해 볼 질문", "study": ["교과 개념·검색어"], "reference_ids": ["참고 자료 id"]}}]}}"""
 
 
@@ -38,7 +39,7 @@ def check(brief):
     errors = []
     if not isinstance(brief, dict) or not isinstance(brief.get("stories"), list) or not brief["stories"]:
         return ["stories 배열이 비어 있거나 없습니다."]
-    text_fields = ("headline", "summary", "why_it_matters", "question")
+    text_fields = ("headline", "summary", "background", "why_it_matters", "question")
     for n, story in enumerate(brief["stories"]):
         if story.get("region") not in ("국내", "해외"):
             errors.append(f"stories[{n}].region 은 국내/해외 중 하나")
