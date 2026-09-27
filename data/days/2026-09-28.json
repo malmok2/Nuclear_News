@@ -1,0 +1,531 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-27T22:24:37+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대미투자 손익계산서…핵잠·원전·조선 실익은 어디까지",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSWHdwMUlGNnJJdEFKdW9aWi1QRzQ2TXVzX0tDLU02VUM3c01sQzcybEM0Tk9SV0E3Rm0yTElXUFRlWUxRTHNmQV9ybHlabU5WcFpNRw?oc=5",
+          "published": "2026-09-27T04:57:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대미투자 손익계산서…핵잠·원전·조선 실익은 어디까지",
+          "publisher": "supple.kr",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4teGYzNVI4Vm9wQkRiRU1TbnNvYk14ZHlTbXRNYm9ETkdMbndvMW9CUjlxZmZob0pYWnFhck9nS2pJbEdfd1RNN25aZ0QtdTloUlF3ZXRLNXllcFk5?oc=5",
+          "published": "2026-09-27T04:57:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대미투자 손익계산서…핵잠·원전·조선 실익은 어디까지",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HRGpDal9lX1ZnSkdfS015aWdKbkNrQzVwSG00Nms1a1BweFZ3R1ZwTy1hZHB6TGZ6MGNMaUp1bjc2c0d6aWl1LUttMEhPdVU?oc=5",
+          "published": "2026-09-27T04:58:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.273,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bechtel-Westinghouse Consortium Advances Poland's First Nuclear Power Plant",
+          "publisher": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclNlZ2QwUXYyVGE4TkZTZ3NxWmVBM1d6WG5rNVlaZHdhSnNoTHh5MjMyc3RpSVBOUDkyU3QyZ19aeEJ2bmFkQUszT19xenpKb1ROZ2FUUkFabGJtUGIxNlNIZG1fWWJ3cnBJZ1p4Q0pwTmx4NWVUd21KTy1mYWljV0JFNV9Ka2wtMDl0Y1FkUVhDYkRNaW1mRGNSRHdzOU41c3BoWElGSQ?oc=5",
+          "published": "2026-09-27T10:50:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Powering Poland: Bechtel And Westinghouse's Nuclear Drive",
+          "publisher": "constructiondigital.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWpIWUdhOWZmdkVQNjhuaDNYTU9pV2lXdE1ucWJ0UnpHNFUzbDlqRHU5WmtZRG1vSWpxbTltajFseHQtMzVzNUFkaVIzS1VmdVc4U2lWTFQ4clJrRmVfb3Q1czdpWFozTnBPNGRCSUFFY2lrdzN2UVZIWk1zOTBJMkhBOGVKMGJKMkhaWVZWNVBXSW5lOERB?oc=5",
+          "published": "2026-09-27T13:40:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.636,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "새울원자력본부, 어르신 ‘활력 충전 푸드트럭’ ‘인기’",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iRTlyd1hjTm5mYzJLM0tYdkhmbEtNUFdsQVlMMHZFdjhrRThBckdpT3NRRkhQZGtoSjlPLVZod0lRNGQ2a0g5WFBnNHRvYjVmdjI2bXlPWmdYaDRmdF9sUnFNVWw2UFHSAWtBVV95cUxQenp5UmpPWnVWOWV3c2pBaXBQeUZKUUpsTEtEamFhQTFZeXRBQ2NIQ2Y4MG5COGF6TkprMXZqbl9vYlBueDBJSmxOM3FkenJoN2VMdEgtTWNCTmlfLWc1aXd5cmVYX2QzM0ZiSQ?oc=5",
+          "published": "2026-09-27T07:03:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "새울원자력본부, 어르신 ‘활력 충전 푸드트럭’ ‘인기’",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6enlSak9adVY5ZXdzakFpcFB5RkpRSmxMS0RqYWFBMVl5dEFDY0hDZjgwbkI4YXpOSmsxdmpuX29iUG54MElKbE4zcWR6cmg3ZUx0SC1NY0JOaV8tZzVpd3lyZVhfZDMzRmJJ0gFrQVVfeXFMUHp6eVJqT1p1Vjlld3NqQWlwUHlGSlFKbExLRGphYUExWXl0QUNjSENmODBuQjhhek5KazF2am5fb2JQbngwSUpsTjNxZHpyaDdlTHRILU1jQk5pXy1nNWl3eXJlWF9kMzNGYkk?oc=5",
+          "published": "2026-09-27T09:53:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.478,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Flood risks: The other danger in nuclear power siting",
+          "publisher": "mb.com.ph",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkxab3N6VVVQNWNlWUxWb1ViZHZWS2R4WUxVU2doNWFVaW5YOWplQS1uanJQejFHVlFJRmU5S0JiS0pEQ1RXdlJEMDVOZnRCSlFsMjRQODZjWURDTWEybHNGbEUxcVhPS1Ztc3RHekFOS01DeC1OaTJrd2YtT0lYMW9HTzdxU0I0?oc=5",
+          "published": "2026-09-27T22:18:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.996,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미군 기지가 ‘에너지 요새’로 바뀐다…원전·가스·배터리 11개 기지로 확장",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nNXhrYmE3bEd5SkJqb2lPWDZwUk1EeE9yOTc2WjB6VFdDOWRqM05IQW5YQ0d1dEpjRHJnOFBxV3ViMTFDTkxLenA0N014dkpzR2FibUZrckt0UE51SUpGQXlfSFg?oc=5",
+          "published": "2026-09-27T22:16:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.995,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵물질 운송도 ‘실시간 감시’ 시대…美 ARG-US, 원전 안전의 눈 된다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QOEF4TDd5OXh6UkplZG4yRE5Ud0xQR0U1LUVOVUF4NkFVLTJkVVJFY0FHNXI1Ml9USUN3Tk15RTlUV0QxMXVTWkNGdzNCMlJjUzdaUXFPYUdoVk1XWFo1R1hNbXQ?oc=5",
+          "published": "2026-09-27T21:56:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.981,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[1년후지금] ‘신규 원전 현실성 없다’던 대통령…1년 뒤 정부는 추가 원전까지 꺼냈다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DLWxETHZ4QjV4UDNjTFFSMjB1Q3JXYXpnNkxjZGZZVzFSeHJVd3VNM0tFZHQ2WTRaVThLR1FqdTJ5a0RiZGUzNVp0OFFKemRmTU9Gb1g1UGZVdjNGQkh0ekZiVEc?oc=5",
+          "published": "2026-09-27T21:41:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.97,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "롤스로이스 SMR, 스코다JS와 핵심 제어계통 계약…유럽 공급망 구체화, 두산에너빌리티 한전기술은?",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jLXlVRHRQOVhDcTVNM0pNazdoU3pNYVNrV3M3REhyYkx4Y1Ftb1ZobmM5djhheTl6ODRTX3lmc2t5VW9CT2VLNTBxWXIxZ3p6bDFVenRkN1ZSZE9CVWxxenJ4WjN5dW80?oc=5",
+          "published": "2026-09-27T21:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.966,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“AI 데이터센터는 안전한가? …보안은 원전처럼 지켜야 한다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Hc3dzMmo1Ui1MYkVtQmRIcDRQdDhzQ2E3UGJuNUszMWdJTzh5cU5mdVZIVlp0d3RnSDdVaHAyOTFadkVQWHhTd3lQSmNmNF9BSlpuU0tEeWRkM0Z2aUNNaVZUYms?oc=5",
+          "published": "2026-09-27T21:08:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.947,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "건설업계 채용도 ‘탈주택’…데이터센터·원전 인재 확보 나선다",
+          "publisher": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rNG1lNEJwNmg2eXNoR0ZrT2R5U1EtTW9OZ2I3MXlmU2E3RXdaSVBOU2NZeW1CVWU4UThFb2FMQWd0ZkhrVElUczZmTmpYaTE2NFZkem4wcENDYlY4blROUjJUYw?oc=5",
+          "published": "2026-09-27T21:04:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.944,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh Rooppur nuclear fuel transport disrupted as Pakistan withholds airspace clearance",
+          "publisher": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMDNDQVg0NWVOekJ2Mzg5eWJJZE9YMDQ4dVhaTWtCLUZ6SXh3dnhDWUxEeklaS2pGTldkcS1aeDd0YVk1UkgxVWszUF9QYmVoZlRPdF9wTGpkMWcxOEY3TzFJLVNqSU01V3JwTzRRWlB5WGR2eFVVWVlTSjBGd2d5S3pvVTh0ekVXOUE5ek9VTldYMEFwTF8weExEWnJlcVJET2hzaU9RMzJKVE9OSTktRzR6V0hPUmt3aV9sZ0RGblVSNE5nQWRWbmJCZFI0UTdSU0hFdEh4VFZjenZFRXphWkk1OG9ObGRyMmlmMTdn0gHuAUFVX3lxTFAwM0NBWDQ1ZU56QnYzODl5YklkT1gwNDh1WFpNa0ItRnpJeHd2eENZTER6SVpLakZOV2RxLVp4N3RhWTVSSDFVazNQX1BiZWhmVE90X3BMamQxZzE4RjdPMUktU2pJTTVXcnBPNFFaUHlYZHZ4VVVZWVNKMEZ3Z3lLem9VOHR6RVc5QTl6T1VOV1gwQXBMXzB4TERacmVxUkRPaHNpT1EzMkpUT05JOS1HNHpXSE9Sa3dpX2xnREZuVVI0TmdBZFZuYkJkUjRRN1JTSEV0SHhUVmN6dkVFemFaSTU4b05sZHIyaWYxN2c?oc=5",
+          "published": "2026-09-27T19:42:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.887,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur nuclear plant to supply 300MW to national grid next month: Russian Envoy",
+          "publisher": "dailyasianage.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdEVFemJUX1VXdWJCVGw5QThKXzlqellTdEYwMGVQeXpQVE5nMzhfV3Q1YllPQVJzNVk1U1lnem1GRVdmamJCVi1BRnRmUkZWbjA2bUh4VVlXWnVadno2VGE5dVBjcmo3VTFpeW5UZm5pd2RyTEVETUZMbDlnS0lUbVdqRm12dEtZQkxFaUVjSlktME9EeElGS01saXpsZ19sQ3lhNU1nYW9aVGpOd2NVMnNLeVMyUWNob2RV?oc=5",
+          "published": "2026-09-27T18:34:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.84,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Advanced nuclear power plant could be coming to Aberdeen Proving Ground in Maryland",
+          "publisher": "WMAR 2 News Baltimore",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0dZOTY3M1NiQzJBajhnMFE1SFAwbjNaVnlDdlNNd05udUdhNHZPbHlVNTZKMWFkZ2lzZXYzZHAyQzhWeDYtNEpHNDIycERUazFJLVFFaDhhckZwQXd6TlZBaEZqQzhnbDF6a2Vib3BCR19pYTJfNUFSQlhfTXN3M3ROalB6Q3Y2UmFvNFB5SlNOU1h5a1NJSkl3eXVtQlNYN0RnMEZPV1pyOVlXX043ZzV1cHJqTHhVUDNnb0w1akFza3I0bVFCRTVzaHRLOHR1N3c?oc=5",
+          "published": "2026-09-27T18:08:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.822,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Buried under an Indiana campus, a 10-microwave reactor from the early sixties became the only US nuclear plant with fully digital controls, and engineers adjusted its power from hundreds of miles away",
+          "publisher": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRd0N5VUxuNnZRdllpS0hHcG5zZXhhWTNrbFcySmhRRW5JZzZiRWlQbXhBTWQ3ZDJIck5UVmVVVE1sNlc4QU1FbEI1WHJTS3NwczlPWWxhLVY4c2F1cENONHN6T3lBRUc5Y1RZZ3U4bVAxT3dFRjNmcjI2V0M?oc=5",
+          "published": "2026-09-27T17:50:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.809,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Can the SpaceX playbook work for nuclear power?",
+          "publisher": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1NpZXNqbUVFZ0txVEJldE84eXB4dF80dHVvTWItb1FISkp1YmE4dm15ZWk3TTczaXU2RkRqV19ic3RHN2xpYjNmN1RSUjVFTldHYUJKeV9PZDF3RUgzN1JXdFAxa0phZGoxNzAwOTVQcGJMd1ppd1QtMXoyTFR1RTA2X1hiajlkNVFSM3NGRjFwdi1sSDNXcmpSRVM1X1FXUUFmbW9WWXNLZzA?oc=5",
+          "published": "2026-09-27T17:24:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.791,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "SMR 특별법 시행에도 원전주 소폭 하락 마감…두산에너빌리티·한전기술·우리기술 흐름 주목",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUGFYQmxaNFVXTUQ4QVZDeW1yQXgwUlEtMmpzMHNHUHhvZnJBcW5fLXdJREk3ODNGSEwtbUZUakp0bU1BNXhkajlpSTQ0UERlNkJ4TWxxdU1wMHN6TTJ1TkpkRnBvUUp0?oc=5",
+          "published": "2026-09-27T16:53:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.77,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A nuclear plant's reactor building left Vermont as 28,000 cubic yards of radioactive concrete bound for a Texas disposal site, and the hole gets filled with 28,000 cubic yards of clean crushed rock from a local quarry, 45 years ahead of the original schedule",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUHM1VTFjMnc2M1FqbkNTVGtJQ3BjQ1BkOWNVRmRieVJGRmV5TTk4MlhNakwwYXVTUFRkd0VRdjlzMmZqajhUdzh6M2swcjRlSEdqUFppc3FGRXFuVGxOM184QTF4dFhDeXhSWUVfZw?oc=5",
+          "published": "2026-09-27T16:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.754,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Uranium discovered in the Philippines: Researchers use two-stage process to concentrate uranium, what's next",
+          "publisher": "Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNy1tclhmZEVYX0dMOENiZ21LZWVxQVZpd3BNaThWbnNnanFObnZYTFNqMlU0bnc4ajk3WUFrNnJWYXh2NWlkNHJSZE10b2ppQzF3aHFLN2FOeTJPVjVhWFBSQUFieGtYSlFNVVhHTERzNEMxbnZMXzVib1lkM3hJWno4a2tReHdIMzZPUGF2cXRDWmNrWnJPMlN5ekpIWnJVTW1KYS1VNDFyRGRMeXNpeTRxdFEzOGFKZ0psM3V1UGNiNGVjRmZJX1Q2b0VKQ3RxcHpkNGZfMDZYWWxrYjdfWUxWclJ2dTNzbWxmaDBaMzh1TnRzOTNBOXFnRnbSAfwBQVVfeXFMUDctbXJYZmRFWF9HTDhDYmdtS2VlcUFWaXdwTWk4Vm5zZ2pxTm52WExTajJVNG53OGo5N1lBazZyVmF4djVpZDRyUmRNdG9qaUMxd2hxSzdhTnkyT1Y1YVhQUkFBYnhrWEpRTVVYR0xEczRDMW52TF81Ym9ZZDN4SVp6OGtrUXh3SDM2T1BhdnF0Q1pja1pyTzJTeXpKSFpyVU1tSmEtVTQxckRkTHlzaXk0cXRRMzhhSmdKbDN1dVBjYjRlY0ZmSV9UNm9FSkN0cXB6ZDRmXzA2WFlsa2I3X1lMVnJSdnUzc21sZmgwWjM4dU50czkzQTlxZ0Z2?oc=5",
+          "published": "2026-09-27T16:05:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.737,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Vermont Yankee decommissioning is nearly complete",
+          "publisher": "Greenfield Recorder",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1ZOLWVHWm8ydS1LTmkzWDFpT0N2U01DdlZBT0FlUkFGSldEc2hzODI0c1Q0S0JFOTFlZ3ppZHpOby1rWUV3Q2U3TWU1ZXBScjZtdkRnOE5rLXNDZmpKRm1fVHNOdWtEZ2VIbjB3YnJaSm9XOFQ2WENLSHIyQ3VwanI2R25pV2tWa2c?oc=5",
+          "published": "2026-09-27T16:05:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.736,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산에너빌리티, 새주 첫 장서 반등할까…미국 원전 관련주 엇갈려",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iU3FPdmRCei1LUkNLbjNyR2pyZV8zd2hubTlrdG5ZaWJWQzIwWnJqYmJWYlBpUE5FNmF3WW41STJKMzNXZUNpTVBFOTV3VmNLN3VMandMQkhOejVjQU1JZ1JidGtoSWQy?oc=5",
+          "published": "2026-09-27T15:20:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.705,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[세계미래보고서 2027~2037, 2035년 전력망의 주인은 누구인가… 천연가스·SMR·핵융합·재생에너지 장기저장 '격돌'] 기저 전력 싸움의 축을 뒤흔드는 기술도 있다. 바로 풍력·태양광 같은 재생에너지와 장기 저장 배터리의 조합이다.",
+          "publisher": "AI넷",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5maG1iTWJlTXh5c3RFLVczX05QXzBVLWUybmpXVU4wV1BzdE9rMVZzUzM2dTI4Y3NucGhEX1JzbmE?oc=5",
+          "published": "2026-09-27T15:04:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.694,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rolls-Royce nuclear reactor fleet locks in critical safety hardware for 470 MW units",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0FHeXhSN05jcEE5dGM5VTZrRnd3WUc1LUw3M2xiTXVtWlMxaWJYZXk0X2N2VjF0NGxTenlMTkJDVVBaU0M1aGFLYlgyemNZTkVVU3FTTTBBTklSS1NadXVmR3VHNVNHRWIzTlVNRlVid0Y0UE01UGVGTnQ0WG10SXhNY3RaencxcHZWaA?oc=5",
+          "published": "2026-09-27T13:42:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.637,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Sustainable Nuclear Power in Italy: Franco Cotana on Costs, Safety and New Reactors",
+          "publisher": "italiareportusa.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWZmaUc1WHpoNkxBUExhMHJnbDBVb0lxRGN1TGx5dlNUVC1Ra2J5c0E4MFpodnZ6NTVMeEVjQzNzZmVZSmRFU0ItVXZGejB5Z0h1UWs2YTJvSWRpYXpsMk5MMHZDX21OSW94ZmpCTWJOSkFDWVNyZkhQQlhrT21sSWQ5Zkg0Z0RPS0l2SGZ0Rk9WNEZaZU1XbUpINmgyT2FhRDNIR2dsWDl5bjdjWFlVVkdvZWxDcGtTSGhheGowZ1dKSW_SAcMBQVVfeXFMTXlmZmlHNVh6aDZMQVBMYTByZ2wwVW9JcURjdUxseXZTVFQtUWtieXNBODBaaHZ2ejU1THhFY0Mzc2ZlWUpkRVNCLVV2RnoweWdIdVFrNmEyb0lkaWF6bDJOTDB2Q19tTklveGZqQk1iTkpBQ1lTcmZIUEJYa09tbElkOWZINGdET0tJdkhmdEZPVjRGWmVNV21KSDZoMk9hYUQzSEdnbFg5eW43Y1hZVVZHb2VsQ3BrU0hoYXhqMGdXSklv?oc=5",
+          "published": "2026-09-27T13:15:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.619,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "40년 탈원전 끝낸 이탈리아…“원전으로 돌아간다”",
+          "publisher": "ainews1.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkZnVLdGhYOXBiaWhYSzNOWkRxakQ2UmcyY0VpVmdDeDAyeDktMENKZGxLS3ZET2ozV0ZQYWUzVld3eTVtZ2I0bTgwbzZ5ZTFSZTJMZkp2c0tTdTZLaXZ6dVlRem51MmtGYzVv?oc=5",
+          "published": "2026-09-27T12:30:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.588,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Vermont’s nuclear watchdog has gone quiet",
+          "publisher": "Halston Media Group",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3dXbno4MXJsc29RY2JYMDBNTUFQLUYzZVRnOVpjM0dPYTIyTlJnbFZnZVdiSFNpOUdtdFlveFlaWXpremNxcUQwbWs1U3BIczVYV215NENDSHNkRTk0NnBpQlp5MFJ2M25rSWdva0dfS2xqRngyQXZxekpwMmZmRlRwZ255MHAzUkU5bWNyQnZWZjdXaWlSUGZJTWN2TTZJRHNhMEJkRGxvdw?oc=5",
+          "published": "2026-09-27T12:32:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.588,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'첨단산업 전력수요 급증, 원전이 해답인가? 원전 경제성 분석 국회토론회' 29일 국회서 개최:동아경제신문 & daenews.co.kr",
+          "publisher": "daenews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42TzRWcW85VjI2ZEtZVzNIVzBsMC1oOFJBbFVPZ0Y0NGVzRUU0NDI3WFBONXVnUHN4Q1RyNnBJbkFBbHZPNlHSAWJBVV95cUxQU0JYM1kzNUowc3c0bGxlNlVqSWoxa1BsWGZ2aVRFeERyU3NpWVQ1aFlpblp2T0swTWswSnZnRmlvVlJfLTgwdFZvSUhzUkVsLVJxWG45by1fWHFuMVJkMTBodw?oc=5",
+          "published": "2026-09-27T12:13:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.575,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A New Chapter in India's Nuclear Journey",
+          "publisher": "PIB",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85cUxVNHlLY3lYZFliZENOb25QQ3I1cUktRUQyV284Nm5fZm8ySkl2UHprVHBzTVlKLXdzbWZEdWt5bjgybEloV29RR2VCMFBrNXRwVGFzejN1WjJGbjhYdFJkX1lCSF9CdlFXOGlFVHRpZUV6V21Z?oc=5",
+          "published": "2026-09-27T12:04:15+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.569,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리원자력본부, 장안읍 농산물 재배 농가에 전용 배송 상자 1만 개 지원",
+          "publisher": "영남신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NOVRVVlNXSHBSd3VUaHRBZmZsbGNFZDhLazAwQWxBNGZId21kWWFENnM4Y2NsYUQ3eWxwdkw0bHVXRzg4bG1fdklyZmduUFF6WVhmblNHcDFlV0RSQjkyZ00tMVA3OFlrN01XRl9B?oc=5",
+          "published": "2026-09-27T10:52:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.52,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리원자력본부, 추석맞이 지역상생·나눔 활동 펼쳐",
+          "publisher": "영남신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvSTl2YWxFVWRxeXlUdXNmN0hrOWlmNGl2ajFlOXdSU3BxZW5lUV9pWEt5MkV3YWVQN2VsMzVDanRVQUhCRmZpenEyc3pQTHlUOUM4VU90alMzN2R2NjBmUXh1QkI4Q3dmOXctV1Nn?oc=5",
+          "published": "2026-09-27T10:52:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.519,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Could Europe’s data centre boom trigger a nuclear power revival?",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzZpNHJoeVhUdnlRWU9Fc0NycmZvNjhXZzRuRGdybGRQS0QxZnY1cF9GbXl3NVhQYlJQTW9ZbHZVenZZaEVIalJ4WGVqaXlhbVZkcVppSzg5aEFoaXdyWlcxMlBlQk95NEJCazEtUkxTQnZ2b0JMQ3RIOEk5YWJ6MTlJVmF5OHZ3WUxTVnlDQQ?oc=5",
+          "published": "2026-09-27T10:29:58+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.504,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 55,
+      "kept": 35
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 13,
+      "kept": 2
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 34,
+      "kept": 24
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 48,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}
