@@ -36,7 +36,8 @@ NEWS_CSS = """
 .tag.region{border-color:color-mix(in srgb,var(--color-accent) 25%,transparent);background:var(--color-accent-soft)}
 .tag.key{background:var(--color-navy);border-color:var(--color-navy);color:#fff}
 :root[data-theme="dark"] .tag.key{background:var(--color-ink);border-color:var(--color-ink);color:var(--color-canvas)}
-.story h2{margin:.75rem 0 0;font-size:1.3125rem;line-height:1.45;font-weight:600;letter-spacing:-.015em;color:var(--color-ink);text-wrap:balance}
+.story h2{margin:.9rem 0 0;font-size:1.5rem;line-height:1.4;font-weight:700;letter-spacing:-.02em;color:var(--color-ink);text-wrap:balance}
+@media(min-width:768px){.story h2{font-size:1.75rem}}
 .story h3{display:flex;align-items:center;gap:.5rem;margin:1.6rem 0 .45rem;font-size:.875rem;letter-spacing:.02em;font-weight:700;color:var(--color-accent)}
 .story h3::before{content:"";flex:none;width:1rem;height:3px;background:var(--color-accent)}
 .story p{margin:0;font-size:.9375rem;line-height:1.9;color:var(--color-neutral-800)}
