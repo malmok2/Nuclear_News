@@ -1,0 +1,987 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-09-30T23:06:50+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "트럼프 \"韓, 텍사스 발전소·원전 8기·알래스카 LNG 투자\"[상보]",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40eTVpcGs3aktySDRfaDBPMWNyTXE5WmxCVUVZd3JjNW02SzE0Q0ZVZHhHcTFwVUhIdDBXazQzWHFEX1V4VnJRUnc0azgwY1k?oc=5",
+          "published": "2026-09-30T21:03:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보]트럼프, 韓 대미투자 발표 “텍사스 발전소, 원전, 알래스카 LNG에 2000억 달러”",
+          "publisher": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDQ3dzd1RwSlY0R2ZBbm1oQU9JVUcxRFNEcmN4R3lWQjhQdThrMS1nX2FqUEpYenZYOXhuSHg3SnZkazZydDc2dzdzdnZZeS1W?oc=5",
+          "published": "2026-09-30T21:14:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프 \"韓 대미투자 2000억불…발전소·원전8기·알래스카 LNG\"(종합)",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QLS1pd3NnVVA4WHRrdnJEUkh0VEJIQ3FoWlh0RVgtZmtUSFB4cG1MZ19rMVRoNkIxNUtobVdZVVR3SEtqNFlKeDdnbmxJek0?oc=5",
+          "published": "2026-09-30T21:47:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 韓 대미투자 발표…“텍사스발전ㆍ원전 8기ㆍ알래스카 LNG 투자”",
+          "publisher": "dnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZk5QUXdMZmpxeDQ4MVVvYjhDaHJVSkhpc0N1eEphc3hRMlYwU3lBZVhUaTZRNU41UkR0OWNncHFtbzc2c1V2T2RXakNLdWc4RmtjZ29VRno2eElLSkZOeEJuY3dhZXZ0VEtuVDBwd0xlUWlt?oc=5",
+          "published": "2026-09-30T21:49:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프 \"화력발전소·원전 8기·알래스카 LNG\" 한국 대미투자 일방 발표",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYenAtX2xxaW55TXc5VmVRRXdmQlJmN3gzY2dSa3BmVGt5dGRxby1XdTRZajZLdElzM1Y4UFczSEhYVF9KVTZ6WjBiX20wdWpicWZXRlpIUUZQTEJ6NEc4TFE4Ny1LUkpPV0FF?oc=5",
+          "published": "2026-09-30T22:50:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.989,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[속보] 트럼프 \"한국 대미투자…텍사스 가스발전·대형 원전 8기\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQM1IyWV9FZ0N2SzViMS1jR0d0NjZKOHc3QTA3ZWk2Y2hQdllQeFIwdDQwSjlZQlVIRUwzRHNubkhTaDdIMGhienNPQjVaZjFjUkFtSEFQVW01dzTSAWBBVV95cUxPUG5NTW93LVowakxXR3EwcHY5cjBQeEJHQTBTMUtEbndQbHZVTXdzMU1uZG44WWtrbHczbkpMV0dlQ3N1VGNyQnlnbEwzczdwYXowQUtJRGhZSUlEMmlSVnI?oc=5",
+          "published": "2026-09-30T20:32:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 트럼프 \"한국 대미투자…텍사스 가스발전·대형 원전 8기\"",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qeFBpQ1Bibk1Ub2tTdjlXX3FVN1Q2aW5RSHpSenRIZHZvdjBjWjNXSVd4OWZGSnM5d0tnS1lCbWtpWkxWbGMzaDRxUEJHNGgxNDBJOFVCVFVGdDdtZEo1VkhNUi1EbHM?oc=5",
+          "published": "2026-09-30T20:33:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 트럼프 \"한국 대미투자…텍사스 가스발전·대형 원전 8기\"",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXWXEyUW5TaGZzbHduX3Rlc2MybUlyTzYzTEZfaExnRzViNjd1RnVKaXBZbkVWMXZzejNxOTk1V094LTVmTUFSdWQzQVRIaVdzdVNOeUVLdnMxUQ?oc=5",
+          "published": "2026-09-30T20:33:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 트럼프 “한국 대미투자… 가스발전소·원전 8기·LNG”",
+          "publisher": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBV1c5Qmp5c0tLeGt0bzJiYnlOX3IybHpWeW1xQ3Itd09tT0VtMmF4M3BSQUpfWXotLUhSWUNEV09UamhPemhzMVZ1bEZuVkxWalFfd0djbUVYZnpCNm8wYUhaTDlESFFTRjFoMGxvZnEwZ25Wczl2N2Rn0gFsQVVfeXFMTWJPMkxPVUp6ZzByX1A0WnEyTXFKcnlOdUpLVC1XdG5EU2NTblZZZ1d4cGlpejFyanlvdmtnOXJBQzBROUxheEdLbE9TcDdfckVqRlRiNUhMd2l2Q3VMNEkwcmNNRU9uVUFOYjVl?oc=5",
+          "published": "2026-09-30T20:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프 “한국 대미투자… 가스발전소·원전 8기·LNG” 일방 발표",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vMWlwcGw5N0RWaHFEaF9LRDJCa1Fjem9OS0NwMEhqOHhMcWJPNUpHNm14SDdRa1d5OC1xU2hlQUtLWVFySmVlV1Q0YU9Zbjg?oc=5",
+          "published": "2026-09-30T20:41:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 트럼프 \"韓, 텍사스 가스발전·대형 원전 8기 투자\"",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GekdxbjgzYndDRG5HZm9FNWxlMGdWRUdYMWVoczZQdWZGdHZFZF9qaTJZbEtuTWJvN2RLN3Z4aEktdzJZcFlpbmZUZm1ZUTZVRFE2clZjMjRVcnhmWGhBeA?oc=5",
+          "published": "2026-09-30T20:42:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 트럼프 `한국 대미투자…텍사스 가스발전·대형 원전 8기, `알래스카 LNG 개발` 포함`",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tY0NCRzBqQ0lxVkQ4LUhWUU9VZGktcTMtS1RFM0plU3BFYTBEVjRNeWJzb01lRENOc3BLSkt6V3F4cXh1clBFaFJnaWpibTIydTNZaDFUQlZkMnZxNmpPMGxfZWM2QURfaVd5dUxkY2E2eWlq?oc=5",
+          "published": "2026-09-30T22:10:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.961,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 혁신제품 공공조달 ‘재정경제부 장관 표창’ 수상",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BbDU0amRrM1BSYndVM0ZPWDZISXNRaVdXOGJGQVpoSXlTSGhMdkF2bER1b1I2bVQ5cTZ2MzlDMFNTdEcwa0RGSDVQWjMxUjk3LUIzMFRxRUNQN0x4emk1akhBVUlQT2d1SVFNVW9VSV95QQ?oc=5",
+          "published": "2026-09-30T07:06:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 혁신제품 공공조달 기여로 경제부총리 표창 수상",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mTWdoX01ZZUx3M0Q2MkNLa2pscmpsWThyT3ZEMVg5clhTN0ZvYkxxcTBGQmw3N2tWa2kxUlVuUG1vNkY5cTVqM29zQVJOaDRDaF81djdRdkE4M2pKU2tJMjIzcGtGdFlFd1BoWHNtbw?oc=5",
+          "published": "2026-09-30T07:10:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 혁신제품 공공조달 유공 ‘재경부 장관 표창’ 수상",
+          "publisher": "미디어펜",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LejVoMVZwUGlCamZTYW1qQnBfcEdER1VvbGQ5bmNEMl83SUJfNlFRcnBlOE45OVlvVDdxZHg0em1ybDdHWVRESXpDelczM2haS2tZZnRmOTHSAVhBVV95cUxNS3o1aDFWcFBpQmpmU2FtakJwX3BHREdVb2xkOW5jRDJfN0lCXzZRUXJwZThOOTlZb1Q3cWR4NHptcmw3R1lUREl6Q3pXMzNoWktrWWZ0Zjkx?oc=5",
+          "published": "2026-09-30T07:45:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 혁신제품 공공조달 유공 재정경제부 장관 표창",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtNUlOVk9ITzdDVjlvNVEzRl9VQ0NOTGIybEtTVWRvbGtIVG5rcHAyUG5LSVo0N2laX1lfWFJBYnlpYXJNRDNXN19VUGlncUNJWnRPbmtpejNxQ09hNmlIUWZ4TVktVDZPLWJ1ZThmTUfSAXRBVV95cUxPZV9FV01fVFhpRE5fUFRrWERPSHBRcDdsZVliWXVyMVloVWp3SUdhd3BNSG5KVXF5VjktaWpvUUdJeDRHZ3dueFE0Z1l2eEZwX2ZJSkpfMmZLODdJeEZOU2tHRG5CX2l5Z2huT09STURsNGtsbw?oc=5",
+          "published": "2026-09-30T08:26:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 조달의 날 행사서 재정경제부 장관 표창 수상",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RVFZCT2ZtOUpUanhOUkhUTGh2M0pvVGpNdXQ2a3ktN3FWNXlZTmJOU1lGVDh5Qm1MT1hhR29OLW5NWXVuQVg5WWg2dnpXSE5NR0xtN0djVFl4X3RBMmlfUjMxcGdJa2vSAWtBVV95cUxOUXpEcnpwX3RuWkw4dnBzMVZKckMwY1Z4VWJhR0hvUE5SVWdidWdNXzlfaXZOMzcxN1ZKbVZsWUpqMm9SN2UyMmFhNm1TYXBsd3VKcHZnRlRsbmt2bVdsaVRtUlFfZGd4MmdVdw?oc=5",
+          "published": "2026-09-30T08:26:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 혁신제품 공공조달 유공 ‘재정경제부 장관 표창’",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zLXNvc1JpMXRTaVI0bEk1a3I5UE9oUXBabkw0MmFLeEU5VktTc0JWTnFBeUVQZ0N0M2pPcEtTSC1lX21jc2c?oc=5",
+          "published": "2026-09-30T08:36:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘혁신제품 공공조달’-‘재난극복·상생협력’ 유공 장관표창",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56Tk5xU2ZZd2ZGRjB2LTgta2h4VXRYS2dUR19pN20zYnhYRHdEUDFwcnFEa0F6eUxJUll2aWY1RzM0UzlHRE1QZjRDZGcyWUQxZ3B1RXdQMmM5UXMtRE84YkJ1cGdZRWtXM2RkYUZQdXFNTENTM3R6UklkQQ?oc=5",
+          "published": "2026-09-30T12:11:19+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 혁신제품 공공조달 유공 ‘재정경제부 장관 표창’ 수상",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mbjQwSDVVb0RscU1LYlRKT0xNTDJ6Z21idFZrWl9sQmRZZDM3dFJJSTRqb2tZVnZpZmVaN0xiU1RlVHVjcF9sZmdSYVhJRkxXWUNN?oc=5",
+          "published": "2026-09-30T21:37:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.938,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"백악관, 韓대미투자 발표에 '알래스카 LNG·원전 8기 포함' 확인\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52MjdzbmdxSk8wTDlTSFh1U0p6ZWN3OEs4MmV3WW1FT3lkUmV1T1pfY1FhLXljU3FkQmhrcXBLSVpXbDU4MEF5ai1lS21TQ2dsYTNoUzlWcUItdU3SAWBBVV95cUxNYnlUZjBaTDVNMjE5NEVjQnhYcFo2bFRqaEM1WG5TTEZjQmRjaGxYRXppREVfa3hYX0VlWUpLY0FWTGJIN3Y3UFlrWDRodmRmWlZkR2pnX2hBU005aUlCRUw?oc=5",
+          "published": "2026-09-30T16:50:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "\"백악관, 한국 대미투자 발표에 '알래스카 LNG·원전 8기 포함' 확인\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94S2xxV1pmX0s0RFRIT0Q2NjE5TDJEQ1hRYXloaUgwaWJLMi1ySWk2ZTlnMVBmQkpyZHNUaHdKMmoxajBJQzRzRkt1dVAtSHJTMlVQVzFOX1lSd0x2MTJoWERaWE5UTlNFTGRoeTVVUGtEY2oz0gF0QVVfeXFMT3hLbHFXWmZfSzREVEhPRDY2MTlMMkRDWFFheWhpSDBpYksyLXJJaTZlOWcxUGZCSnJkc1Rod0oyajFqMElDNHNGS3V1UC1IclMyVVBXMU5fWVJ3THYxMmhYRFpYTlROU0VMZGh5NVVQa0RjajM?oc=5",
+          "published": "2026-09-30T17:51:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 한국 대미투자 발표…'원전 8기·알래스카 LNG' 포함",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WeWI3VlNSc0RVMGtxYlZKWVI4QzNzNmpvNVlvX2NQdEJvOWwzc2daRzYwcHRlM0ZRQTNEMTFUaUpRUDBRNi1MdXZNcGszb1k?oc=5",
+          "published": "2026-09-30T20:33:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 트럼프, 한국 대미투자 발표...‘알래스카 LNG·원전 8기 포함’",
+          "publisher": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nekdTd2lNUEFQWXhIZHVaeHF5VnNRUjlvUmFqT2djdW5YOWRKU0pVZUFlcElfR3VtYlZIUWRBajBQUVVTbnJabDlVaGFKaWNkcDFLdQ?oc=5",
+          "published": "2026-09-30T20:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 한국 대미 투자 발표…“알래스카 LNG·원전 8기 등”",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEUUlKWGFIb3lJRW9UYVNfRWtidTBubm9RMDZoSlhXRTEzeDVHMVY0NmYxV09FUFlRLUxocG54Q3dxeHRwY0g2ZXRUbHBhNUU?oc=5",
+          "published": "2026-09-30T21:13:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대미투자 직접 발표…'알래스카 LNG·원전 8기' 포함",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEUl9uejZQQzVmd25VUUltNm11ZGw5WmhGUXhwRVRnV2hNcEljREFkYUNqdTZ1UTg5QlZWeEVVT2V4ZXl4djMySzBUVVZnbkk?oc=5",
+          "published": "2026-09-30T21:15:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 韓 대미투자 '알래스카 LNG·원전 8기' 일방 발표 [종합]",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwUVFadV91Yzh6dmVSVlZMbmhGVDFsRjVGR2JoZ01yUnF6LUdfbjVnNHV1ZFVYQlJHN3VwMFp0dWJrNHRsemxaeHRfdkc3UFFabk9mTmlzNFlWQQ?oc=5",
+          "published": "2026-09-30T21:15:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 韓 대미투자 발표…\"알래스카 LNG·원전 8기 포함\"",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16bl9meWF5bDdxMl9tLUg4QUVMNVFQWmlMYzhHMjQyaE1QWjlCZEJyNUZCMThGSVJKS3Bkbks0N2NPMlgxTm5FenBhaGRHams?oc=5",
+          "published": "2026-09-30T21:36:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.937,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Constellation and Amazon sign 20-year nuclear power deal in Maryland",
+          "publisher": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2c1MnppUlRFaFE4RnI0eExfYUpvSjN1V1dxS29vMkd6dU1qSXZWRnE3UU5SUXRURlNrbVFTMW9FREFDU2h0bmZOcVhTc1hibU1WaDhJUktyVkgtaTdhSldfUGVLWEZyMGdVWl80YjZxZEhoODdNRk9nTmVzc2YzMTdLVldrdWUweDVDVVBXS2NGNk9vbEVVVW5xQklsVUZ4YmVwMDctMkU0U1BRSEdIaUhVY1JsZ0xfRDVuVTVTN3RILXhuRnc?oc=5",
+          "published": "2026-09-30T20:03:20+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation Energy stock climbs on Amazon nuclear power deal",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXFXUmNxODhoNHVQUmtFeWdtRVMyLVluSUxJVWlWQ1o3bkUyZjYxWVRCVnNUSk5zZk01bHNMQXNDVEtJNmxkaGhENnZDZ3ZkVnptdHhPWlFaNUY1NUpCSm5nbUFfUV9mMXJsZ2g4dWFhRXFDTVVVZ09OTnJtdkROUHUwVGxfMURpMkNQbENmaGhaYmJ6MG9BWDhqQi1kV3BtUGMwUF9YTTJYZGpGMXdGQ1ZDYm45VnhuWXpz?oc=5",
+          "published": "2026-09-30T20:16:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation, Amazon sign power deal for nuclear plant expansion",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVVxNUliV2xEQjA5bUZYM1E2SWdqbnBaV3E1RE5Wd0JXM0JGbHhoYXJfWnAtdEtaR3NrX3hYenE2clpxcnZfVmxNQWRCallKcDRoRmo3RXE2Z29UbHJoZTZDSm9GUlAyRFVvYUhqLVZXMlRaQi1kTUJ6Z3g4Nk9RX3dkRk1lTHRBTTFBOVlpMUxaTVpYdmQ1VjF0anNvQlVXb3RkeHdFd2ZNbzBBeDg2NW40TlZremNSNTZPb1ZR?oc=5",
+          "published": "2026-09-30T20:18:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation Energy, Amazon Sign Long-Term Deal to Expand Maryland Nuclear Plant",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkNaQjMxUWFEZ29FT2VnaUJSQWVhUkVreUp2LXYybG9zYWJiYzFxQUgwNFJrVWdMTF9rQlNraUNvb21pczg0WlkwblNwNDdJUkNva0dNZmM2cGROYzBqdnBsWHp4bmVFTGlmUW1qanJZdlBjUHVCZW02N29rbXpiVE9zU0N3eEFVT3hlT1dxSTNONHdqMnFqM1lPTGxGQ281d3RKTTBxcndtZ19wSmNZTDBUU0FweGJnWVpTZzM3cmQ1UWJOYjZhdHkzM21WQQ?oc=5",
+          "published": "2026-09-30T20:31:20+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation, Amazon sign 20-yr nuclear power agreement (CEG:NASDAQ)",
+          "publisher": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3E5X3BRRjdqT3cwaWxldFRoMkJzaDBQNndnRERtbkh3UExxdE8yY2p2LWtkN0JOZ0RadlF0OHpSeE1kSmptWURIM19uZWhOTVZIRm04ZW00VHNWZEJkWFBNX3VUSEVjbFl0bFJnZU04enl6cXlQOU03TEF6RHdPRU9LbkRyUDJrTlZFU25XazI3TU5TTDhqYw?oc=5",
+          "published": "2026-09-30T21:10:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVU5PcUtRY2NNMDVUaWEtYkpwLVg3MXBBb0J4NUxSQXJhNDRzZzBQb3Z0SzBuaGZBVEJZWnhUalV2Q1BGMVJpVmdSbWxEQ3NOMlFaMjBvaHBwUUVIOFJfcGRHUE96Q3hodTVJU3ZlSUEyaS1YN2xubTNFTnNfNWRtemNfMkFySWpXS1hyOWd5SmdyVFFvTHRXd0FLS1VnYWI3b1VWWlF3LUpEWERERXdHOWtFWGFrTTBrVGFuQW5uMHNEREREbHptN1JPdzBSbHJYYjB3WHdWdEZZZlJfNFdOOXJ3?oc=5",
+          "published": "2026-09-30T21:12:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation and Amazon Sign 20-Year PPA for 190 MW of Nuclear Power at Calvert Cliffs",
+          "publisher": "TheEnergyMag",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORS1tR1hKbndpQkNzTzZOanBFeGF4M3dWMTc5Rlg1RmZnTG45dGpGWGh0WHIwV1pIMjhGY2JkZkxISTFxeWxUc2dneUJOajJTanhhSWMyVGgtT2dBemlVMG1TZmtfcEEyWDREci04MnhPSFVrOXZRSFc5bEluU3lNSWROTmRja2NEWkxseFZNN1NwRzdH?oc=5",
+          "published": "2026-09-30T21:14:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXZ3aTZxb1U3ZFZ1UmJER0NVelhZd2M2cGk1VGw1dHppMy04Y011a1NaT1JvSkJSUmVUZ0M4WHFzS0p0ODdna0RFZk9HY1MyelM4Smlfb1dGUnc2UkJuUzdLVHlMaS1Sb0VtMFQ2VVFzbnNDSVdTZk1XR0tKNkpaWEJIQXQyYXZYSmdJc3B1SDRfR3dxZGVjc2hyQVJSVjI2NEZHdUNzUnFpVHp4NFdtYVB4SEFaa1Q2cHNNNERqUnA2RTdHa0E?oc=5",
+          "published": "2026-09-30T21:24:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.929,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC approves first U.S. small modular reactor construction permit at Tennessee Valley Authority's Clinch River site",
+          "publisher": "news.lavx.hu",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbDJVaUlibXNCSEdOU3Y3QW12QzZrRTZDb1dHdzVFMFZLc3Z1WWx6MFE0eW4tRC1hQmlWakUyYVRQQnRjeHNpWkx5RV83cENBaXNqTXI4dGM5Sm1TYW54NmlwR2s2TkYySEt2cTNCLWxCUnJWMG1rX05JXzFHU3d0MUIzWkhkMHhRenlGQ1NlbWFCX0toYWZ1NEJHMTdkcFJqcTN6MkVKcDB0LU1ybXB4c01NTFhTNGRKQkNjdzdBcFJQZDNlRjlYeFU1V0NFRGI0QXNjamR6RDhfMEk?oc=5",
+          "published": "2026-09-30T09:06:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Tennessee Valley Authority granted construction permit for a small, next-generation nuclear reactor",
+          "publisher": "Just The News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM0w2SlJBVndZdEJrbU9kS2dOX280RDZkX0tUNE1JejNueVpFU0tBYWcxenJ2UldlTkoyekNHQ3JUNjNaQlphcFM0NVRNNndMVnU1am9fS2FzWWRRNnJXY2l2VTNfRUxfNTJSUnNDTFZWRDdjTEtFYlRyQUJNc0NYWE8tRVQ0UUJMTkhTU21sRmIyd2hIajBCdWMxNGJaa2IzY3NROXVRQURsd2UwQlJyYjI2RVpoQWFXMUFYSzBRUkU?oc=5",
+          "published": "2026-09-30T13:23:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NRC Approves U.S.'s First Small Modular Nuclear Reactor",
+          "publisher": "MacIver Institute",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlV2Z3BXeXE1R2JOa2x6a29VRGhHNldpanJvcVkxZExUVGt1a29OQThIMFdkM3dQME9EMUktNTVlNG80eFRhalFjbmxEeEs3TlBsV3dfX1BpNl9kdVFJZ21OZlBxUThXeVd5MWw5YWFxUHRib0JfQkx5TVA3VGtwbEp3TGxiOW0yWVg2N0VmT2ppQmRk?oc=5",
+          "published": "2026-09-30T16:54:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "TVA Wins First US Permit to Build GE-Hitachi Small Modular Reactor in Tennessee",
+          "publisher": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zem5HM3RZd3FIY1lhSmg5VE42RUszUG1HLVJrSTJUNktPQ1JQMWRnbkVFMy1LZ1hmQmdWejFsazhWLVlValQxU0VXYy0welJSMm5fN1FXNHNMVVpIMFBpbVJZU0ItMFg1YzNWcUlZa1FmNE5DdkE?oc=5",
+          "published": "2026-09-30T18:19:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NRC Approves Construction of Nation’s First Small Modular Reactor",
+          "publisher": "SightLine | U308",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd0F5SGdfUndkVTVxWE54YzlsV0hVbFNBQWRyTlRoNXl2SWVzQ0lqa2NBOUVxallvdW9tNjd1Sk1BeWV0a0YwTlVQTmswS3Y3X0NqOEs2SENIbWw1OUoza3hNUDViOFpOcFlJWG9ZNXhaNl9ONGNRd3dSTWNjT1BUVm1UVXNHTUk5T0tsOVI2WXNFVW00cEdndnB3Sm9MVFBD?oc=5",
+          "published": "2026-09-30T21:19:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.925,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 도시·지역혁신대상 국토부장관상 수상",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DbkFCNnJiR2JqRFhXdUFLR0FRWEowU182UjY5d01YdEpSQTBWTHJrS21haDdkeE1RVWg0UV9zVVlDcVc4cXVfNlVmQ3dFRHZiLWw1OFNKY1R0cGZKdlhjUTFOYUdOZWJMaFpmbEloWkRxRFduMFZF0gF3QVVfeXFMTkNuQUI2cmJHYmpEWFd1QUtHQVFYSjBTXzZSNjl3TVh0SlJBMFZMcmtLbWFoN2R4TVFVaDRRX3NVWUNxVzhxdV82VWZDd0VEdmItbDU4U0pjVHRwZkp2WGNRMU5hR05lYkxoWmZsSWhaRHFEV24wVkU?oc=5",
+          "published": "2026-09-30T07:51:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 도시·지역혁신대상 국토부장관상 수상",
+          "publisher": "데일리대구경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MeU5YcHpTVi0yT2FLNFNORlEwX0Zoam50d194QThIRlBJeDR5QXNFTU5CLTdIQlJ3RENHMTNJaHAtSld2UldUUE1QeDRwWHBjMXM3S0xQRVpoaW5IcHhuc3llRXdGS1Rw?oc=5",
+          "published": "2026-09-30T07:59:37+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 도시·지역혁신대상 국토부장관상 수상",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPRmhPcmlTTFcwZk5TWWwtUG83elcybUFRLTE0bDhMOFZrQ1dKX1U3c2VQSUJITC00VUdvNHVRTjYwSm54dVlRcEU2dmMxeXVRTHJUTXpldlhncXZUQlVPTGRaUUlZc2FTYVFMV3haYktaUUc2YjFHVmhCajVDanFSNjdxdHJIMkJENzUwZ0t0cVVCOWp2ZFRTRUhUUmd0S2QzRjRQYl96RUtyU2J6YWFBQnFoaldvRm1BelBXaG93eENtaHUtRWU5Q2hndVVEM3I2ZW5xUE1MVk1sVkp1Rldtdk1oby1hZThtVUh5dmIwV2JnLUUyMVZqUHlGUUN2SHVEVTN3OVk3WmpQbW9WVnZWOXk4Z3FTZWg4TjN3QlhCaGlOYVhQTkJNSGhsQ2Y?oc=5",
+          "published": "2026-09-30T08:08:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 도시·지역혁신대상 국토부 장관상 수상",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oMFI5eVVQZko0amdtWGs1WWpDdm9LaXZSb1V0ckdpaHViNGNnSTlQY0dtamZXdzV0MzZheWs3LWZjVHFBSGFZaWNhRHVYTzNLOUIxczBuNzhHV19yQVZiMUIwZGRxN2dPR0Z3NFZ6MjdBU0530gF0QVVfeXFMTWgwUjl5VVBmSjRqZ21YazVZakN2b0tpdlJvVXRyR2lodWI0Y2dJOVBjR21qZld3NXQzNmF5azctZmNUcUFIYVlpY2FEdVhPM0s5QjFzMG43OEdXX3JBVmIxQjBkZHE3Z09HRnc0VnoyN0FTTnc?oc=5",
+          "published": "2026-09-30T09:55:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 도시·지역혁신대상 국토부장관상…영덕 재난 극복 협력 인정",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tVGpJSjNwd012SDNVa3RaRm1nR3diRXlCdVYtVlVtU0pZcWpvbUZSQ0h1bU85S0xfODdKbnhwRTI4MUhFLTUwSjA3VzdaS1JTMkpMNzVqOE15bEdxaE9rLW9hWUZCM05vNzNF0gFrQVVfeXFMTW1UaklKM3B3TXZIM1VrdFpGbWdHd2JFeUJ1Vi1WVW1TSllxam9tRlJDSHVtTzlLTF84N0pueHBFMjgxSEUtNTBKMDdXN1pLUlMySkw3NWo4TXlsR3FoT2stb2FZRkIzTm83M0U?oc=5",
+          "published": "2026-09-30T17:45:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.777,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Saskatchewan firms up nuclear power ambitions",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/saskatchewan-firms-up-nuclear-power-ambitions",
+          "published": "2026-09-30T14:59:31+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Saskatchewan firms up nuclear power ambitions",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHNCanJKMlNlNUZwX1YzQVVjOHhORndwUC0zY3BjYUVZa2w4WE1NdDNXRHEzaW5WY2JmV2NDdE11ZVVvbUxXdkY5N3FTOWhPWnlPZzAtNnplazFCdDJJMnRJYUNpeDNCT3VGVnV0WGM4MG11Rlh5VkUyMzN4VzBBM0dNZHRoeEY5ek12Z0N2X2Rwb28?oc=5",
+          "published": "2026-09-30T13:30:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.662,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "트럼프, 한국 대미투자에 알래스카 LNG·원전 포함 강행",
+          "publisher": "데일리굿뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zcmZ5MVozd0ljdEx3OWtQQTJmb3ptd25ZYXduRmdaTHFIUkZSa1lQWWFsUkRoVW5vZUk1RHlZLXJ3MzR4ZVUwQ1JkdHp6V2lZUGlVT3lsZXV0TWlocmhEX1ZEZjI5dWVrRzNualkteFbSAXBBVV95cUxOM3JmeTFaM3dJY3RMdzlrUEEyZm96bXduWWF3bkZnWkxxSFJGUmtZUFlhbFJEaFVub2VJNUR5WS1ydzM0eGVVMENSZHR6eldpWVBpVU95bGV1dE1paHJoRF9WRGYyOXVla0czbmpZLXhW?oc=5",
+          "published": "2026-09-30T21:05:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 한국 대미 투자 일방 발표…“알래스카 LNG·원전 8기 등”",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vUkhmVzBVdGI0aVI4bWdPZ3NvUmdpQk92MjgtOU5NS0Vvel9KZXVaM3YwbTJJNV9uZlpvVjlVZXF5MVpwUVVNclRGWDRfZzQ?oc=5",
+          "published": "2026-09-30T22:09:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프 “한국, 2천억달러 대미 투자…원전·알래스카 LNG 포함”",
+          "publisher": "SPN 서울평양뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WNnhTU29SNkNSVUhPRkVVaDRFS0dFMWxhOUdvNFE1OC1kWG5KZ01oelBqcWkyZDMxTDNkODJIdVR4cXEya3pfWExfRkhhaHMzUDFxS3E5b3hjcGZ2WHhpSDF2Y1I4OURxR0Nn?oc=5",
+          "published": "2026-09-30T22:47:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.987,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "트럼프, 韓 알래스카 LNG 투자 일방 발표…원전 8기도 포함",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZZVpDdmR3XzdHM0djbHNuVWIxZEdyRjd4ampVbW1fM0liQXg2QnhNRVp3R3RPQWlqalpDMlF2M3Vwdzl0Rks1Y2V0ZEl1Ukk?oc=5",
+          "published": "2026-09-30T21:20:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 韓 271조 투자 ‘일방 발표’…원전 8기·알래스카 LNG 못박아",
+          "publisher": "주간조선",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxNmdmYkRPd0VjUW5vc2lQY3hHSFp2bTJENDh3Njg1Q3ZXbUVGM3ZwR2JMb0hORVdOeW9WUGszblp5ZDR1RTAyQjI5bU1OcGV2cnh5N09XNjRKTENvQ2xYZXJJWHU0aHl6YmfSAW5BVV95cUxPWjlzR2ZFZWxDTDRhQkkxLXVuS0d3bTBJSURZZXE0S0NzNHNyRkhWWG1wN0tCNXp5eTZMY2FIRFFxN0RYN3dyc2lvRURHSG42UmhqR0dnMm5qUF9ZdmVWcDQ2SEdaRHBoWnRuQlVBQQ?oc=5",
+          "published": "2026-09-30T22:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프가 일방 발표한 韓 대미투자…원전 8기·알래스카 LNG까지",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55ZnV4dklBZnZLX1M4bEpLWTNibXRQTXgwTzNGRGdUcExiY2hPQlp1dS1YeTN4SmFFYkNEVkpEdEdybW1rRUM4Z2k0M3VVRDg?oc=5",
+          "published": "2026-09-30T22:40:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.981,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[종합] 트럼프 \"한국, 美 에너지 인프라에 2000억달러…원전 8기·알래스카 LNG 투자\"",
+          "publisher": "newspim.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pc1lndFVhZE9YRGY2S3B2VXJDSVJCZ09GT19HUnhJS0Z1MVZQdml4NGttWFFIbTZFNWlkVndScUZxNFdPb3QzUm41TGJMX2RPSTZ5bE1TTVEtWWVD?oc=5",
+          "published": "2026-09-30T21:32:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 한국 2000억 달러 대미 투자 발표…‘원전 8기·알래스카 LNG 투자’ 포함",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hWXk0bDJBcXZGXzZUN1RZZnlMU0Fsb1dFS3Uza1U1TGwweXR4aG1JN3pGeWNzZ2NTb1hjZGprcmJIUW0wN1lPT0szVGZXVGc?oc=5",
+          "published": "2026-09-30T21:45:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프 \"韓, 美에너지에 2000억달러 투자\"…원전·알래스카 LNG 포함(종합)",
+          "publisher": "edaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVpka2J2eU8wRG1nS0VaRDh0Y2EzZWNrR1VIS2V4OERvYngwNWM3cEZiQWNSZ2M1R0YxemQ5SmlJNHAyN1NlNTJ2Ty1xWkh5UmN5bWwzMF9rU1lIa3RqaDNvN09MeF9XRUtIUGtrV0gxMXNIZU8zQ1YtYVlKSHg3NA?oc=5",
+          "published": "2026-09-30T22:21:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.969,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "정부, 대미투자 1호 '텍사스 가스발전' 확정…원전 8기 추진·알래스카 LNG 검토",
+          "publisher": "newspim.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yN2JIT040VnBlMEtJTUpUdUtSTndEX3B1SzZub2M2SmV0VFg4amtNNUFOZW1xeUI0SlM2X29Hb3k1RjRlelZPRXc5MGNoTzhjNUtOTjZMSER2dnVY?oc=5",
+          "published": "2026-09-30T21:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정부 \"대미투자 1호는 223억불 텍사스 발전소…원전 8기·알래스카LNG 추가 검토\"",
+          "publisher": "news1.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zTmsyS2tmMFF5cVA3UXNySXI1WEtpakw2Nk5pQzJkWWx3TmNsVkxwTXFiZzZub3haOFZMSk44Y1phb3U2LWhQMEdVS1RJeFZyUUZobVFyc0lKR3BEZ0tqTkNReDnSAWRBVV95cUxPc05rMktrZjBReXFQN1FzcklyNVhLaWpMNjZOaUMyZFlsd05jbFZMcE1xYmc2bm94WjhWTEpOOGNaYW91Ni1oUDBHVUtUSXhWclFGaG1RcnNJSkdwRGdLak5DUXg5?oc=5",
+          "published": "2026-09-30T21:34:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정부 \"대미투자 1호는 223억불 텍사스 발전소…원전 8기·알래스카LNG 추가 검토\"",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01VHFKSXpTazBUTDBFR3RwSlFJV3dNdUpsOXBvX0hBbS1faERINjJMRXhuZ0RyZWZDMjFHR2RIdnNxNlYycTdBV3RFdDQtVzQ?oc=5",
+          "published": "2026-09-30T21:36:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.937,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[속보] 대미투자 1호 텍사스 가스발전…한국형 원전 美 첫 진출 발판",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rNTJ3cTJJZDE1U1FOQ1prTl9iMlFtZ1dNSzBhaU44a3BlczUwa2t4Um5oRkxxNEtNUTFUQ0sySTdUblhteFZSQ2w1M0hiUE10R2lsVWRQM25BaGc?oc=5",
+          "published": "2026-09-30T21:08:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대미투자 1호는 텍사스 발전소…'한국형 원전' 2기 美 진출 추진",
+          "publisher": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhekt6MmpzQzh1N1RIeGdQMU4zNi1nM0ZLRjJMQUJNWU1RNFJXNTdIYTlYbkxZamFhR3lRYUdMLWNmbVo1emlyckY0TENzeDNZVlE?oc=5",
+          "published": "2026-09-30T21:15:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대미투자 1호는 텍사스 발전소…'한국형 원전' 2기 美 진출 추진",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MzhMdDlfNGkzWHgyX2ltS3hvSjFmaHdzVmlsOHFhUzFlcmk3eVZkaktVU3lFVlZuaVNHZWhuT3ZreU1BTkdMTVJKQld0aVk?oc=5",
+          "published": "2026-09-30T21:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.924,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA, Inter-American Development Bank expand nuclear cooperation",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-30/article-8449/iaea-interamerican-development-bank-expand-nuclear-cooperation/",
+          "published": "2026-09-30T21:17:42+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.924,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "West Virginia’s NLIC proposal revealed through FOIA request",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-30/article-8448/west-virginias-nlic-proposal-revealed-through-foia-request/",
+          "published": "2026-09-30T19:20:27+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.843,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Polish Billionaire Lures Investors to Small Nuclear Reactor Firm",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTdOOXQtU0pkaWMtTUJhajJVcDFUY0x0UndOLUZFN25Gczk0VU5lcHVQWUM1eFNKVjhlcUpma1dRWkt2RU84dGltU0psZk9tdWllMGZ5OUpWWThKQzJlWXVHUjFGX0ZhTUg4TEJqOFdVNkUxZXJxZXJtV2FORlM0YThYaWY0ZVZLNkg3OFBnc1ZucmF3d3F3cmpmU3VscXJxU0p6N3VIbmZVUGpaUHhBd1RhNy1RQQ?oc=5",
+          "published": "2026-09-30T16:09:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Polish billionaire Solowow brings new investors into nuclear reactor venture (XLE:NYSEARCA)",
+          "publisher": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0h0bUhZVzFfMWpueE9oRUV6UENSU2tkaUV4Y1BtRGd1cFl1TzIyckNNVGJfa3BCR0swOWtURE1wdTFLeWw3UDBwQkpfdmRFMm5FMlZ4Z21vR2hLbWJCd1p6dVluampKcncyMHRHYXF0TjhzR3hpVTVqS1JZcHBVajYyRHpRZFJxR0ZhWnIyTS03OS04dFgtV2d0QkJId2pxQ21UazRDSFdTUXpXSTRjSWRPN0M?oc=5",
+          "published": "2026-09-30T16:24:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Polish billionaire Brzoska has become an investor in a small nuclear reactor project in Poland",
+          "publisher": "biz.liga.net",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTFTdXFrUEhMOERTRFNCMnpSSUhqaVZTdVBadEU1M2NkdW8xWF9XSlpTZlZlZFIwOTBBbWdmTDBRWjRUdFUxVERScWFoY3BtZi1MOUZMZFBKUTU1blp3OXNRYlp6a3pVWWFkbDFwY2VpOENmQ040elFCN0RTaGpfbnpjYzFPRWF3YTBFSnBnUVp6MS04ZDloVHpDc2JDVWQ2aDNiVjl3Zk45S0lpdllxOFRabXdzeU9iNkVVeUp6N3FJeWJGWEJXRjJB0gHPAUFVX3lxTE4xYVpXY0k2NURVeHJteXRkQmFpM0MtaGJ1aWM1eHpaaEVsWW03Mmg0LXlkbDZKMFZjRDB3SXdvdlYyaXE1SEcxTDBiYUZycXdVUmRjVnhBNzJYWFZHV1NDWlJQMkxFSzVER0RXZV9hWEdTb1l0WDNPNzNlR3lEejNYVjlVZnB5TldsdjhiYjNaQWdhU0FNZF9HS3MxaEREcWZqeDN1YU9BZ2xJcEloUWNQNklqWTlQLUZVcUpvR2hHeHhDS1Q3aWQyMGdIdHdqMA?oc=5",
+          "published": "2026-09-30T17:44:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.776,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "University of South Carolina teams up with Westinghouse on workforce development",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-30/article-8447/university-of-south-carolina-teams-up-with-westinghouse-on-workforce-development/",
+          "published": "2026-09-30T16:37:42+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.73,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "First construction permit issued for BWRX-300 SMR in the US",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/first-construction-permit-issued-for-bwrx300-smr-in-us",
+          "published": "2026-09-30T15:02:24+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.664,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bipartisan fusion bill proposes $10B for commercialization and research",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-30/article-8446/bipartisan-fusion-bill-proposes-10b-for-commercialization-and-research/",
+          "published": "2026-09-30T14:34:11+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.644,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Sellafield selects partners for asset care framework",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/sellafield-selects-partners-for-asset-care-framework",
+          "published": "2026-09-30T14:11:29+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.628,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Armenia to make new nuclear decision 'in near future'",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/armenia-to-make-new-nuclear-plant-decision-in-near-future",
+          "published": "2026-09-30T10:51:44+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.49,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경기 관람부터 치어리딩까지…경주한수원, 학생 스포츠 활동 지원",
+          "publisher": "풋볼리스트",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tSDFkNWVhTXYyM0NrRzFVZ1FpZlZMTHBiV0RfcFZHUm8tOXV0bHBNb0RyUmtHY2pBU0F5RkxtZW9CdDYtZjRaTGVhc0ZMcl9QVDRtN0V3eVNsaWZtLXNoaFBkVTM2cVZpaHJqclBDOXRKZw?oc=5",
+          "published": "2026-09-30T00:07:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경기 관람부터 치어리딩까지…경주한수원, 학생 스포츠 활동 지원",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GOUlDeUtTSjBpSEtsZmlFUzg0NllBVzNNenZDYlhycVBEd184TnpJRF92RmRuTGFJMENfeEJNWHYzMndkNkpHbl9jY2NPNkE?oc=5",
+          "published": "2026-09-30T00:08:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경기 관람부터 치어리딩까지…경주한수원, 학생 스포츠 활동 지원",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XMHZmXzBnMUcwMURvcmNJQjYydGZCamsyODlGYnhaTXRhZmZiTC1ES0pLWEJ4OVdYOWFjaHlaM3dyV0VnTUE?oc=5",
+          "published": "2026-09-30T00:08:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.043,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Lise Meitner Programme Advances Women’s Nuclear Careers through Visit to the Russian Federation",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/iaea-lise-meitner-programme-advances-womens-nuclear-careers-through-visit-to-the-russian-federation",
+          "published": "2026-09-30T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.037,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "K-원전, 미국 진출하나…웨스팅하우스 지분 인수 추진",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MWk16WUFrR29rSXgxSTFIcXFicXhsS2pqUE5ob3ZqWVhqaXZHN1N0Nmg2S2RMdXpXRVVnanR5RjdfTl9kMFN3bTZaclFhenBjMnpsLVRfSWxDazdGOUNjLUVoVVVPYkk?oc=5",
+          "published": "2026-09-30T22:50:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "K-원전, 미국 진출하나…웨스팅하우스 지분 인수 추진",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxSExRTkVrN1VjVGpqSE1qWHg3bEhlT3JZVzRERENVemk2RVgxdU5SWTBfazhxclVRMXN6WXhERzg1aGZLV0NzSEVaQlJ3b2c?oc=5",
+          "published": "2026-09-30T22:52:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.99,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국에 APR1400 2기 건설 추진…한국 원전, 미국 본토 진출 길 열려",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MbTRXaWFuZ2FpTHljQjBJeHREU0J4VzhtUTFiMEY2eEQweHN5RmN0c2l3UHB2QXNPRmJJREZBdEhCNWFDaVhlSnFvT0w1cG8?oc=5",
+          "published": "2026-09-30T21:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "미국에 한국형 원전 진출 길 열렸다…APR1400 2기 건설 추진",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qLTRQbHJqaXRuTzVINUVsNDU4ZVNNODlMNWozSnYyQW1xWmxrR3hPMjhLNWFHRk1zalJwTTFFTFV4QnNtdXFVZXRYZDQ2YXc?oc=5",
+          "published": "2026-09-30T22:35:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.979,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[속보]美 트럼프, 韓 2천억 달러 대미투자 일방 발표…알래스카·원전 '기정사실화'",
+          "publisher": "KBC광주방송",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyRTdNTDdZMnQ1UDVzakxZVGE2Y2p1dTFMQnlMeEFqWER3dDE3X0YtWHg4SnZrQ0g4UEdnS0VIcG91NEg1UVBpVnJtTzBCaHh6UDZGdDhuNlNLN3dBQ2VyTw?oc=5",
+          "published": "2026-09-30T21:18:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, '2000달러 대미투자' 일방 발표…'알래스카·원전'도 포함",
+          "publisher": "newstomato.com",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPRkdkWE9HeUcwY2wzOERTUGNxclNyTFZCdHA2dXhlbExqaEg2MktRY08tUDBIZEtHVy1rMGdSd2E3a0ZYVFhCX3pyVVVSdnQ5R2V4WFAyUmdXUG9wVzFsaA?oc=5",
+          "published": "2026-09-30T22:22:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.97,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "트럼프, 韓 대미투자 2000억달러 공개…'알래스카·원전' 일방 발표",
+          "publisher": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Yck5kZTNvZHNzWEhrXzk1ZzVCODd6YWRQZzBCbGsxZnNwVkREdmJuZW9WS01NUlEtQ1ZST0pOWF95UFF2M3FlNjcyTGhqd0Y1NTNqUmswSVhNREtPNDF4VlFqUk5HME1FSFNtYk9Fa9IBc0FVX3lxTE05SHFiUUUyX3NYOUZld1hvVzZ1eWRQZ3JFRXFndDlqQVVodWlmSTY1dEw5ZVhrczhoWDNlSnBUTHlyMFVRbmlOR3hRQVVxYjI4ZktkSzFkTFZRV3R2ckhyZ2dsczl4ajZfNFVPSVZ6WkF5aTQ?oc=5",
+          "published": "2026-09-30T21:37:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "트럼프, 韓대미투자 2000억달러 발표…미확정 원전·알래스카 LNG도 포함",
+          "publisher": "스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CMFZCWllKYUljOVlocl9WSF81TlRmX3ZTbEFKd2xUY2ExemUtTDJKUGMtZHZERkhGdzBIRzBOUHlnQkd6ZDdfWEdKUlQ3SGRONENwN3g3QjlnbmhCanRoRThhQW1HcFZNS3dvV0NUX3dHMHJSQzN30gF3QVVfeXFMT0IwVkJaWUphSWM5WWhyX1ZIXzVOVGZfdlNsQUp3bFRjYTF6ZS1MMkpQYy1kdkRGSEZ3MEhHME5QeWdCR3pkN19YR0pSVDdIZE40Q3A3eDdCOWduaEJqdGhFOGFBbUdwVk1Ld29XQ1Rfd0cwclJDM3c?oc=5",
+          "published": "2026-09-30T22:01:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.955,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Vietnam needs tens of thousands of workers for nuclear energy development",
+          "publisher": "Thông tấn xã Việt Nam (TTXVN)",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzQxRGwxVVJXaDlUZkFGXzBzZXdrUVZ6UlYzbG1BZUpZa0t0cWo4N0xwWEFTMk4yVVdXMUk3b1FNVkhPMW1LdGRxN1lSNUZ6R20xMG5nZDhxYjJveTdsamRONHhGdUg0WWRkcjZmYm1rOXhPQTU4dFdERUlITzZELVN2MnBYOUJHY3NpMk5YbGlYNUdFWFJId1MzVVdEZjdvSEV3cE9YQkhaOHZJTXBkcGpKRGhTOWM3UHpPZGVIMGhCclU?oc=5",
+          "published": "2026-09-30T13:29:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Viet Nam needs tens of thousands of workers for nuclear energy development",
+          "publisher": "en.qdnd.vn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMy1SRUpyX1VfdzIzN0pBN2ZaTWktLWZnTGFPb0hINy10WWZ5Sm5Xd2h6dmpmbGFVYWFLckNiM3BZRUNtRVJtS2k3ZkhnZjRoNXhwRjVRLVNOVnllYkxPZV9rNF9iNWoxN1BFUl9lQmpTY2hVR2dOVTMtalhGQlczQlFoR25BY0pVMnQ3a284SFdzYW1Ka0ljbWs3WGJNYVlNcjlOMUNtSWJOR2VXd3NLa1JWWEU0eTFFR05Ubg?oc=5",
+          "published": "2026-09-30T16:19:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.717,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Giant data centre plans lodged for old nuclear plant site",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sMk1zRlFELUltd18zOHdvYUFHLWFxc0tmNk5FMTdOSHItNW1yZlYzcTFIemtPdDNzd01kY2ZvNGUwcUJpZlNtM3dIUWN0RDQtS2RhNjl2RngxdzFiOHc?oc=5",
+          "published": "2026-09-30T11:16:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Plans submitted for 'world's largest' data centre at former nuclear power station",
+          "publisher": "STV News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUh2NG4xTWZucFBKbnYwSFVYZHhCajQ2YVJqbGhEYXhUOTRRZU1hclRzU3JGUmVzZ2NqcGo3cjlzSjNiSHhtN2xta3dEbmp6aHZNV2dpc1d1Q0VVeHJERlhOSTNIQnhiSVd6WUk4emF5ajQ2TnI2MkFrMFE2d0xfal9uSThxdVZqYnpicjUyUUM4THA0Tm5PWE1ITGpDQ0hxTldaSUZRb1N2Y2FiSm1uN3NoLWxvcHFpMmRCMWhQNnE?oc=5",
+          "published": "2026-09-30T14:46:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.653,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tennessee Valley Authority plans small nuclear reactor site",
+          "publisher": "WKRN News 2",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVFtdC1mSjJrWHNwSUNiRS0xWURwOGo4NzF2S0ZkRjVRbTQ3a1otWkhHbDUwVjRZZU45U3FhZUZxQkJzUlNlbFRLVFViY05aRml0QlZjdTZ1R19PQTg3dGl3QmZVamctcllqYXRBSk5QVlNxT1VlTWpkSkU2ZjNMZldsNXNaeHpET1V2ZjlqT1BSMWw1NURJOFJnTHk?oc=5",
+          "published": "2026-09-30T11:33:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Tennessee Valley Authority receives historic nuclear reactor permit",
+          "publisher": "WCLE Mix 104.1",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUhvYTRyU2pqS0djWDE1SldoMDFCWXhETEFkenVfVXB3elIxRGhwYkdfZkhoMk9LZFhiTGVMUl94ZU1mOGE5QU9VN3VWSUhDRzM4cmxySFFCLUtMdGpGMW9fVjFhc253ZHh2OWFmSGhvNzE2UDl2bHVUaTlIc3JKTkpBMC0xalZlWURDa284YXBla0xjTWVjRy1NLVJLSVBuYWxzSi1pNnA?oc=5",
+          "published": "2026-09-30T14:08:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.626,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 93
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 45,
+      "kept": 43
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 100,
+      "kept": 91
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 46,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 167,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
