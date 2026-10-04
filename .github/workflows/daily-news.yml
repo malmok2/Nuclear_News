@@ -2,11 +2,13 @@ name: Daily nuclear news brief
 
 on:
   schedule:
-    # 19:30 UTC = 04:30 KST. GitHub cron can start up to ~1 h late; the Claude Code session that writes
-    # the commentary fires at 06:50 KST and needs today's headlines to be committed by then.
-    - cron: "30 19 * * *"
-    # Safety net at 09:00 KST: runs only if the morning run failed or published without commentary.
-    - cron: "0 0 * * *"
+    # 16:17 UTC = 01:17 KST. GitHub starts scheduled runs late: the old 04:30 KST slot actually ran at
+    # 07:16–08:52 KST (9/28–10/4), after the 06:50 KST commentary session had already given up.
+    # An early, off-the-hour slot lands near 04–06 KST even with that delay. The session also runs
+    # again at 10:50 KST and catches up missed days, so a late run only delays the commentary.
+    - cron: "17 16 * * *"
+    # Safety net at 09:13 KST: runs only if the morning run failed or published without commentary.
+    - cron: "13 0 * * *"
   workflow_dispatch:
     inputs:
       date:

@@ -159,6 +159,33 @@ class OfflinePipeline(unittest.TestCase):
             session_brief.cmd_prompt(day)                  # second call: nothing left to do
         self.assertTrue(out.getvalue().startswith("SKIP"))
 
+    def test_session_catches_up_missed_days(self):
+        """A session that ran before collection finished leaves a pending day; the next run picks it up."""
+        with mock.patch.dict(os.environ, {"ANTHROPIC_API_KEY": ""}):
+            record = run_daily.run(date(2026, 9, 28))
+        for n in (26, 29):                                 # 9/26 falls outside the 3-day window on 9/30
+            path = self.tmp / f"data/days/2026-09-{n}.json"
+            path.write_text(json.dumps(dict(record, date=f"2026-09-{n}"), ensure_ascii=False), encoding="utf-8")
+        today = date(2026, 9, 30)                          # today's collection has not arrived yet
+        self.assertEqual(session_brief.pick_day(today)[0], date(2026, 9, 28))
+
+        out = io.StringIO()
+        with redirect_stdout(out):
+            session_brief.cmd_prompt(date(2026, 9, 28))
+        self.assertTrue(out.getvalue().startswith("DATE: 2026-09-28\n"))
+
+        good = self.tmp / "good.json"
+        good.write_text(json.dumps(FAKE_BRIEF, ensure_ascii=False), encoding="utf-8")
+        with redirect_stdout(io.StringIO()):
+            self.assertEqual(session_brief.cmd_apply(date(2026, 9, 28), good), 0)
+        self.assertEqual(session_brief.pick_day(today)[0], date(2026, 9, 29))
+        with redirect_stdout(io.StringIO()):
+            self.assertEqual(session_brief.cmd_apply(date(2026, 9, 29), good), 0)
+
+        day, skip = session_brief.pick_day(today)
+        self.assertIsNone(day)
+        self.assertIn("2026-09-30 수집 결과가 아직 없습니다", skip)
+
 
 if __name__ == "__main__":
     unittest.main()

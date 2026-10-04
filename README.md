@@ -8,22 +8,28 @@
 ## 1. 동작 방식 (API 키 없이 운영)
 
 ```
-04:30 KST  GitHub Actions — 수집 (API 키 불필요)
+01:17 KST  GitHub Actions — 수집 (API 키 불필요, 실제 시작은 보통 2~4시간 늦음)
   ├─ RSS 수집: Google 뉴스(국내·해외 검색), World Nuclear News, IAEA, U.S. NRC, ANS
   ├─ 걸러내기: 지난 36시간 · 원자력 키워드 · 북핵·핵무기 등 군사 기사 제외
   ├─ 같은 사건 여러 기사 → 한 묶음, 이미 게시한 기사 제외 (state/seen.json)
   ├─ data/days/날짜.json 저장 (engine = pending) → 제목만 있는 페이지 먼저 게시
   └─ 저장소에 커밋 + GitHub Pages 배포
-06:50 KST  Claude Code 예약 작업(Routine) — 해설 작성 (교수님 Claude 구독 사용량에서 차감)
-  ├─ python3 -m pipeline.session_brief prompt   → 규칙 + 후보 기사 목록 출력
+06:50 · 10:50 KST  Claude Code 예약 작업(Routine) — 해설 작성 (교수님 Claude 구독 사용량에서 차감)
+  ├─ python3 -m pipeline.session_brief prompt   → 해설이 비어 있는 가장 오래된 날(최근 3일 안) + 규칙 + 후보 기사
   ├─ Claude가 해설 JSON 작성 (웹 검색·원문 열람 없음)
   ├─ python3 -m pipeline.session_brief apply    → 검증 + 저장 + docs/ 다시 생성
-  └─ push → deploy-pages 워크플로가 사이트 재배포
-09:00 KST  수집 재시도 — 04:30 수집이 실패했을 때만
+  ├─ push → deploy-pages 워크플로가 사이트 재배포
+  └─ 밀린 날이 더 있으면 반복, 없으면 SKIP 한 줄로 끝 (두 번째 실행은 보통 SKIP)
+09:13 KST  수집 재시도 — 새벽 수집이 실패했을 때만
 ```
 
+**수집과 해설은 따로 실행됩니다.** GitHub의 예약 실행은 정시에 시작하지 않습니다. 2026-09-28~10-04에는 04:30 예약이
+실제로 07:16~08:52에 돌아, 06:50 해설 작업이 매번 「수집 결과가 아직 없습니다」로 끝났습니다. 그래서
+수집을 01:17로 당기고, 해설 작업을 10:50에 한 번 더 돌리며, 해설이 비어 있는 날을 최근 `backfill_days`(3)일까지
+거슬러 채우게 했습니다.
+
 해설 한 건은 "무슨 일이 있었나 / 공학도에게 왜 중요한가 / 개념 풀이 / 생각해 볼 질문 / 더 공부하기"로 구성됩니다.
-`ANTHROPIC_API_KEY`를 Actions Secret으로 등록하면 04:30 수집 단계에서 API로 바로 해설을 쓰고, 예약 작업은 할 일이 없어 곧바로 끝납니다(선택).
+`ANTHROPIC_API_KEY`를 Actions Secret으로 등록하면 수집 단계에서 API로 바로 해설을 쓰고, 예약 작업은 할 일이 없어 곧바로 끝납니다(선택).
 
 ### 분량 조절 (`config/settings.json`)
 
@@ -56,7 +62,7 @@ AI 해설은 제목·요지만 보고 쓰므로, 제목에 없는 수치·날짜
 ## 4. 사용량
 
 - 수집(GitHub Actions): 무료
-- 해설(예약 작업): 하루 1회 세션. 해설용 입력 약 3~4천 토큰 + 출력 3~5천 토큰에, Claude Code 세션 자체의 고정 비용(시스템 지시문·도구 설명, 대부분 캐시)이 더해집니다. 실제 사용량은 첫 실행 뒤 확인이 필요합니다.
+- 해설(예약 작업): 하루 2회 세션(06:50·10:50). 할 일이 없는 실행은 SKIP 한 줄로 바로 끝납니다. 해설을 쓰는 실행은 해설용 입력 약 3~4천 토큰 + 출력 3~5천 토큰에, Claude Code 세션 자체의 고정 비용(시스템 지시문·도구 설명, 대부분 캐시)이 더해집니다. 실제 사용량은 첫 실행 뒤 확인이 필요합니다.
 
 ## 5. 로컬 실행
 
@@ -77,6 +83,7 @@ python -m unittest tests.test_offline -v         # 네트워크 없이 전체 �
 | `categories` | 뉴스 분류 (AI가 이 중에서만 고름) |
 | `reference_library` | '더 공부하기' 링크 후보 |
 | `max_candidates`, `min_stories`, `max_stories`, `lookback_hours` | 분량·수집 기간 |
+| `backfill_days` | 해설 작업이 거슬러 채우는 날 수(오늘 포함). 더 오래된 날은 `--date YYYY-MM-DD`로 직접 |
 | `model`, `effort` | API 키를 쓸 때만 적용 |
 
 ## 7. 폴더 구조
