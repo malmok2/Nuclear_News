@@ -9,6 +9,7 @@
   "max_stories": 5,
   "min_stories": 3,
   "lookback_hours": 36,
+  "backfill_days": 3,
   "seen_retention_days": 21,
   "other_headlines_limit": 30,
 

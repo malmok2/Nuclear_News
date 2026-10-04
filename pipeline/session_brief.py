@@ -3,12 +3,15 @@
     python3 -m pipeline.session_brief prompt            # prints the task, or a SKIP line
     python3 -m pipeline.session_brief apply brief.json  # validates, saves, re-renders docs/
 
+Without --date both commands work on the oldest day in the last `backfill_days` days that still waits
+for commentary, so a run that found nothing (collection came in late) is caught up by the next run.
+
 Standard library only, so the session does not need to install anything.
 """
 import argparse
 import json
 import sys
-from datetime import date
+from datetime import date, timedelta
 
 from .brief import SYSTEM, build_prompt, validate
 from .build_site import build_site
@@ -32,6 +35,20 @@ def pending_day(day):
     if not record.get("sources"):
         return None, f"SKIP: {day} 수집된 기사가 없습니다."
     return record, ""
+
+
+def pick_day(today):
+    """Oldest day in the backfill window that still needs commentary; else (None, SKIP line)."""
+    days = SETTINGS.get("backfill_days", 3)
+    for back in range(days - 1, -1, -1):
+        day = today - timedelta(days=back)
+        if pending_day(day)[0]:
+            return day, ""
+    first = today - timedelta(days=days - 1)
+    if not read_json(DAYS_DIR / f"{today.isoformat()}.json"):
+        return None, (f"SKIP: {today} 수집 결과가 아직 없습니다(수집 워크플로가 늦었거나 실패). "
+                      f"{first}~{today} 중 밀린 해설도 없습니다.")
+    return None, f"SKIP: {first}~{today} 중 해설할 날이 없습니다."
 
 
 def check(brief):
@@ -61,6 +78,7 @@ def cmd_prompt(day):
     if not record:
         print(skip)
         return 0
+    print(f"DATE: {day.isoformat()}")
     print(SYSTEM)
     print()
     print(build_prompt(record["sources"], date_label(day)))
@@ -99,9 +117,15 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("command", choices=["prompt", "apply"])
     parser.add_argument("file", nargs="?")
-    parser.add_argument("--date", help="YYYY-MM-DD (default: today in KST)")
+    parser.add_argument("--date", help="YYYY-MM-DD (default: oldest pending day in the last backfill_days)")
     args = parser.parse_args()
-    day = date.fromisoformat(args.date) if args.date else today_kst()
+    if args.date:
+        day = date.fromisoformat(args.date)
+    else:
+        day, skip = pick_day(today_kst())
+        if not day:
+            print(skip)
+            sys.exit(0)
     if args.command == "prompt":
         sys.exit(cmd_prompt(day))
     if not args.file:
