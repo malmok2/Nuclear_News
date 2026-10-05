@@ -1,12 +1,13 @@
 {
-  "run_date": "2026-10-05",
-  "started_at": "2026-10-05T05:29:57+00:00",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T05:31:43+00:00",
   "engine": {
     "engine": "none",
     "reason": "no candidates"
   },
-  "stories": 0,
-  "sources": 0,
+  "overview": "",
+  "stories": [],
+  "sources": [],
   "feeds": {
     "gnews-ko": {
       "ok": false,
@@ -40,8 +41,5 @@
       "entries": 50,
       "kept": 0
     }
-  },
-  "days_rendered": 9,
-  "status": "success",
-  "finished_at": "2026-10-05T05:31:43+00:00"
+  }
 }
