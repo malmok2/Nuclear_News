@@ -1,0 +1,931 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-07T21:18:12+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Constellation Energy Surges 12% on Google Nuclear Power Deal | Closing Bell",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlMwaU5mYzF1bnozMklzWFJjTkRnUlM5YkdZdy1uOE90WlhTRGljd0M4U1hhTDVHSWY4VTY3WmZQMUdFRjAwb3lVeGpkUXQycWNUblBDc09jVm0zNG1zUGRycGxUejIzUDRfQlU0SWtLQldzQmRpRy1kb0xQUmsxOEtMSlZGcFBPUm52Y2p5Zl9xU1A3d0g0azlLQ24yclZuNlp1Ry1hOTZfeGsxR1ZjdUp1TWMweV82MnlxTWNLc0VpOUk?oc=5",
+          "published": "2026-10-06T21:19:11+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google locks 3.6GW nuclear power deal with Constellation to fuel AI - CHOSUNBIZ",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG5JU0pvZk5HbG5ZcDA2bG9OZkstb2RDUVV2NVJqVy1KcnBEdEUzTGFfd09pNlFlZ251WDJTellqUWk2cjkzUkNLTi1XY0I2bm91U2xDQjdPd2EwN3FER2d6ZjdSSVJjaWRUZmV4d1QwdmdueE96MkNUUVctbVJ1dEFCWDlWOF80XzV0LTRR0gGOAUFVX3lxTE5kbklTSm9mTkdsbllwMDZsb05mSy1vZENRVXY1UmpXLUpycER0RTNMYV93T2k2UWVnbnVYMlN6WWpRaTZyOTNSQ0tOLVdjQjZub3VTbENCN093YTA3cURHZ3pmN1JJUmNpZFRmZXh3VDB2Z254T3oyQ1RRVy1tUnV0QUJYOVY4XzRfNXQtNFE?oc=5",
+          "published": "2026-10-07T00:50:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Taps Nuclear Power In 20-Year Constellation Deal",
+          "publisher": "Finimize",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTdTdHhJamVSZTRXSWJMbjVXa3dDdVFJNnhDS1hDSmtQU1FFcnhsZ21GMGo4YlBZMVExVTktZFBuVnY4UVY1SExkcktkaWRaZ3RLSDQ2d0tRd1ZFMktmOU9YRnlOT05KTU8xT2U2dHFhVFNyaWxWcHRmaWZta3kxUGxPUlJrTGozX0xGRw?oc=5",
+          "published": "2026-10-07T02:00:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation strike 20-year nuclear power deal",
+          "publisher": "The Jersey Vindicator",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkxka0RJdEJGb25SLUpVaDF5cEkwNjZoZ3ZGdi1pRlRMLThtV0JTRUFBV2YtODZWOFRnNVAzcFpmMzB2ZzlqSWVrVXFnYWNkTk9rTm4wY3NrdlROOGgzMi1mVVZWbWJJZHN5VVpHMTBuMmJ5UHFSVWZUbF9oeTVWTHJXeXBTR21tOTMzWHlOZDVNZzAyMzVkSjRsWQ?oc=5",
+          "published": "2026-10-07T03:39:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google backs 890MW of new nuclear power in US with Constellation Energy deal",
+          "publisher": "Telecompaper",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjRGV3RmZ0twM1hxT3c5aG1sVVprVy1fTlgxSkhLWmNOQksxZEhCLUhkdHJFWUM3cnZkek1QUmNPNFU1dTBzYThSdHpSZWpNSkZybE1lZVFIR0JOMnV3Si1ZZmtDWVBXSDcxRTFhZl9oand6RG1SRUZSLWw5Ynk5b0dPVW80QzBNQm1aelZfVHVqb0wxb21XUnU2UXhRWFJDbGZVWDlxeTZLZ3JtcTVIWmpiWGQzVllIc05V?oc=5",
+          "published": "2026-10-07T07:36:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Signs 3.6 GW Power Deal With Constellation Energy, Including 890 MW of Nuclear Power",
+          "publisher": "Technology Org",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkJpZUNHRTg4ZkhaNFRKaTJrcnl4anhUb3Y0eF9heGplNjdnaUxJVWtfV0xGeFhrcG9ib2U1NEJOM0lEVktFcVA0T3VVZFVSZzBpVE9rU2dEUmVvTTJ5Rm9UVjZhS0VsOVo1S0JJU2VkWkFraGVHYzhRSWc5X2JWR1lXaDNMdkhzWFBqbVg4dw?oc=5",
+          "published": "2026-10-07T07:54:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation Energy Skyrockets on Historic Multi-Gigawatt Nuclear Power Deal With Google",
+          "publisher": "NAI500",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObUo2VlBxdXAycXNrSzBxVnZvNldEOTZXRjJBYWE4a3BfaFlUYVNVSjZDWU9PZHhjaU9wMjJaUWYwdWpGRDN2MmlTaUpUS1JIbVE2QnRGcjYtTmdIdEpVSWFFS2pobjcySjJyc0VGeDJfZzNIU0hjZFVMNmtRQ1dNX29Pb0Q0RkhNVTJZbk5GMnNFMzhQSm9qZ2tzcWZNS2Jsa2dkeFdpa2NXZGNXazJXNlZwNGNGa2VrTkdqSGtrTQ?oc=5",
+          "published": "2026-10-07T10:55:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Nears $1 Billion Nuclear Power Deal With Constellation Energy",
+          "publisher": "StratNews Global",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hLTRYX2s3Y09rSkJQRXh1VnNVRUlLVmEzRGRKbE10aVFzb190QWtZSjNxYnNqR2tCY1B1Q2E1NkNBTHFMLThrMkR0eW5XR2VWWlktZUtxS254ZTJoN0oxUGstM1FEWmZrRlZFYk5raDZzUGs?oc=5",
+          "published": "2026-10-07T12:06:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation strikes major nuclear power deal with Google",
+          "publisher": "MyStateline",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXpzTXBlSXlOakl5WU5DeTlSYmREcHBhZkp1YXd5RjUzV000ZDJDS1VIMGhsYzRIVk9RRThlR09TUG92UnpIaUQ1QWdFdHJTWDdMSVdFSWFxTC1FSjdGRDN2M0VBNXZXalNGTm5FU05MeHNMbGFtR0R3SGpHcFdUV3JqUHA2VFdUTkNV0gGQAUFVX3lxTE5OeU84NF9mV0w1akhocmZuTzdNX3J1WHZpZlI1YUVCT3J1anNfODV0OUY2UzBuemc1SXR3OHNyZ0Y1OUtUTFBxUFJnQUd1dmJuQkM5WjhzVDR0VFpxNmlqUU5aZkh6b0pqU1Btb1NIdTNEN2FaUUNTZ0h3S3dEYzRDS3AxRlh2LW1YWkxBRURteg?oc=5",
+          "published": "2026-10-07T12:32:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation Energy Stock Forecast: Google and Amazon Deals Strengthen the AI Nuclear Power Story",
+          "publisher": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnpGRFZEdFVjdnNOaDREaFpONGRZZWxRcC1JRktScjJQODl0aDQtRmd2cTRPbGhrWGRaTjRUMnJmVTVEbkZaYXdDLW5fZ0JDajhucUhYZUFQQUN1NTBSUUd6U3NyZ1YwdXdub0laQWRsMHU4Z0NwelduRk1HSnBKVHpENUlmTmNlWnlzOWRVQ3c0R3loeWhFcm1xQjlLS1p0LVNjSzFMc2g1NC1yaWJrTDVtMHRGT29u?oc=5",
+          "published": "2026-10-07T13:03:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Australian Uranium Stocks Rally on Google-Constellation Nuclear Power Deal",
+          "publisher": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM01XU01RLW5aRTctX0M5eHAxQTN4cWFVSU1mTWZIOTgtUTktMTE4Q25aYkFTbXFsRlVESm50eERhWWVuV1R2UmY3VDd3UjZOWGw1S3ZnM203RVVuLVhGanN2VHpvLWNrM3E0OVVuSTdZbnlPQlNUMTV1RGdyYl9xZ3h6M1BIcWg1WGdzcHN0M0pzVEZOeUVSRlhVOTh5ekxxemlKTzE2cw?oc=5",
+          "published": "2026-10-07T16:10:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google and Constellation Set Sweeping Nuclear-Power Deal | The Wall Street Journal - newspaper",
+          "publisher": "Magzter",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemFTT0lkZ2plOTVQY1NxTGwyOVZSRkRUVTRLQ1l0S1NYakJOU2R6dEtsRlp4OFFqQ0psVk13WHV4RVZsWi00bVphNllYNHFKU0dvanh3Vkl4cmNNREpIWjVZOE05Vy1nMW1GT2hVaU1QR2xsUEhtYVBaRkxEaWpvTkVYLURMWXBxckNYSjh1bWFMSlVQWTcwYzJpZlVyS2FtWUUyZVZHc1E5cDNzb0x4c1ZaMHBBd0FCMlBzVFlB?oc=5",
+          "published": "2026-10-07T16:16:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Secures 890 MW Of Nuclear Power from Constellation Energy",
+          "publisher": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmxZTzBiSWM5amJ3d1E3bUxzRkxJSGlWM2szemhGSGJIbE85QVk3T1ZWZ3ZGRUF4RElHcko5T2dUSUROSllxY0t4UUQ5WFNHYTdkelJ4akpoVnNRVFJZUEpIdFhLbXdxX3J0SFBFSnNZd1RkOWgydDJkbUdCWXlBeFd5WjRHcFJYVXdrS2c3d1pQMl90a2xlVE9BT0ZxV3FuY3lLTFA1VGtwcXJ4T3F6VS130gG3AUFVX3lxTE9IWWFvbzktcm1YS1M1azE0XzFDQmM0aEttZTB0dmhGSXByYXhGTDI1SWswMlRMbUtuTl9TYUo0UHlDQzU4aWVPSW1LQk9fQzNSVmZnVmlFMVdTRHN5ZHpEWDhEeVplVkliRUVRM0lSTnY4UmV5VUdNbmZTMl9wUnBaMHpneTFpWko3QjZwdWQxV1EwVzR4R1JDNkJQUFBsQTZqNkNwWFVnT0VMWkI3SndCekJjb0k3aw?oc=5",
+          "published": "2026-10-07T19:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Secures 890 MW Of Nuclear Power from Constellation Energy",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZS1WM3N2Vjh4UHk0bVYza0hUV2NKd3JFTlphNEdCTExSRzdfVzVrVDhNSHZyaE15VG10TkpqcTd6OWVySmNkZVlpUjRST2c2bUg2QlBxaUZJWnpMYmdrNXZhUWwyNHgtM0FhSTAzSGk5UTlNWkhjS3AyY202VVgwbFFvb0gxY1pXdWxhWms0MA?oc=5",
+          "published": "2026-10-07T19:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.904,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“2028년 인허가 신청 계획인데…SMR 건설 심사기준 2032년에나 마련”",
+          "publisher": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fd2RmMVh2OHRlSGlJVlZ3WVRxd3c0NWdBT3otR19SQVRPUFZ0YzBDTEdfcUZZM09hbGk3RFhwcVk2WEJEdVZMcHg4ekJrMVU?oc=5",
+          "published": "2026-10-07T01:49:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[국감] SMR 건설허가 2028년 신청인데…심사기준은 2032년",
+          "publisher": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lS3JMVjd5QlctZExsbUdwMnc3TTB3cDJsUnZueU5CeGxvNjdZQkMxVTVRSngyM1hISHFrWERxb1pJeDZkc1c0UjZ3aHlpQV9ra1ctd0phaFBKZk9UcGgxYWU3T01lbkMwRUJKWEZNWnA5UQ?oc=5",
+          "published": "2026-10-07T01:50:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "황정아 의원, SMR 건설 인허가 신청 2028년 계획...심사 기준 2032년에나 마련",
+          "publisher": "뉴스티앤티",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GVEtmRXBvd2UxWGFCWXlpQVh2bDRKUGFTU3ZTSmxQdVZzbllXTTY0dWhxY3BpV0tNRTM4MWVxMlRveHZYR3VRUlZvMTFBNmNsQ0d1WG9QeTB6TXd0WGV0Ym9sc1doNEk1Tmc?oc=5",
+          "published": "2026-10-07T09:30:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "SMR 건설허가는 2028년인데…심사기준은 2032년에야 완비",
+          "publisher": "뉴스홈(newshome)",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fS1VXaU9KNEJHdlBxYXBzZlBoNHNqVzRhN1k3ZlFobW8xeVJJeGt6UVJjVzNCRWpRYWh6TDM1cGZFamVjZmZNd3JKWmNNU3VSc2RNZmJ1UGQ1SmtBWDhLc2ZYUHNnMXA1TFNaUkZn?oc=5",
+          "published": "2026-10-07T09:39:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "황정아 의원, SMR 건설 인허가 신청 2028년 계획인데, 심사기준 2032년에나 마련",
+          "publisher": "e-빠른뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sR0NoSlB0d0ZOOWJaNjJYWVBzVl9oNFgxamYyUHAwMDVDWnJ0aWFrMjk1Q1o3VldFWk9oX2dsYzZTWEdJY3NjdlFzYUxvLVJQaE5reTd3NlB1a2ZCVmRkeEpMbll4R1V6enloTVhlQdIBb0FVX3lxTE9sR0NoSlB0d0ZOOWJaNjJYWVBzVl9oNFgxamYyUHAwMDVDWnJ0aWFrMjk1Q1o3VldFWk9oX2dsYzZTWEdJY3NjdlFzYUxvLVJQaE5reTd3NlB1a2ZCVmRkeEpMbll4R1V6enloTVhlQQ?oc=5",
+          "published": "2026-10-07T15:15:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.748,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Polytechnique Montréal looks to the future as its nuclear reactor turns 50",
+          "publisher": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGRpYXV3RFRwZ2ZZdkJxTGdHV0hBdkk1cmJIU2pQUXZBMEJjWVFxS2NycVlFdWVXbkFBS0U3clZReU9kU2F1cDJTLTMtOXhvQU1BbWZTMEhvUEpYWUxZanh2b1A3ZEVLVHFEaUNERXpVOFdhM05YRXZyZjhRQVM3OXlB?oc=5",
+          "published": "2026-10-07T08:00:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Polytechnique looks to revive nuclear studies as Quebec's only reactor turns 50",
+          "publisher": "MTL Blog",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zUnlOSWczNExPODd4LVVBQ0VEVFJJbFkzZE52UFdBYnpqZ2RUWHFzWGZnSmM5SDZKQzZkMWJuWElneldFcG9xR2N1UHAzS0lJSWdPNUhjU014ODhYV2JUU25MU0JmYlgtWUliVVBJdXVvSkVVWlZQLQ?oc=5",
+          "published": "2026-10-07T08:01:08+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Polytechnique looks to revive nuclear studies as Quebec’s only reactor turns 50",
+          "publisher": "CKPG Today",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEE2eUJwcFltTlFwMTBPY0Y5T3U1NndYdGF4cnFCTVpOd3Q1eWxOXzMyTjBrSXExZ0dQcnphT0pEQl9MMmlwY0xrZ3lOMXpkVXJWYnRZTmpBSWdLZFlLNzNyaW5fZldmODBDSUx0OG1RRjFkNE5LQ2JldVBHczhKMmlBUDFjUWpEU2RrVzNTbFpENjg5UFVUQmFKa3FnSjRSZVFBQUwwYXRlODdpRFNycA?oc=5",
+          "published": "2026-10-07T08:32:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Polytechnique looks to revive nuclear studies as Quebec's only reactor turns 50",
+          "publisher": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZmZhYTNFYXB6c2pqTTI1bGhYRXpXN0xobWpORGl2Q2FLMzI1ZWtKX002a1NwNEJ5cEU0N2pTSFpoNnVkVlg2SlZpdWFkeVNvRm9sWkw4cjM1dTFFT19FZzFzeThTVjhMT3k1VDN0Vlgzc2dpUEp3bnZrelhfQk1XZnlvR1FCLXMtMlVwak1kX3g0aFN2NVRUUFBaVG9FTXZVaTF0cGdLbC1zV3FZaUZTOHJVQmNfS1BLazNKbVhNNHU5SjhCbXNnVlhicw?oc=5",
+          "published": "2026-10-07T11:15:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Polytechnique looks to revive nuclear studies as Quebec's only reactor turns 50",
+          "publisher": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWXUxREg3VG9zc0FNRkpoU2thYUFiaTVaT3pQX1lGMWRFZDQ4cXdDUUFtUGhGVVNEQlJLamVETU0zeVlRSUNrOEx1ajZYcjc4cGVJUTJpQm9BR1FBZHNsVE5ud2xFTG9RdkRseWdJMUZHX1pFNkxyMkRHUlFET0R0YmJBZnpGZ043Rm1WQ290M2tjdjN1TE1BQ0pLeEhCdlhJWGZxMDl5NS1OWGNjRzQ5REYzaWZTNjdFdWxaVnlTUlpPZkctWGc?oc=5",
+          "published": "2026-10-07T11:15:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.581,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "HD현대중공업, 해양 SMR 실증센터 구축···12개 기관 협력",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXSk1zM1g0RnlvRldkTklsSl9PQTk3YmEzcTVGZktSNkNFMzZ5Y21YX2ZKeFlPOXkwNWRQNFp1Wmg1WVhfVnhSYlJNbzJzd3F0U1p1TF90Y0ZrVEZiWllZRVU0S3N0aExFTXNGWUxLQjdzZw?oc=5",
+          "published": "2026-10-07T01:38:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업, 산학연 12개 기관과 ‘해양 SMR 실증센터’ 출범",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GQjBlUWtuWHg0bzN6d0hDWTB0UkVqM2d0cjk1SnlJV1ktSUtVbXJHYnZneU9SZ3l3ZU1LOEg1dTlDT0pkMU94ZDZteVp4bG10UlBWT3dKY25iYWphRG1GME4yaG1lZUZVUlNOVF85VWtyUy13SFk4?oc=5",
+          "published": "2026-10-07T06:00:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업 등 12개 기관, 해양 SMR 실증센터 출범",
+          "publisher": "FETV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5TlhPTjBMRVlJTnlVcEE5aVJ1NlR1ZTJsODIwRVFCN1JaMUdPSjFzaEJ1SVEydkNzVVRCZlRTNlV4WnloTTBGMUZ2bFktQlpPLTBGcXY4OVhOX243OWVpcjRYcDdqWFJM?oc=5",
+          "published": "2026-10-07T06:09:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업, 12개 기관과 해양 SMR 실증센터 출범…상용화 기반 닦는다",
+          "publisher": "더글로벌기빙뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vbEFwdmtER2dpRDlBTEdjczR4dWpJRTNfQk10bmhxczBUcjlpOWJ5aFNXOWFuLW4tTjlva0JibjN4V0RqLXZJNm5COEVCYVBOd2szeg?oc=5",
+          "published": "2026-10-07T09:53:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업, 해양 SMR 실증 추진",
+          "publisher": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlUDU2YzNvU2MyWTdTY19FdC1IZzBtc011S2RSLS16cWtRTWNTT0wzMkVPNnRVSmp5ZjFheGhzWFVWQVhFWVlKYm8xTFQtQ2EwY3ozMFlsWS1Cc29oaHhUdnFFNmZoZw?oc=5",
+          "published": "2026-10-07T10:48:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업, 울산서 '해양 SMR 실증센터' 출범",
+          "publisher": "울산신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5naE9Fb1Z5Ty11ZEkyRGZPaTJKcEh0TzBIS0tpLTJ5NWNueHRDSXZJOVA1VDFlRDNmM3ZKZmx0RTIzdmZhVDctRXlPUFJwWVk0NzBkanRjZ3Z1UDZpcERFcGdiLWRtSEhLZDlpRTh30gFyQVVfeXFMTlRpWjFxdncwUk1mLVE3a0RCZjM2ZmFXa1V5cXZsd3BnVG9USjF2Z2FqVnFjRVo4Z1VLX0JSLS1uZnRLNklzaUUtRk5INHRnUzNQVXhhYTNqLUp1anVVVGs3VFY0emxOTUFhbE5vLW0tYi1n?oc=5",
+          "published": "2026-10-07T11:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.578,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력이 후원하는 국민참여형 액티비티 `아시아 최초` 이벤트 지속가능성 경영시스템 국제인증 획득",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0d5OGpGVURDOV9ZME5zUDlMNTBwdW8yVmNRanQ0TkwxdWxRS0VWMTQwR2tZSWZEWVlPbjFFVWZGc1MzZFpzWFptSFlCNWFhQmpjWTdKS0lrVkVHOFl2M09YRVVoX2R2X0VhSl9NWXBIYmMwR1ZaN19jS3Z1azN2Ng?oc=5",
+          "published": "2026-10-07T07:10:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 후원 국민참여형 액티비티, '아시아 최초' 이벤트 지속가능성 경영시스템 국제인증 획득",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQ1V0bGE4RldqZGp3bko5MkUxZ2VzMTJBQ3pDMm9qVFd5ajdzZ0t5WU04enlIdE9VVWNwWnJidVhuWEppdFJwUkhkU2ZpYzlzSXdYUEZoRXJOc05PREx5a3lEcGxmQVNjZjV3X2NmWWlUV0N2THZUa2hpOU1VYno1ZDVhOXg2NDVWeVZuQm8tVGlWLXRPRmtLc3RHbHgxMXB2X0U0TG5BbTBmWUZ4T3NtR0tha04wVkppalZ1c1FRdmRZSnh5TVdYMWlWVUJlWGExNEQtaU95T3RIWlNHdmZldFltN3FNM2RMbjhIZjBlem51cVZMS3BpZVBldmQwcUlVanNiNFZOVDBqaFhxdDVtUVEyaVVPQWdRSnZYRWNQd3pjX00?oc=5",
+          "published": "2026-10-07T07:25:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 아시아 최초 ‘이벤트 지속가능성 경영시스템’ 국제인증 획득",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JRjZVSm93T1dxOEhNUWhSMEZ3ajctM3Jod3FjZlFWTnpPUlV2cWdCUHhFWVhFZl8zVjljY0tUbllOdGx0TUpBS1J5YVUzN2dPN0JOVHFYbkI2LXk1TEM1RnpyMm5kaW5YUnJDMHNZdHp1Z9IBckFVX3lxTE9JRjZVSm93T1dxOEhNUWhSMEZ3ajctM3Jod3FjZlFWTnpPUlV2cWdCUHhFWVhFZl8zVjljY0tUbllOdGx0TUpBS1J5YVUzN2dPN0JOVHFYbkI2LXk1TEM1RnpyMm5kaW5YUnJDMHNZdHp1Zw?oc=5",
+          "published": "2026-10-07T08:30:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 후원 국민참여형 액티비티 이벤트 지속가능성 경영시스템 국제인증 획득",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1INENXRjhOeXJuQ3BXeVI3VWp3a01IcHRwNDZfbW02SnlZajZGc0tUdmpXcm9wQkVoOGNLbUJmYlR3dmd5V3VsT1kzVl9aRE9iRkVSSEVoS3JLQVlwRUVTakVjR1dOR0NFTlFv0gFrQVVfeXFMTUg0Q1dGOE55cm5DcFd5UjdVandrTUhwdHA0Nl9tbTZKeVlqNkZzS1R2aldyb3BCRWg4Y0ttQmZiVHd2Z3lXdWxPWTNWX1pET2JGRVJIRWhLcktBWXBFRVNqRWNHV05HQ0VOUW8?oc=5",
+          "published": "2026-10-07T09:02:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 후원 국민참여형 액티비티, '아시아 최초' 이벤트 지속가능성 경영시스템 국제인증 획득",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CZjhIRVF6T1plWTVaWEYtYkF0bno0U1ExQlZvR0dWc25RVU9iemJIU25rTE5JTWp5Vkc3RUFXVUl3TnNRVDZMRDdMdE51T0pxMk04QlhKekoxcFU3VEY1Qm9YdnRwOTNQd0E?oc=5",
+          "published": "2026-10-07T10:25:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.547,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "HD현대重 등 12개 기관, ‘SMR 해양 기술 실증센터’ 출범…해양원전 상용화 속도",
+          "publisher": "해사신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWTDZBM24zYkdNcG9QZkQyUXdpcnA5Q1d5NWFVUmh1Y3ZvaW5ubkhkVDMxZlRiRjZhenhIcnRqMDI2cGtOTElSX210VXAwaWQyaFloM0k4a1cwU2c5SmVVMThPSy1nbUdFOWFV?oc=5",
+          "published": "2026-10-07T00:54:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업 등 12개 산학, ‘SMR 해양 기술 실증센터’ 출범",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84QjN5YmV1UTB5TU5IaXJmb1BCcDlRZWd6ajZndTN0Tjd3SUFTQlFtc3RGOVZ2N2tUZzd5bThybUhXSFdlcXk4TEkxVktBNXk4cmViMlo0Z1MzSnM5WGd2cjNn?oc=5",
+          "published": "2026-10-07T02:47:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업 등 12개 산학, ‘SMR 해양 기술 실증센터’ 출범",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DV3E5dEFaQTRNUl85cThhWG9GY1kwQ19sMmZ0WlJ4RnJYcE1iQjBJVU0zQWRBUmRiX3NXd3RyMWR6aG9SOVc2MFNJYURqeXFNc256M01UUkFZczg?oc=5",
+          "published": "2026-10-07T02:47:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대重 등 12개 기관, ‘SMR 해양 기술 실증센터’ 출범",
+          "publisher": "녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4ak5pa2tsTTlqNmhKNVA1ci1jS1VpU3MtSGVpWmtYbG1JN3BrMU0yaW93cTlPMVZQWlVBME95bDBLSFc4TGFyWEFCS242bkxaNHBkRXRHM2x0bldhODl2YlpMeG1VZUU?oc=5",
+          "published": "2026-10-07T04:28:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업, 'SMR 해양 기술 실증센터' 출범…상용화 속도",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pcEVTWFJsSWxTRE5YVTlJekNuUWpzaGtFX25NWG95R1c5S3diMnJ5clB1VlRDUXhkcnZSel9MU3FKeTd4eUVjRGlFOER6blpURU1FT1c3ajRPWFJIYXdkRg?oc=5",
+          "published": "2026-10-07T04:53:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업 등 12개 기관, SMR 해양 기술 실증센터 출범",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfby0tQWs2c2s2bmxXQkVVMUE3VlVBSWVHVjgxNDI0ek9GaURCQ3NkcE93UC1DOUZLSFoxbm54Rmh3UUVyal9BQXZyNWZLel81SDRHRm5fTGNTUQ?oc=5",
+          "published": "2026-10-07T04:55:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업 등 12개 기관, 해양 SMR 기술 실증센터 출범",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGE4cE9idDMzNVVHUkZxQ1A2TWpFRnBkSUI4UmdTMXI2d0RQeVVhRzNnQ3IzNUYxcHRudDYtSXBBRGY1WUpaM2E4WS1yNjhzcEJkdmlrYlltNkUwMHpPbHgtcUQzRjFzY29VdWRTaHd3VXV4NVhzN0t2T0FJNG1aYUZrY1hwdw?oc=5",
+          "published": "2026-10-07T07:02:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중 등 12개 기관, ‘SMR 해양 기술 실증센터’ 출범…해양 원전 상용화 속도",
+          "publisher": "나눔경제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PZEFyTEtFdGtMSWZCMFpua0ZodjZGMGpMOTBYZk9neE1FM2VSVGlsRVk1NEwyaDZONGNzYkJWYUJkc19WZU5sMFBDRjJuYXBaOVZMS1JQOHgzblVXbjVBcXY1VVIwVXZOSEJqQw?oc=5",
+          "published": "2026-10-07T07:21:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대重 등 조선·원자력 12개 기관, 'SMR 해양 기술 실증센터' 출범",
+          "publisher": "파이낸셜신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZWNLbDRYQjlXU2c1eVhPN3RoYnl5MW41bVBNZ0s4TEF3Z0ZfMHFmTTRIa3dGSWRwTnZ5UzdRcVNiTWtXWU1IUzBwZW5mSlhiRE5ocWVKMHdhYkQzZnYxVlBXTWh1ZjhkZ0ZN?oc=5",
+          "published": "2026-10-07T07:31:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대重 등 12개 기관, ‘SMR 해양 기술 실증센터’ 출범",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RNUZuSkJNMXBjVkhfanMxbnFxdUx2N21aWUJiVTNvUFdzQTRBRElkWUM1NVZqbmwtZDlpY3ZtalAzbkhEOFBfaklDRktGUklmR09SR0pVcEFlcmg3ZEZKQzg4a0E?oc=5",
+          "published": "2026-10-07T09:36:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HD현대중공업, 12개 기관과 ‘SMR 해양 기술 실증센터’ 출범…\" 해양 원자력 기술 실증\"",
+          "publisher": "팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92cnVhWERpcmRsa3g4djl4SzFCUEJ2bEg2T1paVm9kTGtIaGxlWVpZNldILVl1MUFqeEQ1R3lBVTRhMHJLdndGU0s1VFNfZllFMVQ4S09YLWNyREJ3ZTNoMktBQkl6Yk0?oc=5",
+          "published": "2026-10-07T10:00:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.53,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA-led Team Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-led-team-samples-alps-treated-water-at-fukushima-daiichi-nuclear-power-station-under-additional-measures",
+          "published": "2026-10-07T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA-led Team Samples ALPS-Treated Water at Fukushima Daiichi Nuclear Power Station under Additional Measures",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ21tWEp4a2MtZTRsbU1XOHM2Q1kwWU9KaVZocWpPVzVwR3Q2R0lqc3pjN1poZnBKbld0X2doUzFuVlo5TW93R3F1OEFraDh0M3loR1BMTnRCN3B6MGlHM2JuZXUzU005T01Pczc4aWJhTGx0ZGg3cHFjZ0d1Uk9RZ2ZuaXpzY2szNTVNdXNwT292dHIwbFVKVGxMVm51S0wzYmhfME4xNlJyVGtjWU5DUjV6ekVBLWo3UnYzS1pMSk9PRDJKS1Q3RGJuTS03N1gtVW1MUTBTVTZhaWdxSmROTW1hRUQ2ZDVJUnFB?oc=5",
+          "published": "2026-10-07T05:57:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.361,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 한울원전 4호기 재가동 승인",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TWmxfRnA3MVNIaVFjVEpOTlRvV0pNVUdVamIyeDBPOTUzdnM3bDFMNXBRdHA3UzQ5YVNySnl6RkhId3Z4S1NTNFhmOWZzUEJfVkdxQjNyYmE0ZjVtNjFxam1Vb005VHJ0aTdvNFRrOUJJdw?oc=5",
+          "published": "2026-10-07T05:00:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 4호기 재가동 승인…원안위, 고장 원인 확인",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OUmJhV2MwUUU3Sm9BQTVFNEtkQWFUdW5MblJ0eDExdXVpSzBRY3lRTGFNb3F0aGhmSmdUQV9FRnhZVk1Qbko3akVnOFQzUHM0MUdCOEw2cEwwUGpzRTBHZzlLTlpBN1U?oc=5",
+          "published": "2026-10-07T05:04:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 한울 4호기 재가동 승인",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SXZPT3ZBclRxT18tam9UbWJJYWJJSFl3amtIenBlckJwUlRYV0dINS1LMzYtck80TGZEb19zRWdNR1BVSGVCRGZwUU1xa1dHYUJOYnJfUlBzbDdiVjI0SHM3dlBJbWwyVVBabw?oc=5",
+          "published": "2026-10-07T05:05:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 한울 4호기 재가동 승인",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hbGNUanpKMjRLYlBVd2d6RE1sMkZCckxsdDBpalZuaWNkOFROdUl5R01XSmF5elpIOUhwa1NWTG1vV05JR3RtWnZaVDV3bENzaDBiU3ExZE9IQ0tsTUV4WEZGb3Q0QQ?oc=5",
+          "published": "2026-10-07T05:30:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.342,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BWXT’s BANR selected for Canadian project",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-07/article-8471/bwxts-banr-selected-for-canadian-project/",
+          "published": "2026-10-07T19:55:52+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.943,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BWXT's BANR microreactor selected for Canadian transportable nuclear power plant",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQTlJeHZUc2EtR21mUW1ONGs1bDJVbFYyUXBuUmtaTTh1ZWhtcHZtZnNOSWFhTUxraHRla2NESWRkV1htSVBTZ2h1LUszdVc0Y19YanBRbW1vVVJpS0VfRWx4bDBvdER3MFc4U21LcHpnWDBiX1J5VnkxWWtVM3dPeUxXTy1BVzlnV1BFY0xrVEFIWi03RnNUaGRzVTF2SlZRY0hjcExPRVM?oc=5",
+          "published": "2026-10-07T11:04:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "US firm’s microreactors to power Canada’s first 50 MW-class transportable nuclear plant",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHdFMTNQeGpTbHNxTFVNQVV4U3FiWm5VSmJpQ0hLVW1OaHlUWTIydUdYWENtUzdVSlVXVmhUeXdQampMazJnWGVDLTM2eF9BOHAtQ3VvbXBaaWpXbXgwZ2hwbFE5cndxelM0c19NakRrTUVaLTVrallRZHBKMDRpMUFrRlpEVzFxYm44?oc=5",
+          "published": "2026-10-07T14:46:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "BWXT Shares Jump 8% as Microreactors Chosen for Canada's First Transportable Nuclear Plant",
+          "publisher": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pU3JJWmNoaHprQXdOblluZGtROGJwc2JUMUhMalBYcFhaMDVBM2plQlVSZG5sbnROUnhaSjhQYzBFUWY5X3p0MDhpQl9Ib3FmVWpMbVNpMDJxTTNkYUpXelB4ZEdYWmFndUV1Z2FUWUVFMFhTdmc?oc=5",
+          "published": "2026-10-07T18:27:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.881,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "GAIN announces fourth round of 2026 vouchers",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-07/article-8470/iter-welcomes-last-major-component-needed-for-core-machine-assembly/",
+          "published": "2026-10-07T17:35:30+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.845,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ITER welcomes last major component needed for core machine assembly",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-07/article-8469/iter-welcomes-last-major-component-needed-for-core-machine-assembly/",
+          "published": "2026-10-07T15:29:02+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.758,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Deployable Energy to test its Unity nuclear battery in DOME",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/deployable-energy-to-test-its-unity-nuclear-battery-in-dome",
+          "published": "2026-10-07T14:16:05+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.707,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Eliminating Heat Risks in Nuclear Cleanup: A DOE Contractor’s High-Tech Blueprint",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-07/article-8457/eliminating-heat-risks-in-nuclear-cleanup-a-doe-contractors-hightech-blueprint/",
+          "published": "2026-10-07T14:00:17+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.696,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh nuclear plant draws hope -- and worry",
+          "publisher": "ucanews.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRGE4YXRhTEVEOTJkVzRlZ1Y0S3duSDBWOVJzV0Z2cGU2U2g3VVhWclJENFVMenotcGJEMGxGekg3OFJURUZ4dHJmd2VTaWRPUkpRaEhndEJVZWNrZTY3bllQTGstZlZJM2hETXRKTmMzVWhLOUJoQTZESjdmU1FiMEVRMHFHYXPSAYcBQVVfeXFMT0RhOGF0YUxFRDkyZFc0ZWdWNEt3bkgwVjlSc1dGdnBlNlNoN1VYVnJSRDRVTHp6LXBiRDBsRnpINzhSVEVGeHRyZndlU2lkT1JKUWhIZ3RCVWVja2U2N25ZUExrLWZWSTNoRE10Sk5jM1VoSzlCaEE2REo3ZlNRYjBFUTBxR2Fz?oc=5",
+          "published": "2026-10-07T06:40:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh nuclear plant draws hope -- and worry | Gulf Times",
+          "publisher": "Gulf Times",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlA5d3VQUUR4Y3Q4X1VGQ0NVQlFGcTdoSTgwS18tekw1aEpjbHgwc1ZjaTFUeWQzTmtMY09MYWhzdTkxQmhuc3ZiTVF0WF9aZE9DWmZNVkN5Tjc5MElzaHNjaUxSbm4tQTBkdDVTOU9TQk91Uk1IaTN2dnBrTjJpNWtyY1ItUFVrQlZXVzNBcGdiWV9DSXJJeTlrLXVFQ3BUTUNjempDY3dETHR4Y2tCbzRjdF_SAboBQVVfeXFMTzdYdVZJZ2tUbmIySVhVQ1RMak01NEhPaENRb3Y3V0wxLXBRTTdXR2Jpakl6Vk05dzZsM2xsTkRvY1oxRVUxTkxydUZHam1kN1FoUlFqemJHTU9FVUpiZzMtVGYtdE95VUdOdDNIa0VZQ2UxMGZDN1dmZ3dxakppdWotNnZZbktaYmtKdU53RV9NZTlmZVVaZUFQQ1FtU2hSZ3g4WTI0d3h0S1NXLUpTNmlIV2FJbTVfS1BR?oc=5",
+          "published": "2026-10-07T08:47:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh nuclear plant draws hope -- and worry",
+          "publisher": "AFP.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82bDlvMG9hYkVGb2E3QXg3LVowNjcxdXhnQVRDV3J6S2pvcl9CZHdqY0s0cDFxNE5aeTVzOS1uaXdvWlRNZWFNcnM4Yw?oc=5",
+          "published": "2026-10-07T13:57:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.694,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "State roundup: New developments in Midwest, New England",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-07/article-8468/state-roundup-new-developments-in-midwest-new-england/",
+          "published": "2026-10-07T12:16:47+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.624,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Swiss citizens may get to vote on construction of new reactors",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/swiss-citizens-may-get-to-vote-on-construction-of-new-reactors",
+          "published": "2026-10-07T12:00:25+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.613,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "German uranium oxide storage facility commissioned",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/german-uranium-oxide-storage-facility-commissioned",
+          "published": "2026-10-07T11:55:24+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.609,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Key equipment installed in BREST-OD-300 turbine hall",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/key-equipment-installed-in-brest-od-300-turbine-hall",
+          "published": "2026-10-07T10:12:49+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.538,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion firm Xcimer announces fresh DOE milestones award",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/fusion-firm-xcimer-announces-fresh-doe-milestones-funding",
+          "published": "2026-10-07T09:49:24+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.522,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전수출 리더스포럼 출범…K-원전, 미국 공급망 진입 본격화",
+          "publisher": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wUU53NE4tcWczTjFydWY1Y2wtMmdhOUlScUdlM01uck1ScDhDUU5vUHJTWkQxMWtxV2V2ajZOVWd4TGVuVUQyZElteUtDZzlUb3RieENQT1FEckNIUlctQWtINko?oc=5",
+          "published": "2026-10-07T01:56:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "‘원전수출 리더스포럼’ 출범…美 공급망 진출 논의",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wRWo2SjF2UW9PNEVaRjQtMDd2UXNnNlhZYlB1MDYwSWI3a2ozN1IxMkxzUEFoc2ZhUUJQd3FBNG5QOWxwYjdEdDU1M2NlaEJwczY2NXc1d2YtY2U5Q0FCbmZKMFI?oc=5",
+          "published": "2026-10-07T09:53:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.525,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "‘SMR 해양기술실증센터’ 출범… 조선·원자력 산학 12개 기관 협력 - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEdWejMtU01tM2JPSXZwMzFVdkpvVmJyVWVOS19LejcxUVY0Y2VhbUk3MjF4Z01EcmNYcWQ3SHA5WGp3cTVYd0RqblRqbVJfcVhTRnlqT3hUbS1Xa0pyQUc2cWFVdzhtUE1HQjV0MHU5UVg1S21YNGtyaXB0VlNBZnBBdTdCNTVFVWRkTElUMHBBQTZfTzNuRdIBmAFBVV95cUxQUEdWejMtU01tM2JPSXZwMzFVdkpvVmJyVWVOS19LejcxUVY0Y2VhbUk3MjF4Z01EcmNYcWQ3SHA5WGp3cTVYd0RqblRqbVJfcVhTRnlqT3hUbS1Xa0pyQUc2cWFVdzhtUE1HQjV0MHU5UVg1S21YNGtyaXB0VlNBZnBBdTdCNTVFVWRkTElUMHBBQTZfTzNuRQ?oc=5",
+          "published": "2026-10-07T00:57:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "‘SMR 해양 기술 실증센터’ 출범…HD현대重 등 조선·원자력 12곳 참여",
+          "publisher": "www.dt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wZWd0V0F5WVdFZEZZZUIxajY4ajc5NmxJWWIzamM2UHJuU1R6TEhYbFpVVVp0YWRDa2RPQ3VLOHdoWjd3TmQyZU5nTjJDQQ?oc=5",
+          "published": "2026-10-07T09:32:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.51,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울 4호기 자동정지 두 달 만에 재가동…원안위 승인",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OU1RScVNnUEZCQ1V6ZDV5Vk9uQ2p3QmFNZkRhOUVpdkc5VkxkSnlYQURIblE3S1RNUGx5N0FvekRKYWFwMlhRcm1WaWhMR21hQS16eGlXZEI0Q3lici05eVFIT2w4STV6SUc5U9IBcEFVX3lxTE44MDFScFpWUmNsUFJYVzdXZ2tscFpKYWttMHpnekhBZ0hCdHljam9zY0h6UGE1NUtHLWpTZ2FpVzhPZV9UbjFpZXV1c0pTVzFvM3dfYWdwbTVSZ1BxQzNDMEgzcVc5bFNVaENXTkJZWFA?oc=5",
+          "published": "2026-10-07T05:19:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "자동정지 한울 4호기 49일 만에 재가동···원안위 승인",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YOEtGdFZDOFJVTlNJWG1PTUk3cFhYeTYxUXFudlJtczlDNXVtRUhHTUFHWl9vRUMxTDlrN2JSdGRydXdaSzlva1NlOWtYQV9NNE1FNHppMnduTTBLejk2bFhRdmhka2M2aWQ3ZEVKRF9HUdIBdEFVX3lxTFBvY2F5MWhMQ21BcjRoYWVaUE55WFRMVFVvbF9pekp1WnUyZzFZeXBrMTFpZlh3cnU4bTAwOGc2Q09OczZiNHRKUUJURU1oR0FkdXliNlBES1VKczlQandRX3RIZWU0cEE3Nk41cW5vSkZTd0F5?oc=5",
+          "published": "2026-10-07T09:25:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.505,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 후원 스포츠 행사, ‘ISO 20121’ 국제인증 획득",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZNVVvd1ZVNmNSck1vMm4yMWVwNWwwbHA5NG95c2EtSU1ZdWtXNGVaRzJyNDNOdDZHUGl6MHBZNDVuRmJvdnc?oc=5",
+          "published": "2026-10-07T08:03:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 후원 스포츠행사, 지속가능성 국제인증 획득",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BbEc0TUIxYl9IcWRKakVRRGZiQjMyTk96Y1YzdzEzUGxZdUJxbFJScXMyZE1BTnhPc0lkMEZwemtzSWRSQzN1MjIwaVgtd3NLQ1QzYzEyeFNuc2o4UGxPRzhOZ0tjSlQ4blRYMg?oc=5",
+          "published": "2026-10-07T08:17:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.458,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한미 원전 2028년 시동…노예계약 족쇄 푼 정부 속도전",
+          "publisher": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ITkJsZTR1MFhzc09JTlZ5a0VJalp6SUxrcHlGR2h0RUllY0tieTJiVkkxSjFudlM0bmp3R0x5MG5KTXhwdmtuVXZSNHNkVlU?oc=5",
+          "published": "2026-10-07T06:37:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한미 원전 2028년 시동‥정부 속도전",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzN056Y040QlFrSlhtY1hPTzVfLTFJQWV1Wm10emczU3lCUmNWMko1RUtLUU85V1gxbVhBOF92Q2lkOXlfaUkxRUhWTmhzWGlSdFhvRVJPWnBzMXdUMFlUWlB2aUJXMjdXQkNKTk4xVDZhSW9B0gF0QVVfeXFMUDM3TnpjTjRCUWtKWG1jWE9PNV8tMUlBZXVabXR6ZzNTeUJSY1YySjVFS0tRTzlXWDFtWEE4X3ZDaWQ5eV9pSTFFSFZOaHNYaVJ0WG9FUk9acHMxd1QwWVRaUHZpQlcyN1dCQ0pOTjFUNmFJb0E?oc=5",
+          "published": "2026-10-07T07:31:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.426,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, '자동정지' 한울 4호기 재가동 승인…\"한수원의 이행 지속 점검\"",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00bnNYWUt3ZEsyUk5TbExRZTctWDVKVXRDZmZtSjBSUWdLSjVOYnJOLUNNZDYyRHhQSkhoN2FUSzdqZFZMbHRtMnVTU0dUeVJYamwzS1c0ZG41STVhb1FXS3JxVFdSZlBxWW16UmwzNmEtZnQzeWhXVdIBeEFVX3lxTE00bnNYWUt3ZEsyUk5TbExRZTctWDVKVXRDZmZtSjBSUWdLSjVOYnJOLUNNZDYyRHhQSkhoN2FUSzdqZFZMbHRtMnVTU0dUeVJYamwzS1c0ZG41STVhb1FXS3JxVFdSZlBxWW16UmwzNmEtZnQzeWhXVQ?oc=5",
+          "published": "2026-10-07T04:57:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 자동 정지됐던 한울 4호기 재가동 승인",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nc04zNFdSRkdoSE1pRFZpeWpWLUI4WTRpdmxPelFqYlNuU2lIX1BDUGlBcjJFeHJFMDE4OWp2TThFZVJvUjRiSHNfemFCZ0V0ZHduakJvR196X3ZDeVZQYdIBYEFVX3lxTE5nc04zNFdSRkdoSE1pRFZpeWpWLUI4WTRpdmxPelFqYlNuU2lIX1BDUGlBcjJFeHJFMDE4OWp2TThFZVJvUjRiSHNfemFCZ0V0ZHduakJvR196X3ZDeVZQYQ?oc=5",
+          "published": "2026-10-07T06:37:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.388,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[인터뷰] 한수원 정병수 본부장 “양수발전, 효율 높아진 전략자원”",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Zd3p5c1EydTBfa0hNa2tLdWtxeVB1bXhjUW5BMDQ1MUZsM1VRM1hKclA5ZENLV05RTEl4ajVJTWQzYWQ5NFlRbzduQ3lzOVJ5Q1RZa1JpamhtUlMtemFIem9TV0ZzYnNYd2hlU0xn?oc=5",
+          "published": "2026-10-07T21:00:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.988,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"50년 노예계약 족쇄 풀었다\"…美 안방에 1,200억달러 원전 잭팟",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3UlpmSmx2bW1pWXZVVmstb2pWTF9COTFGOHR6c0xwdS1mSUR4UmVwbFNNMnFhUG0tV19nX1BYVFBHSWRYNUNXSlpYWEVIckUxUXZ0b0ZyMHEzVEhwbGM0RUcxVVVaQURv?oc=5",
+          "published": "2026-10-07T21:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.987,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'물' 대신 '우라늄' 택한 중남미…가뭄 위기에 SMR 도입 '러시'",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzLXRlelplRUtZVnJ1LXVxTjdUV1oyR1R1cFV2SHY2MElKTkhTVjgxM1hvTHVrTmZHSEJLempqUkRqTVAtQlo4dUNqbjNGLXBMZFd5eVhkemhIZjFGNGNMelBwcjc?oc=5",
+          "published": "2026-10-07T20:56:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.985,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "부하이취안 장관: 원자력 안전은 최우선 과제이며, 어떠한 실수도 용납될 수 없습니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1N3WVdxR2dnaThpeEJuWG85MXVwUGFVanpkOUwyRlM2UmUwRnlPQzc3c2JlWWQ5dmZ4Q0J5WW5mbmFqU21waXo2cm45R0hPMjZKYmZlS3dxUW9zdW0yTXB1aEJVbXFTall0YnQ2SkM1OXQxYTZaUkFReWhKSE9HZjdDTTNDN1V6OXA0MTE3dWxsWkUzeS13X3F0THJURGN2cXpWSHZMaHM?oc=5",
+          "published": "2026-10-07T20:19:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.959,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 95
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 40,
+      "kept": 29
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 100,
+      "kept": 97
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 44,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}
