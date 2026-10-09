@@ -1,0 +1,547 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-09T20:53:57+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "JAIF estimates economic impact from nuclear power plants",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/jaif-estimates-economic-impact-from-nuclear-power-plants",
+          "published": "2026-10-09T13:52:48+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "JAIF estimates economic impact from nuclear power plants",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjB2QzNYT0hIMmQ0NlJkSmNnSVpvdUs0S2xQVUM0MHRMcFhOWlZWRGlZQm5YWmNvc09vOGR0RmRudkJYX2xqTFE5czgxUlVhdUQtWmQtNVdsd3Y5UTZMeHFOdDV2WVNDamlnZ1dKU1VGUnNqM3dRc0FGaGt1dUNZM1EwQkZ3YkpaTFJQbUtkaUpBbURYTFBGYWgtTDNxcnNaeXc?oc=5",
+          "published": "2026-10-09T19:29:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.941,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-swedens-oskarshamn-nuclear-power-plant-0",
+          "published": "2026-10-09T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA Concludes Long Term Operation Safety Review at Sweden’s Oskarshamn Nuclear Power Plant",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYXlPVVBqcEVuRHJWUEM4dFdQTXlYRHBndGpOX1ZUTjhaaFN3TzJMdEJZdGY3MkIzZ1VBNWNhOFlPcFhlOU8xYUt4bnI4a3RXTFFvY1JQNTM4N1d0ZVFSdHZocW9CTUFWNDlVTFNGMjR0TGlWYXBuQVlON3Z4WV9MeW5QY25LVGNjSDZxUjdycHFMdlpCYUZHRS1wTTJZYzZwVVJOZDBKVkVWVkVGd1F5bkR1eTBZNmNnZ3JrcFlTaGdsYXUyR3ppR3JqREh1dVVfQ3ZZ?oc=5",
+          "published": "2026-10-09T09:13:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.514,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Seeing more, repairing smarter: How advanced NDE and repair technologies are changing nuclear asset management",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-09/article-8411/seeing-more-repairing-smarter-how-advanced-nde-and-repair-technologies-are-changing-nuclear-asset-management/",
+          "published": "2026-10-09T20:49:01+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.997,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fermi America, Blue Energy make strides in Texas",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-09/article-8479/fermi-america-blue-energy-make-strides-in-texas/",
+          "published": "2026-10-09T19:05:29+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.925,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "General Fusion reports electron temperatures exceeding 1 keV",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-09/article-8478/general-fusion-reports-electron-temperatures-exceeding-1-kev/",
+          "published": "2026-10-09T17:05:16+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.841,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hydraulic tests completed at Turkey's Akkuyu 1",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/hydraulic-tests-completed-at-turkeys-akkuyu-1",
+          "published": "2026-10-09T16:45:45+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.828,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Podcast: World Nuclear Symposium 2026",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/podcast-world-nuclear-symposium-2026",
+          "published": "2026-10-09T16:40:22+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.824,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Researchers in Vienna and Beijing report nuclear clock “milestone”",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-09/article-8477/researchers-in-vienna-and-beijing-report-nuclear-clock-milestone/",
+          "published": "2026-10-09T14:32:41+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.735,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Latest Terrestrial Energy topical report submission could lead to faster deployment",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/latest-terrestrial-energy-topical-report-submission-could-lead-to-faster-deployment",
+          "published": "2026-10-09T14:11:55+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.721,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Danish Decommissioning files final repository proposal",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-09/article-8476/danish-decommissioning-files-final-repository-proposal/",
+          "published": "2026-10-09T12:09:46+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.636,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Framatome to continue maintaining Sizewell B plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/framatome-to-continue-maintaining-sizewell-b-plant",
+          "published": "2026-10-09T09:58:19+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.545,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원전 4호기 발전 재개…\"설비교체 마치고 100% 출력 도달\"",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aSVhCS3N4cktRakM3SW0zV2ROWGo3Y19CdnZlYlNOTVluTjlSVkNaTGZ3a2JDRmlmMTQzMzlRSXpEcklONzktVTVSTEg1V2kyT2c?oc=5",
+          "published": "2026-10-09T03:36:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 4호기, 49일 만에 발전 재개…100% 출력 도달",
+          "publisher": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iaVR3U3ZXeWp6ZHRZTFJDYks5QnAyaDdYenZvd2Y3SnFzWk5qWFN4RDFPTko1OTRfXzhqSHRaYTVYSGRkUU04c1BxeWNzOWUxN0lyWdIBVEFVX3lxTE9iaVR3U3ZXeWp6ZHRZTFJDYks5QnAyaDdYenZvd2Y3SnFzWk5qWFN4RDFPTko1OTRfXzhqSHRaYTVYSGRkUU04c1BxeWNzOWUxN0lyWQ?oc=5",
+          "published": "2026-10-09T04:28:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 4호기 발전 재개 \"출력 100% 도달\"",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZeFd5dHhuQ08xY3RrU2ZiMEhPRHo5LVozRS1mWmRnWl9EWkd5SUs3X0VGRVBsTzZfQVo3cXkxS1JwQmlEWVFOWDJlWG9KbldJNzdLVGVoS1p2Zw?oc=5",
+          "published": "2026-10-09T04:29:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.316,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Update 370 – IAEA Director General Statement on Situation in Ukraine",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-370-iaea-director-general-statement-on-situation-in-ukraine",
+          "published": "2026-10-09T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.129,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Completes International Physical Protection Advisory Service Mission in Pakistan",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-completes-international-physical-protection-advisory-service-mission-in-pakistan",
+          "published": "2026-10-09T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.129,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom commits to early grid synchronization for Rooppur nuclear plant during talks with Bangladesh Minister",
+          "publisher": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVTByd2ZIQWhOSGpVUkxSUkh6RklwbDlKeWZEMnIyVy11VGs0U1BhcHFfZ0NLVGpTSHd5SVlXU3VqTEhnS1NuRC1VbG05OWZmNkJKWWotTGt2VlR1aHpxSmNjUmZCcFl0RzhEekx6dy14VXlHSG1KdXVCUi1oendiMkpIUEFZc2VHQkt6QmE4TVllR29uSVFSWWtfMnBjUWFYSUVhQVRZVHdxWFdCSUNKRzdFZmZfZkp4Q2ktbmdpQmttek9NRW51SUZwYlZmQVlVS1owdzJmdTk3Rmt2UEpnN1FKZG9JYTlY0gHoAUFVX3lxTFBVMHJ3ZkhBaE5IalVSTFJSSHpGSXBsOUp5ZkQycjJXLXVUazRTUGFwcV9nQ0tUalNId3lJWVdTdWpMSGdLU25ELVVsbTk5ZmY2QkpZai1Ma3ZWVHVoenFKY2NSZkJwWXRHOER6THp3LXhVeUdIbUp1dUJSLWh6d2IySkhQQVlzZUdCS3pCYThNWWVHb25JUVJZa18ycGNRYVhJRWFBVFlUd3FYV0JJQ0pHN0VmZl9mSnhDaS1uZ2lCa216T01FbnVJRnBiVmZBWVVLWjB3MmZ1OTdGa3ZQSmc3UUpkb0lhOVg?oc=5",
+          "published": "2026-10-09T15:25:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom commits to early grid synchronization for Rooppur nuclear plant during talks with Bangladesh Minister",
+          "publisher": "Lokmat Times",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdUNJaVlVZnFDRkxOb2k0dmdnUlpVaUJHTTVOZE9JdGg5bjQ3V3llaHQ1UUhTdUZURUZxS0NvVzNoVVdxTU1vNXFvUEhaYlQzaUxINGkxYUR0RGxYMjI3MTJBNWlyVl9FdkFiV21lZXNqMGs4cVByTk1kUmZvYzJGX0tvYmQzb1pJQjRvbXZMeHo2TmdiQ25IdUdsSUNqUUNnSkpYcXRGZlIwSHRxMzBfTzJMaGpfZklwSGQwd3dZR0RQaloxdHU4MXhUeG9Cb3hwNGx4T0lUb3dNZ1p4czVicnJFN2VjX0Z1TlB2VNIB7AFBVV95cUxPdUNJaVlVZnFDRkxOb2k0dmdnUlpVaUJHTTVOZE9JdGg5bjQ3V3llaHQ1UUhTdUZURUZxS0NvVzNoVVdxTU1vNXFvUEhaYlQzaUxINGkxYUR0RGxYMjI3MTJBNWlyVl9FdkFiV21lZXNqMGs4cVByTk1kUmZvYzJGX0tvYmQzb1pJQjRvbXZMeHo2TmdiQ25IdUdsSUNqUUNnSkpYcXRGZlIwSHRxMzBfTzJMaGpfZklwSGQwd3dZR0RQaloxdHU4MXhUeG9Cb3hwNGx4T0lUb3dNZ1p4czVicnJFN2VjX0Z1TlB2VA?oc=5",
+          "published": "2026-10-09T15:43:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.785,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon Just Signed a 20-Year Nuclear Power Deal. Here's the 1 Industrial Stock That Benefits Most.",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0ZUM09ndVhYYWZqQWRyRTdNOE5BT1VGaV8ycG9qdWUyeVpUYmRKeWZCcTNHVUUwUVczRVlOcXBGUXAtN2RyaWJ3dmxfeEJFeFlNRWJKM1pCdEp6cmlmNE5OSm5yOWEwNHlhLWVSSnNFclBMeFNBdmlUT0U4dFhlaHdLR3o0RXRfN3VHbFpORQ?oc=5",
+          "published": "2026-10-09T11:53:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Just Signed a 20-Year Nuclear Power Deal. Here's the 1 Industrial Stock That Benefits Most.",
+          "publisher": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjJmU1R2b0tRemNsSkg5aERZY2VEY1MwVzdVYjBiWVlpRkxSRUkxN3JHZnIyOVpxUzhGWFVQcUtuOUJtMk5HeldVZm41aVk3dFl2TzItYlFLVUNJd0RHTXphUkxwZkh4ZXB1U2k0ODY0NEU5WGNLT0NxQmNJaHd4Z2hQV2h1QXktR0J0c3NPb0U?oc=5",
+          "published": "2026-10-09T12:33:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.652,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“일본은 원전 20%, 한국은 35%”…한일 원전 정책, 목표보다 실행력이 승부 가른다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pUy1PNHJYdlg2SU9hblhpNXpXOXIwc2QycS03UGlBc2dJSFN3WXFNX1Z3ajcwSHRKTU5fbThaSXYzbUwxN2gydzN0UGQ3TUp6UEY4YVdCdVJjY3M0V2RaVGpCZWY?oc=5",
+          "published": "2026-10-09T20:42:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.992,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "일본 원전 14기 재가동에도 부족하다…IEA, 2040년 원전 20% 달성 위해 신규 건설 필요",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yeHBobEtwZl9BeXFBRjc5TDJTTDJlT09xM25kYmctMllQNEFMcW8zQ3pjbjYwbWNENm11Sm1UaFlicmNMTTVQdjRmUlJva25LX3VZNXhWaXFpYnpBbzdDV0w4eE0?oc=5",
+          "published": "2026-10-09T20:29:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.983,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산에너빌리티, 3%대 하락…삼성증권은 원전·가스터빈 성장성 주목",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSHc0UElKa3dRU05sMDlhMXdkbXMwSWdKSy04MlJQNXdPMEJVc01UaWUzNW5NYXR1VG1IOTQ0R3N1V1ZWOE1jdU9BSnBaZzhKYjlTUzF6eFNYX2pielVCWjRDOXFnbXhM?oc=5",
+          "published": "2026-10-09T19:14:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.931,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전은 발전만 하는 곳이 아니다… ‘1,200억 달러 시장’ 선점할 산업 플랫폼 전쟁",
+          "publisher": "www.ainews1.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Nd2ZjTktfTjFNV2JGT2ZFRFlqeUxRWlVTU2NjNFdhVDFCejQ3c3V4YXd2WVVnYk82RHktcUFqTFZKWmdzTGczNlhFUnJJR1JKSFMzREVmbnFUcHBvcUlEOHFrdDBCM1BEZnpV?oc=5",
+          "published": "2026-10-09T16:56:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.835,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"안전관리자 없이 작업\" 원전 안전관리 `구멍`",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LVGRjR2dGLVJJVXNMNnNJR0hUY2VXQ3dqTERfZkRXbElGM0UzSGZ6MXBkbW1EUkoyUV9DQnZvNm9HbGcxV3JTYmdVOFFENVk4ZFRBdm9ZYm5QSEE?oc=5",
+          "published": "2026-10-09T16:35:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.821,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 웨스팅하우스와 네덜란드 신규 원전 2기 기본설계 착수",
+          "publisher": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKaXF1X1BFaldXTzZ3VlhqV0FNYzF6ZlBsTjRBaUFoQzVxX1owSE45X19oM1VVejNhUDV0OEo0NWo0VlI1a1RURXZScmhnanJRTENQODNSTi1DVEF2YktfajZPc2Y?oc=5",
+          "published": "2026-10-09T15:32:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.777,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "구글의 원자력 거래가 콘스텔레이션 에너지 주식 투자자들에게 어떤 조치를 요구할까?",
+          "publisher": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTJ1cWJXLWlPUTNRVVhvSHNmV3NfYmZNTW5rTWhSd1BrVTdsbW82N3RVSXBicUxFOFVVVFdVVXZ4VEVrZ3VodmZjd01NZmpQOW5Ba0MxOUdFdm9uWTZTdk1XVUtwaWdnUThCd3RhWF9RREY5NjdYQVFWSUpSaHF0bU9NTkUxZ2ZucGUxd20yWGh3cmV0UEJzeU9LanI1TnfSAaQBQVVfeXFMTlNzUjFJN0ExVE5NZUNhNkVmUUlCeGdpZlUwVWRndWVqREEyZE43SWhsX2lFVERxbEVmYVNDM0UyVnFBbTRUeWNWc0RJSEwyRmtQQ0lEWTVpVWV1VXQtekhFY1hvME04RG12R1pNeEI0cVdjN3B1Ync0bFdBRFVnOC1zMzNydjl3RHEtR0pJRVg0RlBLSXhVYjZEeUo1UzRndjh0Ymg?oc=5",
+          "published": "2026-10-09T13:53:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.708,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "조주홍 영덕군수, 원전·풍력 묶어 에너지산업도시 구상",
+          "publisher": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ibmxlTmF1Q0JRZlluel85b1FtbVNnWGdvVFVfWGpZcTVpY280aklHd3lib3EtejY3UWVabzJiZjM5RWViWFpXX3BQdG44ckUtV001NHlTbk9uRUFGRzNKVkRHUXZ3WEtTS2cwS0NVRQ?oc=5",
+          "published": "2026-10-09T10:48:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.579,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 발전 계약이 구글(GOOGL) 투자 논리에 변화를 가져올 수도 있다",
+          "publisher": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjRQdi02MWtLNHlEUnljcXV4dUpPVnJzd3llWHNSQ1B1eVg3SW1mSk5LS3RLbDZ0dVdpdkxjTFdiWjdKRjVHVC1Hb2FsOEF0LVo1THkzS0ItY0lsYVVRTlRsUUFiMVhRMVVPa3ZTQlRHd1dSMDNIRHBPdEFkNG03NURxems3bF9ka1BfMjY0N0FRd9IBkgFBVV95cUxNMjRQdi02MWtLNHlEUnljcXV4dUpPVnJzd3llWHNSQ1B1eVg3SW1mSk5LS3RLbDZ0dVdpdkxjTFdiWjdKRjVHVC1Hb2FsOEF0LVo1THkzS0ItY0lsYVVRTlRsUUFiMVhRMVVPa3ZTQlRHd1dSMDNIRHBPdEFkNG03NURxems3bF9ka1BfMjY0N0FRdw?oc=5",
+          "published": "2026-10-09T10:04:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.549,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 발전 프로그램 시행: 숙련된 인력이 필요합니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjV0TmJObE43UFU4VlBoRGVveld3cTNtVUhtSnRIUFdSSkN3YXE2b2lCdkJoNGtBVGVkWl9VQ09QVTVGNFRmQ2o5cy1DR09mc1B5SEUwaXBxajZlZGR5VUpobUVCSmdjZ2ZMY2p4NU5ndVJlQ2RFNFB1b05lOEJUbXdoNGUzV2NNZTAwVnktdTlmalV3YnRvSmN3QUhFeDB0dGQ2b3ZR?oc=5",
+          "published": "2026-10-09T09:18:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.517,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 분야의 22개 석사 및 박사 과정의 주요 특징은 무엇입니까?",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamJIV3pOYV82V3dNLWhtcVhqZXFIQ25wanhMTVoyZUJuVWsycXRkMTZaeFJxcTdzLXlEakhBcmlOQmVCMUxmRWVUbnNDQWtVcFExcGlaSUY5d29rYm1WSG1xdVlhbmFOM1l3eUo0VjdxUEdGOENxU2V6ZlhQQkdTZmNmZGxKZUFvLWh0REk2UGZwb2otbXlF?oc=5",
+          "published": "2026-10-09T07:55:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.46,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 발전이 성공하려면 잘 훈련된 인력이 필요합니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2FxRkhpVF9TTW5BY0Q2VEplaHFuZTZneGk3ZjZadVdiM3F2eU5GZEhfS3JJQ2JXZTQ4YXZ4Vk13R3BzUXBDX0VRV1J0OGRGSWswLWZPZlNYMmdGdlVMYXJzcVlYZGV0S1E1MExWMzdsOUZ0NEZMdW9ZaUttM2x5d1dyeVpMMlRsVmdlQTVTdzZwZw?oc=5",
+          "published": "2026-10-09T07:42:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.451,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원전 4호기, 정지 49일 만에 100% 출력 도달",
+          "publisher": "https://www.2news.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82RHlUN1R0azN0SEVERGtBQms4cjlWdWhJQ2RqcTNzVjlRZU8tZ2RvWmExTHZhV1BRRGhpX09tYl9SNWhUNjhwTl96bkw0eTdjQm0xTGUyY0hpNkJYZHFHMXhUOTB4blV3?oc=5",
+          "published": "2026-10-09T05:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.354,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "새울원자력, 서생면 취약계층 밑반찬 배달 봉사활동",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KSXZzZWV4RmhfRmlhV2lIU0g1N1N1UTlNcTVRSGRUcjNGTC1mN05YaDlDbnpXLUZEZDVhZUc3VFAzM1FuUGJHcmREREgtelN4Q2FNMmhXQ3Zna0hDaGxIag?oc=5",
+          "published": "2026-10-09T05:06:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.342,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 97,
+      "kept": 50
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 13,
+      "kept": 0
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 61,
+      "kept": 52
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 47,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 3
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 167,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}
