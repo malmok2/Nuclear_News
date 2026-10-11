@@ -1,0 +1,563 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-11T20:16:16+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur nuclear power plant moves closer to reactor start-up",
+          "publisher": "Bangladesh Sangbad Sangstha (BSS)",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xVjFxVXpWTzVZNXZlM3BFbVZHa1JUbHZDQVZYWWIydmJnamtXbUk1eVpvVzl5QklQS2VWT0x2VVB2X05YOTFXT1FHN2pkanQtNTY4?oc=5",
+          "published": "2026-10-11T05:28:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant nears 1st reactor start-up after safety approval",
+          "publisher": "en.bd-pratidin.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tSFVoNm5YeWlWYldzdWNJdkhYN1VIVjFidFZ5MGMteWJyTTNyd29iV25WRld0ZDQ5cV9qV1ZIWnoyYzhjRTlSczREdGRDR1FBcm9NOTdaaUp5R2RzN1E1aV9B?oc=5",
+          "published": "2026-10-11T06:42:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Nuclear Power Plant Nears Trial Electricity Supply",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00dk1VTEwzZFYtU0RaLTk5UzJWSXQxM1ZwZ3NYMVB1X1JRSjl0Ykp5bGZlMkJSMjJiTFlyY3lnTkFjUVpRa2daQWl3c0VucUtOYzM3SVJOX25nMVE?oc=5",
+          "published": "2026-10-11T09:38:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear power plant begins fission, moves closer to electricity generation",
+          "publisher": "Prothom Alo English",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlcFVjSXVXX0pUNVVVeE9MVW5aUVRrSFZzamg5aG1hdGI5dFozRmZSUy1vOEw2ZHZHYWp1aUZHSkNnWmRfQU5NZ0IwY05UOEJoZUduaWx1VkZaRlXSAWhBVV95cUxQYzlmNTcyaGZYZWFQMU9fOVdyOFkwRmMxQUp4emxOZVp0YnVvM3lHblRFNDRqQzByT1hWNzNmb0piOFdUejFxbS1vZmdHSE9sLTk2YUE4ektfUXhhTUVSSGdKQnAzSDc1Qw?oc=5",
+          "published": "2026-10-11T13:44:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant achieves first nuclear reaction",
+          "publisher": "TheReport.live",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTBGNm9yOWNRRnZzYmtLdmVzV25aMlFXbmJNMjJTUS1qMWgwREhhSFZBLVRlNldaOWdSSTYwUldFOUxfWXFMNkhnNlYwa3hlQWZPLVlOcTJhb1FBTkppU1BaREU4bk93MVJLS0VSMW5KUGlOUnUzRnpuWFluQTl1OUlucnNVQUlMcDM1MnN1LUJsMUNJa1E?oc=5",
+          "published": "2026-10-11T14:03:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Nuclear Power Plant achieves nuclear criticality",
+          "publisher": "United News of Bangladesh",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVhnajNEUFhmUVJKNzNIYUFWN3NobFZkWTYtUDAxa0xEUVRkUURGSWNOYm02LVhnLUR6ck9zMWVJZU14cG5rZkRSS3JJT3dRaDBXSXV5Z1I3dzlZcjh1b1FteHN4U004dlBSMVRwbGM0VlNqbWVlUFBPVGppdllqV00wdXg2SmFZdFZrTk9iaklwLW15YzExYlpNdVdmQ3lsZkJFZw?oc=5",
+          "published": "2026-10-11T17:20:15+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.878,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Here's Where These 4 Nuclear Reactor Stocks Could Be in 5 Years",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYU5pYnhZbTlrNmxIZVEwR1dPTm13Y0lmLXAzYlluUjBvdTJQbWREOUctX3hCd21Db3VtclpvQkxfdjBjS2VCWFptOW1DeXlDVFFRVHQ1TXJoN0t2eUhQemRIYi0wXzFRc1FhcE9QSHZUNkFuOTVEU0J2d0doOW5EdkFIQkdDLWpsQlh4MUFBZnc0eURYZ2RaRzMzczJMMFRZM01zWUI4bGxtenRyS2FxREw4ZnUxNTZvVlpBNkpsMHgxMlRnX0pQSTNGU0ZvVk9fd2ZENjI0OUlwQm4tV1hoZQ?oc=5",
+          "published": "2026-10-11T12:50:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Here's Where These 4 Nuclear Reactor Stocks Could Be in 5 Years",
+          "publisher": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUpKVnJTUUhLSFQ0U0t1UnFJWU9HOS1fajc5N1ZydFcxeFMzdzJSdDM3NVgwUTRNMW1CbU5fR1dhQVBtRnZTTjB4SEZPdlN3dzFFVXRyWWZJYVlEWmxheC1OeHBKejRpV1hWOVJWQTA4MkRqVGpSdnFfWlJOeUhRR09Vd0lNcnpLVmh2UGZPQmdIMVR5N2c?oc=5",
+          "published": "2026-10-11T13:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.718,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"원전 8기, 해수온도 제한치까지 2도도 안 남아\"",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BLVJERzV1OVBRWU9TSjU0MGd5eTZRdzJ3c0RoNE9YMG5Fb1ZEY2ZleGJTZ01ZYm1PZzZPMjNFaE54NDB2c2d6aFVja1VLUzNMa01xMA?oc=5",
+          "published": "2026-10-11T04:45:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 3기, 해수온도 제한치까지 2도도 안 남아",
+          "publisher": "Tbc.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeGxNVWlRbW13bk5JU1RoeGw5M3Z2Rkc0RUdkbTNROTZ6NWRpSjJkMElJalZ0aWxxcGhZTmVqZnc4Zjg2WFJPS1JiNEZmNEtFcVRHNVptRW1nWi05VF9TVDQzeTNKb05kdXZwUFdZWFdnR2RWRlczME91R0NPRkhqa25peEhlQQ?oc=5",
+          "published": "2026-10-11T11:46:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.646,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "中-佛 외교안보 전략대화…\"우주·원자력·AI 협력 강화\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SblJfTWJFYVlMaGl5OURSdTNUeEw1YUdmTGEyV0lvQzFIVjAyV3ZaSndreDJVNms5Mk5vZWVldlZlUDdEUVRZQUpqdENxUlBxVVRoX1FGNTMtbFdST0RRRdIBYEFVX3lxTE9SblJfTWJFYVlMaGl5OURSdTNUeEw1YUdmTGEyV0lvQzFIVjAyV3ZaSndreDJVNms5Mk5vZWVldlZlUDdEUVRZQUpqdENxUlBxVVRoX1FGNTMtbFdST0RRRQ?oc=5",
+          "published": "2026-10-11T03:12:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "중국·프랑스, 고위급 전략 대화...우주·원자력·AI 협력 강화",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjlsQjB3cGZONk5MMGhoWEV6b2JnOEpKa3ZWdTFPNDYtMnFoQ3AwbXl4YmZKOXh5QUpfQUo1NkdZdFlmVDNZUHF5RU00MGZ0ck1FZElJT0pFT0ZkOVVvR21BRS1qbGU5VFZUOWlqQzdZd1o1czJWLXJ2Sy1PcDJRTVZBV0lRVDlI?oc=5",
+          "published": "2026-10-11T03:35:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.305,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI發 전력 병목에… 삼성-현대차-포스코, 원전 등 직접 발전 검토",
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KSFZFQURmN19XdmVxazBXc1dCZjQ3aHNBYzRELVl0Nll4QUpYanFoTDhQRU1fejFzd2ExV25tTE1oUUdJVTRIVnBha2lMOWFxLWNKbUtaRUlhUDAybkJJM0pLZkNXNlJ6SzJRSVFfdGRKVXhOOWfSAWZBVV95cUxNM0trdVdlT1BkSmdGaHBtUXhHTlFxSjVlMDN0RzBtZFV0ZDFqTEF2bFBQN0xpMU9PanZJR2piWXpwbDFBemFFUUx6eGJmZ1lnYzAweXFOYmU3enVMUkIwYjNNd28wZEE?oc=5",
+          "published": "2026-10-11T19:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.968,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A 262-foot stack at a German nuclear plant tipped onto its side within seconds of the charges going off, and the 157-foot steel sphere that held the reactor comes down next, cleared to be cut up for scrap, so the site can stop being a nuclear plant after 21 years",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXhGQXRoVUxXaGlsaW9QcWl2V2VvVmdMdWd3MTBkTmlKM1RKYl9PNTNHR19iZ0pGcXVRN1RiNDBBWmkteEZuVXNUU19Zd2hpaTNFYi1oZld5aExMcElzZ2tpWHV4RWpLWVR2Q0VLaWNkNmRKaGg4R1I1d2d2aFV6VnZPUmR4UQ?oc=5",
+          "published": "2026-10-11T18:00:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.906,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "135 Rosatom Employees Return to Iran’s Bushehr Nuclear Power Plant -",
+          "publisher": "WANA News Agency",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmg1dExwN0p0c1RqclE2eWxjaDBPdVVNNDh2M0ZTVGxLRW9HTHVibnVZRzNEb1h1dXdqcG5kM25HMmlVcE9xOW5YM2YyQzZlcVVGSXpQMkw4WnFHdlYwVTYxZW9XNkVVdjdjeGtlcVlIZ3A4YU54RWtIWFhoYmFhSTFGRjJUVlJCREVoQUdB?oc=5",
+          "published": "2026-10-11T17:23:08+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.88,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Google Signs 20-Year Nuclear Deal with Constellation Energy to Power Data Centers",
+          "publisher": "Breitbart News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjhWdzdzNVhJU1VDYnc1a1IyajdabGJFNVNaNlZrLXhfbEc1YTI4ZUNQNWNMRkdJUWF0VVc5bjBfS293LVpPR2FKZ2JHcnh4T2hHZ3Y0a1BWaGpaZFFHQVFjY3hfa2JBSWRmTXIyRk1DYzF2VUdSRV9zR2djbzZjOEhMZHVnZG9jUGFRaW9sODBqSmhsaUxnTTRjd2o3SFhCYlN4WXFzYkRXQdIBqgFBVV95cUxNSjhWdzdzNVhJU1VDYnc1a1IyajdabGJFNVNaNlZrLXhfbEc1YTI4ZUNQNWNMRkdJUWF0VVc5bjBfS293LVpPR2FKZ2JHcnh4T2hHZ3Y0a1BWaGpaZFFHQVFjY3hfa2JBSWRmTXIyRk1DYzF2VUdSRV9zR2djbzZjOEhMZHVnZG9jUGFRaW9sODBqSmhsaUxnTTRjd2o3SFhCYlN4WXFzYkRXQQ?oc=5",
+          "published": "2026-10-11T17:10:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.871,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Start Discussions on Private Nuclear Power",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenJWLUJhSTd4Rmhxc1dfdjFuYjkzQW9udE52MmVuUVdYMmhHb3RpOEZIV1oxYm41OGJDS2I0Y29CRFA3a01qRktQdVU2bWFMVkxVcXNuWEk5d0w2U25NdGJXWWotSFp1R3NtRmtobkxaNEFBMXRTSVl0Y01xalZieXQ3NUxBeGs?oc=5",
+          "published": "2026-10-11T15:03:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.783,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[기자의 시각] ‘민간 원전’ 논의 시작하자",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMll4TGhpRjEwb1NKTnVpRWt2Tk5LaVdCbjJpR0lGb1pLTjRsVnh5UlN4b1pBTkhVZjhDbEZVLUM3VFFDcHBKVFlvTHpsQ3Q0V2NCUjhaZzdLNFBSYXVOUWI5djdBb21yeGR4ZW5uNUNsSldxb01QU24wMVA1LTlyOENISk9SNjJkVE9tOFZR?oc=5",
+          "published": "2026-10-11T14:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.772,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[PL LINE UP] '우리 억울합니다' 맨시티, 재정 위반 유죄 소식 후 첫 경기...리버풀 원전 선발 공개! 홀란-셰르키-엔조-앤더슨 출격",
+          "publisher": "인터풋볼",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1NnlFdUZhd0ZNM0E3bk5qLUotQnRNTnNlTkVKSzdQX1RQeGx4VGFWYlJmSDNmMzhtSldPT0pyOVRVRklxTm05UFc4NV83OUxmTTdDX3MwQ0ZmVzV2dHMtVDVuSXNpWEtVS1g2VmZrMGQyZFYw?oc=5",
+          "published": "2026-10-11T14:25:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.756,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "울진 한울원전 4호기 발전 재개, \"설비교체 마치고 100% 출력 도달\"",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wM2l2UEtxVUF0ajZUMnp5WGhQei1Bc2QzdUlnMVhrZFpmQWZoT25vUXBTdzluN0pvZGFpSmEzOFJ4bTY3a3ZyUy1iMXd6SkJS0gFUQVVfeXFMUEYxdzhEbnRkQWJsVWkyM1BOQ3lrelozTjRFMXdjNGdPT1RkMHZRTmxLOWRwb0M0eFFTUFVpLTdCM21CXzhQQ19wZjVKZEItWmo5SU5q?oc=5",
+          "published": "2026-10-11T14:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.739,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[이정윤 칼럼] 안전성 없는 공론화는 요식행위다...원안위 개혁이 먼저다",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWUjluX1EzN2FwV1pxSTUzekxZVWFrdkdZZk5xZU1nSTBEaWlSRzExMFlZNnBCYUlvYmV2dWNZanFKOG9rbUw5QTRPVHJXZm93M3hTS0hpQURRNktyYUI5VjVxeVhOSW8?oc=5",
+          "published": "2026-10-11T13:48:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.73,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[사설] ‘한미 프레임워크’ 등에 업고 뜬 리더스포럼...K-원전 수출, ‘단순 시공’ 넘어 ‘글로벌 밸류체인 진입’ 노린다",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UTmM3enRIekg1Sm5FVHpWQUQwQy1TYlRmR1NoQkZVeU9fWm5ZYVVfZUN5MHVZbXJMa001cGEyQ29OdGNNWi1JTUxzMjBPZ2dqZ1FkdWJYSENwTzJBWDRTNlZ4LXFQODg?oc=5",
+          "published": "2026-10-11T13:44:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.728,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[심층분석] 고준위방사성폐기물관리위원회 출범 1년...정부 “기틀 다져” vs 현장선 “핵심 과제 산적”",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wc01ITzV5cHJnc2ZYendWbEVvUzVrRjdSVzdGc1Q5NWFfaGtoU2wwb1VjR3RKV0hzVG0zaDZ0dG05Y0VXc1BrUHNVaGNlM2didDZOb2N1WnZXaXVTVXllc0NCeDdXVGM?oc=5",
+          "published": "2026-10-11T13:24:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.714,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[2026국감 분석] 기후부 국감 핵심 키워드 ‘기후공론화 백서’...‘조기감축 78%’ 민심에 정부 ‘원전·재생e 믹스’ 답할 차례",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9adUZMX0V4TVRxdUtxX3ZIWlQ3T3ZGc3o3a25mcldXV3hGMTJGT3lqeUpsOUE5cnFoQzU4TVhuczFaNHIwNkZ3dTM3RU1RSndabHFLOTB2TndBOFdudUNPeVBDSmhJTk0?oc=5",
+          "published": "2026-10-11T12:53:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.692,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Marcos:1,200-MW nuclear power target by 2032 achievable",
+          "publisher": "The Chronicle PH",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOczJEZHhmblVDSDRzTmxhaTF1QlVOOHdBbnBuSXBNZTJ5dm9IRGxBdG1BSzF1ZzlteVEzdUZ4QmFTTnVnWkFQSnhILXVNMG9xLVRKZ2FKQWhtZWcxNWZfTTFfY3QtWTkweC1pVlA3XzhyOFpJdmRkWXc3TGhsQ3BteUJDNTBJVmhmeUE?oc=5",
+          "published": "2026-10-11T12:50:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.691,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "2026년 10월 주목할 원자력 주식 3선",
+          "publisher": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbS16T3B2ZFBQc0JDSXlQaTA2T1V3bEpyaVRnMjNTWlhIalJJeVRDRTAwVG00YndpUVZtU01GbVpidUxuWkQ5NzNzX3ktaWxnd1Z3am1VV0hYUkpDN1lNRlFrUGx5cWxiU05Gdm5kSFhyX244QUNnZXJUdGtjQWc0c3l3UlFFWHd2TzdWN2V5UFVHYnNoU01jUkNB0gGaAUFVX3lxTFBtLXpPcHZkUFBzQkNJeVBpMDZPVXdsSnJpVGcyM1NaWEhqUkl5VENFMDBUbTRid2lRVm1TTUZtWmJ1TG5aRDk3M3NfeS1pbGd3VndqbVVXSFhSSkM3WU1GUWtQbHlxbGJTTkZ2bmRIWHJfbjhBQ2dlclR0a2NBZzRzeXdSUUVYd3ZPN1Y3ZXlQVUdic2hTTWNSQ0E?oc=5",
+          "published": "2026-10-11T12:37:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.681,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "박해철, 고리·한빛·한울 원전 사용후핵연료 포화 임박… 건식저장부터 최종처분까지 종합대책 마련해야 [26국정감사]",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xZ0ltWElTX2t4ODBaTTZxWVF4NDJESmJENjVrSEpTSkFNamZ3dFdGTVVjNHJGUXltWFoyVERsMzF0VEZJMGhzdmRMVTZ0anlBOUJEMDJId3o?oc=5",
+          "published": "2026-10-11T12:06:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.66,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur Power Plant begins Nuclear Fission Reaction",
+          "publisher": "Ajker Patrika",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sVXN3ZTVidENkZWVuZWRUbmtMRlZSaUs5S0dVSWJjQ2RnSjExYUNYa2pSVGh1a2FmWFd4WmxfejYwcjk4TnNvQnJfTnNDQWhBYi1GdExzdlpMdi11R3RwcGR6ZGhicmU3Ui0xWA?oc=5",
+          "published": "2026-10-11T11:37:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.64,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李대통령 \"원전 위험은 국민이, 이익은 대기업 독점…이례적 특혜 신중해야\"",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aLWVZdGtsLVVpNnBvT3NHTDVaeW8xY2dna09jUDA3X1hYeHFyZFdaUVc2MnZLajFRUkNVdjZKUV9lZVZCQURXVENXN2JjUm5OMlBFelVIbmVhNXl6VHRCLTJ4R0M3c1c5WnVsdllvY3A?oc=5",
+          "published": "2026-10-11T11:24:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.631,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur Unit-1 achieves first nuclear chain reaction",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVlxQXBZV2ZXbXpKdElEZEdVTWhQY0lHeTREOGQ1RGxmY2lxdWo5eTJsZkE3eldMa1EybGdHY1dhM09mcWp3bmEzSE1jZGVWOGlnUXpqYl83M3F2UHF4MjUyY3BldTNkU0JFNHJhUDB1UzFQQk1JSksxWkhlLW93SWdXV1dTRjhtTE5DcW9OSkxLelk3WDJlaTB3ZXNZOFJSc1hMVWhVNEc?oc=5",
+          "published": "2026-10-11T11:15:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.624,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고준위 방폐장 공모, 내년 본격화…‘9수’ 끊을 지원책 관건",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RYmt6TlJvOEY1VmNtTnVtSzRyV1kyLU5LRXB5X3o1STlHZEd3R0h0TDZvY1E3b0hIQk53eTJxeW9UYndOTWpMTGlidjE3Rk5BQnprVEZvOWo4eVR6VlQ00gFfQVVfeXFMTVFia3pOUm84RjVWY21OdW1LNHJXWTItTktFcHlfejVJOUdkR3dHSHRMNm9jUTdvSEhCTnd5MnF5b1Rid05NakxMaWJ2MTdGTkFCemtURm85ajh5VHpWVDQ?oc=5",
+          "published": "2026-10-11T11:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.621,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 새울본부, 취약계층 35세대에 사랑의 밑반찬 배달",
+          "publisher": "울산신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kaUJvUFNySGE2N2h1R2tGT3lZOVV3LW5tRGExb1hEcm5SdFU4ZjEtN2hJLWhkXzc1Z2t6Nk55Q2ZIeWEwZVdmTEFKUWVUUDBnZ1VrV1VQZzc5NFJDc2RrVXM1Wmk4RGRZeHYyNkhR0gFyQVVfeXFMT1MzY0tyLThIZFVkZzdjdEtrSGI1R3NTMGh3STRybEstM1JNM1lpNGhnQXF2V2RVQ3NoZTNGbHNid0xfTm1lcmdDWk90X2w0UEdpWXUwdFhLVmdvWGY5dGJIUWJtdXk5ZF9QOXdvTWtMSHRn?oc=5",
+          "published": "2026-10-11T11:10:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.621,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Cheaper electricity through nuclear power? Marcos visits Singapore research hub",
+          "publisher": "Bilyonaryo Business",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblR2SzRhaloyU3dxSmdQMWcxOXprM3lHNjdtUFJLM3A2M2FfMTA0eTBkYnpXVW8wOWtZRzUwQi1oSjllQXFqeFdUc05TNDdZTzJhUmFnZGJvXzAzOTMteXpiY2ZlQ3ZJS3F6eU5BX29iSVFsbU9kM0pUUllhN0VPQ08wVlVCcGtKemptUGFSRC1pV0h0NE0xMjh6ZVduTnl6cEE2bA?oc=5",
+          "published": "2026-10-11T11:01:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.615,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "President Lee warns against nuclear power concessions for steelmakers — Korea Herald",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3dtZlJfVnY1dTFGUlhEYVB0Z3dVR3BpRGhadDZLMkhsVk5nem51aG5qWVFpV21Pb3ZzME4zMUZpYzZDalgzQkg0LVEtcTJtTUtVM0Z2RkhhWDdsc0Z0eWdscUVwWmE1bXJVcTEyU3piaU5uakQzSFUwRXBNVE5Jc2NTMHh1Rno1Y3ktb0t5X0NacmNrWHVQSFJHMkZWN2xzMzdTMXRrX2FIcXpu?oc=5",
+          "published": "2026-10-11T11:01:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.615,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Lee cautions against preferential nuclear power access for big firms",
+          "publisher": "The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54ZGlPYUtRMWp0eDQwekhsUUdKei1XMkJTUW00ODFlQ1JicU5BbHFxUmlGcm5aQTFzZHBLdnFuYlN6dTZjb3pzYWUwaW9fai1QVGxRSDBmTQ?oc=5",
+          "published": "2026-10-11T10:49:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.606,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia’s 19,000 ton floating nuclear plant reactors completed; tugboats to now haul it to power copper min",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNUV3R01BNlRKUGJxQ3NmcXhxbmlOYnRndTFEa2swSlY2TzM3NXU2emFfYlNWMWFVNHFXLVNreUtOcm5wNkNsajBtZ3ViaGlBb3d2QWVfN2hPajJTcDV3aTBkRzVnQWNCT0VBTHVZSmVhMDZLSXFpdmxXdzhrcHM0bXN1Q3ZoMnA1c0hvRnBKbi03MU5fcUZmVWFlNGEyMkVSWTJZVWV5bU1GeHJmUm9QZW03LWppeXFJYUpQVGN1QW9EQTR2SXFrTlZWcldMOXJNTWc2bUFmbkZmSG42TEdJWVI3eFdWUGY1eE44alhvaWMzSGJtSFY2TUpFaWI4UTJWbWpreDRXekdwOWMtWTI5ekJHRXhpZk9IMjFIclVERDhuUdIBogJBVV95cUxNNUV3R01BNlRKUGJxQ3NmcXhxbmlOYnRndTFEa2swSlY2TzM3NXU2emFfYlNWMWFVNHFXLVNreUtOcm5wNkNsajBtZ3ViaGlBb3d2QWVfN2hPajJTcDV3aTBkRzVnQWNCT0VBTHVZSmVhMDZLSXFpdmxXdzhrcHM0bXN1Q3ZoMnA1c0hvRnBKbi03MU5fcUZmVWFlNGEyMkVSWTJZVWV5bU1GeHJmUm9QZW03LWppeXFJYUpQVGN1QW9EQTR2SXFrTlZWcldMOXJNTWc2bUFmbkZmSG42TEdJWVI3eFdWUGY1eE44alhvaWMzSGJtSFY2TUpFaWI4UTJWbWpreDRXekdwOWMtWTI5ekJHRXhpZk9IMjFIclVERDhuUQ?oc=5",
+          "published": "2026-10-11T10:46:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.604,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Lee Urges Caution on Nuclear Power Purchase Deals for Steelmakers",
+          "publisher": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEJEWG1SQzhmaDdIbmRVSlQyVkZQa3BsamtoaHdXSXlFSnVQV3JDWTJXdEJDS3BidndQRThPNGw0ZDJUQ0xJbmFIMDdTNEZZaTdjR1JXcFpOSUJ0dXlkdHIxYlR2WC1wUklXbzlnby1nTlljT1RsX05zY0phajFoSW9aamJJblp3b0pRN0ZKekpHbW5zQkpvRFMxMXY?oc=5",
+          "published": "2026-10-11T10:41:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.601,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Lillian Jones MP: 'Scotland should embrace nuclear power and renewable energy'",
+          "publisher": "https://www.kilmarnocktoday.co.uk/",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFNPTkhaUnFtN1FzOGZaQWxxSHl1akpPZ1M5cVhyTWdWS0g0QWJQMVctQlNQQWNMYndaLU1ITXpPdUEzYW82cnNRQWt0OFY5WTM4T3prUTdLREpob1BxczVyZ3dFbi1TS3hmQTNaSjNCSEt3WUNZaXVuNm9qX3ZILXRsZ3lFU1Mxa2Y3azR3b1VncDFZeW5GN2pvTmM?oc=5",
+          "published": "2026-10-11T10:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.572,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 68,
+      "kept": 58
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 15,
+      "kept": 4
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 36,
+      "kept": 34
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 47,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}
