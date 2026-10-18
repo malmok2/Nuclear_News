@@ -1,0 +1,547 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-18T18:38:12+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "창원시, ‘SMR중심 원전산업’ 미래 50년 먹거리로 육성",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ydURaZWlDSlpUS1FCaTliNTUtUEM0SzZrckh2a0FfaXZoR1hiQ0NtZFJxU1NLNExtSkROZnQ5LV9kSUlYRWNtQV96RWI3NEJidVNXWDB4aHRwQnEwT2JMY2VsNTAyZ2pQeG1nVUFIdW03VTdpTnpfM9IBeEFVX3lxTE4ydURaZWlDSlpUS1FCaTliNTUtUEM0SzZrckh2a0FfaXZoR1hiQ0NtZFJxU1NLNExtSkROZnQ5LV9kSUlYRWNtQV96RWI3NEJidVNXWDB4aHRwQnEwT2JMY2VsNTAyZ2pQeG1nVUFIdW03VTdpTnpfMw?oc=5",
+          "published": "2026-10-18T01:00:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "창원시, SMR 중심 미래 50년 원전산업 집중 육성",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hUzQyWXR0b3p2R2xUNV8tY1dRUGN3ZVBoNVhvZnZRendZUnBBbG1NdXRwT3oxMi1QT2dseDRmcmI1RUpRcUVLZENWcm1UMzZMdzlPeHRSVmpFRG9Ma0xFSVI1QUVYWHo4c3Q5YWRTVTbSAXBBVV95cUxNYVM0Mll0dG96dkdsVDVfLWNXUVBjd2VQaDVYb2Z2UXp3WVJwQWxtTXV0cE96MTItUE9nbHg0ZnJiNUVKUXFFS2RDVnJtVDM2THc5T3h0UlZqRURvTGtMRUlSNUFFWFh6OHN0OWFkU1U2?oc=5",
+          "published": "2026-10-18T03:57:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "창원특례시, SMR 중심 미래 50년 원전산업 집중 육성",
+          "publisher": "타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16N0hkOHFRYXNKeThxOWxwdDM1SGd2a1FqU2hsS2s3Y0VESlZLdElma0VHY0VzblBMbGVMdUJwWkc3a3JwUElGQkQ4c2kyS0tTM3NpcQ?oc=5",
+          "published": "2026-10-18T08:32:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "창원시, SMR중심 원전산업 미래 성장축 육성",
+          "publisher": "경남연합일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hQjkxVXBPcGZaQzhyVTJXWENCM29pblpyMFZJdS1pRC12NjdSZnRxTHBBU3dhZWFrM3Q1am85UjhIcFBqVGtXb2tQWFNqSDMwMGJRclBaT0RvdnR6WkRSa19ZVlF3ekw4eHhuNGZRZ9IBb0FVX3lxTE5hQjkxVXBPcGZaQzhyVTJXWENCM29pblpyMFZJdS1pRC12NjdSZnRxTHBBU3dhZWFrM3Q1am85UjhIcFBqVGtXb2tQWFNqSDMwMGJRclBaT0RvdnR6WkRSa19ZVlF3ekw4eHhuNGZRZw?oc=5",
+          "published": "2026-10-18T12:48:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.757,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
+          "publisher": "Hot Springs Sentinel Record",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDVTVy1iRjRUWDlueVBUZ3BCRDRMN2tGVzJKMksyY19mYjRSb3lMWHg1bTV1UWFpa3BEb1BWN1RhSXQ1WXB2X1ZJRzF5ek03aTFLdUFMNk94b1RQUW8wQW1ZeExaT3o4b2RfQkU4N1hBd0l5SzZLRWJXMk1DQkExNHBzQm1IODZjMUg1dTQ4QVY?oc=5",
+          "published": "2026-10-18T09:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "U.S. reviving nuclear plants to meet electricit­y demand",
+          "publisher": "PressReader",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lQWdHWlpyeUljRWJLUmdVaF9fbG9iN0RvZmF6OHRlSGR1Z0lDYk5yWDkyU2xHQUNVRWdyM2RsTUtWRjgxU2pEd2hFU0FaTFNRVmgyb3RUZVlUNUxJb1ZMNks3UUtPajgzNEpreGlFbFNIVWlQWEJNbHF1X2E0UGM?oc=5",
+          "published": "2026-10-18T14:33:08+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.83,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NTPC to begin feasibility studies in more states for nuclear programme",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSlpma1ludXFlR0hTUTlQX1lOelNZY2g3TjJlUmlISkY5dnRPbVItdEljY3ZibElSM3k3d3llX2prYXhRd3hBaUk2bEpXRjRvemlveGYxR2QwU3ctV3Q2UkdDSW1GOXF1SGMxdVJoSFNodVhFRFRIejFHTTI3eF9teTh3Z1gxUVMySERfV3lxNGZOUmdnUmRPZnd3TWp1cUoyb2toQlA5eGVJMmRsdTM2aFpiSGdqT25tUi1fRGRRWlBqUWUydUFUV2EzUzVLNE0ya2VVUGYwLTRieHU2WFNJ0gHkAUFVX3lxTE9DUTd5UVAtb0QxQ21aSWF1VUs2cEc3VEtZYmVKMEVtNjFqZTlOT0JhMFh0LUtwUkY0aDNVZ3hTZ0JUNlY5RnQyeG9hbVJSbVpHSG12TzY1dDBXR2QtS1hXQjBqQmZ4bUQ5WFJ5N2tMTXF4bDBNV2F3cVpDU2hMZ0pCOXBiS2RNUFJYalNXb1BlbU8xa2g1QmFwUWVRN3Q4THVRVnFlNjlRcWxIZVE0cTVsVkx1V3ZiclJxV3ZNaVJfRTA4Qko1NnphOVJEZDRfSVJzTzduTzVxbnhpMHpyVjdrZUcyNQ?oc=5",
+          "published": "2026-10-18T06:21:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NTPC to begin feasibility studies in more states for nuclear programme",
+          "publisher": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZVNFR0M0TzN2WmgtYVlGdW1iZk5OcWJVNVctNEtNb0tpT2gzQlFGU1JWYk16Z3NpSkJxUnJsUkNqM3RJLVg3dERVREZUVzVZdWRrdkhOcTIybWVlc3ZuWGJCWDB3RDE0cW1JcXhTeDRwZjJqamJXVUdtMzljRkcwYlVfbmVmdWJicF9JT3NjaFRTQmlFbFZ3bUdRVWUzZlZQSElHa0hnbUpkaWlITzBUdWticmYzMTZLT1pSMkU2eDJfdnlkbXB3RWRDWGxkQlJjZC1qYlln0gHWAUFVX3lxTE1lU0VHQzRPM3ZaaC1hWUZ1bWJmTk5xYlU1Vy00S01vS2lPaDNCUUZTUlZiTXpnc2lKQnFScmxSQ2ozdEktWDd0RFVERlRXNVl1ZGt2SE5xMjJtZWVzdm5YYkJYMHdEMTRxbUlxeFN4NHBmMmpqYldVR20zOWNGRzBiVV9uZWZ1YmJwX0lPc2NoVFNCaUVsVndtR1FVZTNmVlBISUdrSGdtSmRpaUhPMFR1a2JyZjMxNktPWlIyRTZ4Ml92eWRtcHdFZENYbGRCUmNkLWpiWWc?oc=5",
+          "published": "2026-10-18T11:02:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.684,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "As Utah pushes nuclear power, some environmental and tribal groups push back",
+          "publisher": "FOX 13 News Utah",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYnA3aG1xTnZVWExvQ3hxcGlmNFdIOGxFd05scFBSdGhmRWNKODhFNjl2bVFJZUZnbEpTakprY20tT01jbXU0WTVrelFCa05saVRGdXBJQTVSTHBOLTdGWU1Oci1VYjRHMDZZM2o3VGlxcU5UbEJlUUpJcmpaNHpabTRxVlRiakpMNGxQUWpPUl93WTNpYm9fOUphV1VzZEludWFBenJTYXh0UkR6NlF4dWZkMUcxU1AzbEF6NVlB?oc=5",
+          "published": "2026-10-17T22:41:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "As Utah pushes nuclear power, some environmental and tribal groups push back",
+          "publisher": "FOX 13 News Utah",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVBKNVFqQ28zWG1saW9UVU02czhUWEhFeFBFZ1BNTVVwbk91QVA1SUVfVzF5ZF9Pc1FkX29OS2Q0cFZqVV9vZ05JaGpxWnBoQjBURWlDWUNONm5mNHROeEFTVVVDaVhIVDlLUzBOeFhJSUtSZUxfVEZqSXNxcmhNdnI0T3E4d3ktSVZuY3d2Uy1OdGpYNDlTQmlmUXZaalF4b29VamZNUlJXVEZ4YUN0ZVhvQmw?oc=5",
+          "published": "2026-10-18T09:56:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.638,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur Nuclear Plant a milestone for energy security: Secretary",
+          "publisher": "Bangladesh Sangbad Sangstha (BSS)",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdnNxZjBrS0tkNnBxYjhrZFRLbFJSZmlZRFlPQzBmTHhCOFZzMEJmRE5kQl94ZGFtTXYwaW03YzIycUxzVXY2bkFZQU1nUQ?oc=5",
+          "published": "2026-10-18T16:43:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.92,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A 930-megawatt reactor on the South African coast was cut to half power when dead sardines packed its seawater intake and a cooling pump shut itself off, the only nuclear plant in Africa was already down to one machine with its twin in refueling, and on Frida",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanY4Q2xDaWZnT2VaMWhmSUNNWWhsTzJCMHFnWVgyRnctREtieWZmUnNOVWtQbEx2b3RaNjNubHpycDUwOTUxS21UbGpJWVc0cFFvVkRCOUxxUGExdzhNMWIxUV9sYzRCUkgwM0dld0J5a2ZkZG1fdUZ1V3EzbU1fcURId1dXZF9US2RHM2NXZ3otQTFESFZnYzlmVGMySGNr?oc=5",
+          "published": "2026-10-18T16:30:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.911,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "창원특례시, SMR 중심 원전산업 육성 본격화…2027년 특구 유치 추진",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LV0N1RjFZYzRudTI3RzZZaWQ1dFp6MzJVMm9EMUJoNE42YUxaMi1YbEtkWVMwV2g1TExhMVdvU2dwNE1VLVpEY3U0U1pFRGZnTG96eDNEVHVDclBXNVFRcmlFT0ZSdw?oc=5",
+          "published": "2026-10-18T15:48:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.882,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신한투자증권 \"현대건설, 원전 불확실성에 주가 조정…비원전 사업은 순항\" |",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kT0VYNjZQa0ozeDBJVWxDRGVZSDNFaWhqLUk5MXVWQmhmT21TNFAzdlVJN0RDeGZmU1JBT21vMG5NWnRjd2FLT2xCLXJvOU1JMTNka0QzY1ZsWmEzb0xDR0JlNTBZOG9aZVhMZ3BkNmkyVlJlUHdJ?oc=5",
+          "published": "2026-10-18T15:17:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.86,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산에너빌리티 주가, 새주 어떻게 맞이하나?…한미 원전 협력 구체화 여부와 뉴욕증시 약세 변수",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0RGtUSGVON0w2MjJVOHBVQUZ4THZZZktLb0RHd0NjSU5wVC1hMkYxeTV3a0oxdk1CVEtDMEwtemJWeERfUFJYYnhpNjBGWnMxbVNJVE5TQVRGSERCcHRLOVJsMFNNaC1o?oc=5",
+          "published": "2026-10-18T15:15:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.859,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[원전] 반등 성공한 우리기술…월요일 주가 흐름 향방 주목",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03djZNdEJrRzZiQjEtZVZXMU9sbEtHWlpIenh5RmlRLUYzWXcydERFcU13TldIaEFDTUV6bzJyeVhBYnpadjFVSkdhMFoyU2hGTjBqYTRDenQtenFobjZtTmx1SWVTOWMt?oc=5",
+          "published": "2026-10-18T15:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.849,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "This 'benchtop' nuclear fusion device could provide fuel for the next revolution in clean energy",
+          "publisher": "TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGZ5N1VhUkhpZW1KbGlqV0EtWDlQQnYxNmM2VFFtX1RFeXpib2NOZTlRaHgzTkxQR3NsT2ZseE5ySXB3REFJYzNhdHdjLTl4VzFsTVpnUFlPRHhycjc2cXhuRk1BZzlDU0FhSm1NaHVDbjRhYm5lNzlwS3pqSU16YkYzUm1KVVh3UGFETW9ucDV3bDhRQjcyVW5vVEhIdjhvazFpVlJHX0JWTkp2ZEtqSHF6d0dNZ0FIOVhEWmdtbG0yRENqU0w1ZC05Nk9CZTNqallUVA?oc=5",
+          "published": "2026-10-18T12:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.724,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NTPC Widens Nuclear Site Search to Uttar Pradesh for 30 GW Goal",
+          "publisher": "Discovery Alert",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0YweE9GVDNTTi00OGd4R1VqMm5SSHYzb2VERE1nSHVHQkRnTk16SVQwVzl3U2NXVXJDdDNLbzk4TXZ3VGZIMjVHcENWcUxGYkdhNlRWUW10R1Jhajh4aWptS0RKbFdyUmNULWxzY3p6cGdlOWR2dk42dUh1TXN4c1BlV1lXaUYxZ1h6LQ?oc=5",
+          "published": "2026-10-18T11:52:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.718,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NTPC Eyes 30 GW Nuclear Power Capacity By 2047, Set To Extend Nuclear Power Site Feasibility Studies To UP And Other States: Report",
+          "publisher": "Swarajya",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNc2ExNHpSbzBxLWE5WVdueE1sSUFRUGlJVlNfckNHU01iTmdWMG40NENsWUtNejUwNXdVMVZZMy1STEkxVFlDWEhrNXJ3OXJ0VXRFLUZEVUc3VlJhVnVtUkRxMHhSNURJaXd6Rm9qbG01STNFdFJUYm4ySnlYS19jNGQwaVQtWFp5WE15X2h5YjA4RVBDSnZ4TFhnbVFMYVlPa0hRZ21fY3pmNEZQVVlKbklwOGJrZDRlb1RabzY5eGhsUDB3V19QelJrX1FiVWRjMzA2SGJRcVFOdmgyM2dKcm5CY250TTlkcEFXOXk3dEItanM4c1NjTElheXI1NThaZ20xM1dVSnhRekQx0gGMAkFVX3lxTE1zYTE0elJvMHEtYTlZV254TWxJQVFQaUlWU19yQ0dTTWJOZ1YwbjQ0Q2xZS016NTA1d1UxVlkzLVJMSTFUWUNYSGs1cnc5cnRVdEUtRkRVRzdWUmFWdW1SRHEweFI1RElpd3pGb2psbTVJM0V0UlRibjJKeVhLX2M0ZDBpVC1YWnlYTXlfaHliMDhFUENKdnhMWGdtUUxhWU9rSFFnbV9jemY0RlBVWUpuSXA4YmtkNGVvVFpvNjl4aGxQMHdXX1B6UmtfUWJVZGMzMDZIYlFxUU52aDIzZ0pybkJjbnRNOWRwQVc5eTd0Qi1qczhzU2NMSWF5cjU1OFpnbTEzV1VKeFF6RDE?oc=5",
+          "published": "2026-10-18T11:34:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.706,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영덕 신규원전은 설마 이상 없겠지",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43X2ppZnFQX1hUSGFrekFsSm9wT3Y1LUd2ZWY4RFk4aWRJWl9uRlZkLTQ3bFNWUFUyaG5la2xDTG04VGtHdDhYdWxyVkVuUVBYUWljeWFmS1J3TkEzM1FMeWR2VjdxcUNlYXc?oc=5",
+          "published": "2026-10-18T11:25:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.699,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Business News | Global Nuclear Expansion Faces Uranium Supply Challenge as Existing Mines Decline: IAEA",
+          "publisher": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcHIzbzBkaFF3bS1YdEk2OXk2VXNSNktIeXhUSzFMWUxhWmUxVmRFUTF4Q1EyYkRCbFBza29jQ2VtdHJMd2c1U3NTVGNoQlRyRWJnTHdDQW9ZMlpSRDN5NW9CU0tuS284Rm9VbER3TjhQX1otWXg4cXV4U1VPc3FlVDNmS0I0UDgySUNIcUFGVXdLVFlqaU5hOGt0bUItQWFPTVI4MENDZDdOSnprN0xFLWM5dVVrYUtvMUVXaktodzBUNjN0aThXZEdPaEo3NDgwek5YQkFyUnJPNkR5dExnMjg2VWfSAeoBQVVfeXFMT2twNWdWLUFOQ2JQb01RdnNsMkI0U3MxU3NpVlMzaG5DRDkwUzlGYVl4dlZzWlhfa2FNbzF5X3NZMi1ka1p4RzhCcGo4bS1RUl9keW0teF9FN1NTTWRfUlpKNGVPM0NmbjUtWDdGT2NON0IwWkJRbkg4WDZtNTc3S01lekZ3Mkl4NVdvaUdDdmVVc2hRMmNLbjNwTzBJdmt0Z3MtOEg0MXZkZlJHaGdXbkx3bjM4U0tWNUxrYW81eGdQN09wQ3lFelNDTGZRczJoYWx6SWRCRldDZVg4SElodjVzTDdNdW5HTndB?oc=5",
+          "published": "2026-10-18T11:16:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.693,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "How NTPC plans to boost India's nuclear power capacity",
+          "publisher": "NewsBytes",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUYzUUV6cXpETWxKYTlvcEtPejJJdm85YlkxOUxBLXltWk9UNHc0QnJ6SXZEY1NwZEc0RUVkTjJLQkNZY1RfbTdrLTl0X21MMlN0ZTdiRVQzSkhsUUlOQllZQzRWMVA5LVV3WUFseHJhUWFmbWszVVZCeXZ2Z0NXd2RuZ3EzWk0tOUR1V0JjOFNYRWxCRWhld1loVEhEWUhLdVFISU5zVmp5ZmZUQnc?oc=5",
+          "published": "2026-10-18T10:29:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.661,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "창원시, SMR 50년 성장동력 육성 나선다",
+          "publisher": "경남포스트",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mZlJ3bWs0Si13VTNMbTFMekU2NHk2SGxoakpsZlpSSjJmdUlTd0c2RC1fR204NEg5LWdhSmlpNjFnR1FVcDhVT0R3WTE4ZXA2?oc=5",
+          "published": "2026-10-18T09:51:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.634,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NTPC’s 30 GW nuclear power plan by 2047 may require Rs 6 lakh cr investment: Report",
+          "publisher": "The Financial Express",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMGRjc0FCNElvOUJtellyOHBEVC1hN3drVXVhaE1tOHkwd2NrSUljMjFFN3puNGh6Rjk5V2M1VWhGWTdhRXpfOEZVeGpXMUZNMmFlMWVTTTBPenVPREpzOTMzZ2lmSkgyLVktaVJOQzJiOGxEU1pkVS04QUwwcHlJVkpyTDNGX3RQbm45Njlram4welZiUlZXSkNtZnpDdTJ0MDMzNHQxWTdacGQzaFJkYVhxOXBWd2x3c0NjeTZPYUw1SHNKbVBOZ24yRTFBbjBkcldIZkp6bDVYOE3SAeIBQVVfeXFMT216dkgyQjlCTldBMnE4eW9Mek5LNHppdUF1R19XTnVYUnI5SEVGMkpGNUZqbDlKWXFMamFLUFVqUE9ZSkpFYjV4Y2VOZFdYeEVyTUpFZGNqT25zdTBiTVZDUXRPTnRzYUNUNFpjWGJuM1k5QlVtenV1cFdTT2NlS09JOFNubDBaeTZiYmR4OHFObDFXT1JzNDFYTEZGLUdDRVViYkRJUFQ2c1NGWW03V25mNXN6OF9JbjlSQVB3bnBhSDNwWmswQlVGN3RGb1EyY1BPbEQ5aGtaWlhVcER3MlUtUQ?oc=5",
+          "published": "2026-10-18T09:44:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.629,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "가온전선, 미국 타보로 공장에 원전 케이블 설비 추진",
+          "publisher": "비건뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ITk1reFdyVTZxemgzZWtnRFNTNXVHMEVZRU5CMWY5WEVZSS1aaTgtQnhpX2hrQUtPSFB2ZWJhd0tRTlFFdUhvaWhfdG9ydm5FbjRQdXRKSkc2MUFiQ0lqVWtlQWtGQQ?oc=5",
+          "published": "2026-10-18T09:24:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.616,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 체코 두코바니 원전, 토지수용 갈등에 부지정비 연말까지 중단",
+          "publisher": "한국신용신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoLURiOFZNVnl5Uno0bzhuNGE0Yno1TnE0S21TZGZiOWdZVXV2cjQyX1ZMS1NqaG9uR200ZGZwSGxsdi1wSUZzaFFmTnZxLUplRUNfZ3hMcjRJc2J0MjZXTWR5aTFrXzlrVzRB?oc=5",
+          "published": "2026-10-18T09:13:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.608,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "창원을 SMR 특구로…미래 50년 향한 ‘원전산업 육성; 청사진 제시",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrSTJ6dXNVRHY3V0lRZjZjMkhHNS1pNFpVdVJjZmtYcFJFNVpURUlCWGJJRWZ5blJudlpMc1dVRzNzN2kzNVNjRE9UbzM0a0dPUC1HY2l5MnR3NnlYbExrdEZhQWRSSm5pQV90ZFVR?oc=5",
+          "published": "2026-10-18T08:31:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.579,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[지금 노려볼 외교시장은?·프랑스원전동향 ] 90억 유로 회복력 인프라·EPR2 공급망서 韓 기회 열린다",
+          "publisher": "코리아포스트 한글판",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEdG1oLThpQlNZTk5mSllNTGtfbG5VcHVzTzdmYThNT0NCRWRBZ3lZYlBVbTVJaGxEeHMxb0c2SVVDZ1lyVWRkdWs0MG5VNUNvdmJpUEdsSm9tdWgycWJLeS1zQXpmY05YYWhFcnVB?oc=5",
+          "published": "2026-10-18T07:58:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.556,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "WATCH: Is nuclear energy the way to go for the Philippines?",
+          "publisher": "Rappler",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TbjBmV3JSWDRobXp3VG5pdTZZSDlKN05mWWswMm9OeWY0cDB4bEhjakRUbVh1NnN3b1FKeEROX1BTZUNRZ09wa05KVk9vSHBFaXBtTnMzbUZjazRuMEo3Zk1xZlg1TXBxVE5YWkZnc1RMUl9Yb0YtQw?oc=5",
+          "published": "2026-10-18T07:42:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.545,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Why not nuclear? Marcos pushes for controversial energy source in SONA 2026",
+          "publisher": "Rappler",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLVNQVDk0SWVZVDk5NElycVhYOWRNVG5LRHMtRGY3bEJVZWFoRjhsa180NERjOGd5NENlNU01Ul96NXFDX3BzalYwZTliZm9mTTdnNU1IQjlCMGZYRlo1UGFuOXZ3c0I2Z2VQOE5hVk94NGQzcHpQNkpUWE9vc3dWX2c0UlFEVk5KOXRrbWVPbw?oc=5",
+          "published": "2026-10-18T07:42:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.545,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "바라카 원전 수주 금액 진행 중 돌아가기 버튼 주의점",
+          "publisher": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YWVVMbzhwT19ULU9La011R1pfelhVVm9seUNZSnBLZGpqd0FIYVdYcm1PTEw1TENuaXRlWk1XRk9NbjQ4X0x3aGZwRzhBYi1SYWwxWGJtYjd4d2x0STFqUDNDU3oyZWVCZXhTdGhTWDg?oc=5",
+          "published": "2026-10-18T07:32:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.538,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[美 진출 K원전, 과제는] 원전 ‘종주국’ 첫 상륙... 대형 넘어 SMR로",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1aE9QV2ZSc09ZMkJpYkxvMkEwek9EWTk5c21FUlBkMVhiVWViTEI0a25OVWx5NVN3cVJFRDhHRzlJak00UzIxcnJXakpYQ0JVME40WkNoQkNIZw?oc=5",
+          "published": "2026-10-18T07:21:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.53,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[美 진출 K원전, 과제는] 문턱 넘었지만 ‘산 넘어 산’... 부지·지분·대가 관건",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2UlBNcTJiVFRPamF2YXhoWE1XbUE2WjI4bkxBT201OXdZNXFKSExadUZJeFRjaGpDa1VVYXZCOTQtZG4xUjlUNDhsSXlRMGVvYm9oLVhvVjN1Zw?oc=5",
+          "published": "2026-10-18T07:22:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.53,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "창원시, ‘SMR 중심’ 원전 산업 중장기 로드맵 구축",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZam1lOTd0dllJc1Y3clZpRXdEaEFOYm9OUjh3MjlvSzktT1hiXzcxLUZnNUZVSFlQYTlMVzhLYnNUalBNMnN6X0NlcENQczgyaUV0RFNaSlBERGpfYV84Ug?oc=5",
+          "published": "2026-10-18T06:13:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.483,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "India needs INR 15 lakh crore investment to achieve 100 GW nuclear power capacity by 2047: CEA chief",
+          "publisher": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOWRBeGxFaVozLUlDM0dOZWMyRklDNDRMc2dhYldnWFc1WFpITFZBVHRiYWtrY3pJRHhIS2xwZy1OczBhRExFaVJIWnM3Z3g2aU0yaFhXWTZhdUlZazJ4cU5neXBSSUxOdGo2bFdpQlozY2REVEtLU2dpdmFRMjhZX1BpU2ZfNWZMOEZsQ19ETU5LWUFPb3pSUnJyUlFZMFNIb0pGcld0Vl9FSVI1Q1F5TE1UVTBFQTRBdlJPWWh3cURYQjlzemo2YUJFNTlLbzNrNEU3UzUwS29LN1VaLU5yTFZSRUREdw?oc=5",
+          "published": "2026-10-18T06:05:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.477,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The operator of the Onagawa nuclear power plant in northeastern Japan shut down reactor 2 after a leak of water containing radioactive substances. The environment was not contaminated",
+          "publisher": "Informat.ro",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTAtSEpDRmlEenN2Q1EwR2pkVF9NdWRiYko1SGlfS21ncThxS2JnZlhVNmdGaUhEeVFMLU8yTkpZR2YzdGM3X213OWJZdlJTdDRNT0s5TnBUWUhyeTFZMkJlY3V0TEdFVEtzUERIM1l6WTBMemVVVXo1eDN3ZzdDTW5peWRHUVpMaTRpT0xBUkNLV2k4SGFxei1B?oc=5",
+          "published": "2026-10-18T05:47:28+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.465,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 62,
+      "kept": 37
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 34,
+      "kept": 5
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 38,
+      "kept": 31
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 49,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}
