@@ -1,0 +1,731 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-22T20:06:38+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Six AP1000 reactors eyed for Kentucky nuclear power facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-22/article-8511/six-ap1000-reactors-eyed-for-kentucky-nuclear-power-facility/",
+          "published": "2026-10-22T17:39:37+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "Six AP1000 reactors eyed for Kentucky nuclear power facility -- ANS / Nuclear Newswire",
+          "publisher": "American Nuclear Society",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHM1VHA5OWhiTWotX296UUswSENOYUpscDFkVk9XQ2lKVm1ibHRONThONWpWZ0ptcTJMa3RyQngyck5pUnFreDYzY1JhS1h6ckMyZUdtOGNFaTN1dktoWl9ZaGl2dGdTZWZDSG9GaDBMRGNab2ZuUnhfNTdiQzYzOVhsalkzcXZZckh6NXVLby1tZHBEWjZYbF9pdUhzRFg2?oc=5",
+          "published": "2026-10-22T17:41:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.899,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 인재개발원, 신입사원들과 울산양육원서 나눔 봉사활동",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZLUp3M2xNdXFyQklubC12QWx1NDNLZk5PRDBKMy1maGk0Y3RCQ0xxbjF2T0pTb3Fhb0JfSDh6cjZUZnBfX0RrczQ5dEoxeERXVnpIdnE1dEJFZFZWVVBKbUwtSXFTUEpDRVJiZ0ZOTG9Idw?oc=5",
+          "published": "2026-10-22T04:59:51+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, 신입사원들과 울산양육원서 나눔봉사",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LNVJuLVhVbkZpSUJ0WEp3ZHlrY21DT01oSnlWb0NsSmJmSDlIYzhTbGJmaGZBaWRLSkVNQW5ybGU3ck9yOVg0dFN6TVNMLXFocGswUE9reW4wVG50SklfZ9IBYEFVX3lxTE5LNVJuLVhVbkZpSUJ0WEp3ZHlrY21DT01oSnlWb0NsSmJmSDlIYzhTbGJmaGZBaWRLSkVNQW5ybGU3ck9yOVg0dFN6TVNMLXFocGswUE9reW4wVG50SklfZw?oc=5",
+          "published": "2026-10-22T06:18:59+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원 신입사원 33명, 울산양육원서 따뜻한 나눔 실천",
+          "publisher": "울산종합일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00N3hxWjdoaDhhRC04c3ZILU0yaG0teHl0d1dPWjVuNXR4elpkUU9ZQjI5ZUNpTl90MjhQcHVTWTN3RV9DalI4cXFDR1RnRUpycV9wNlhYZ1Job1Utd29GczFPM2dqNGIyazhxRVB3?oc=5",
+          "published": "2026-10-22T06:42:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, ‘울산양육원 봉사활동’ 시행",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rZFVpVUxFWFI5UjVFNDR0Nkp1cTVpa25sUDVqU0ZMTlpVY3I2VnNvZzBaZkxFVVoxSmZsMC1nMUhVME15VjVqWlN2Wkc4TmtfWTI1YWVjbWFpcG5YMUxVZmtnQzkxWHM0?oc=5",
+          "published": "2026-10-22T10:40:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, 신입사원 33명과 울산양육원서 나눔 봉사",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NbExRazBJU180akJPX19yU2hVSlNjZFJjZWNjeVg1ZUNmNVFmYl9rd2cxX05uZUR2dGxWRDRTM1ZBbGJMVTlxc0VWU0RsXzJ3YU9oWHJCcmkxYVpKclJxbHhZTGJqczVCRktRQWRB?oc=5",
+          "published": "2026-10-22T12:27:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.681,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-finds-kenya-committed-to-safe-management-of-radioactive-waste-as-it-develops-a-nuclear-power-programme",
+          "published": "2026-10-22T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA Mission Finds Kenya Committed to Safe Management of Radioactive Waste as it Develops a Nuclear Power Programme | IAEA",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNG5ObFRPcWRMWlFFYWduRUdlWnBsNjgzQ0tueDd6Vk82cVF5QVJHRTdFTmtxT2NfbFp6azNFU0I0LTZYTXBDWmQyTlJpRHh0RVF0QWVURGNmWGRseVlsVjNXZEgwVV9DamJBMEpPQm1rUUdZQ1RzTjhoUTdOZUdxZ003VWVUYzdvNnpJM3NzU0JsVVc3d2hFZmx0U0xHN2Ytd0o5OFBxTjZXRHk4d2Q4WkFoOFkzdmFSN0h5ZWNXRU52RHcxUkFqQURpcm0tT0hDNFhFaER2WGpuTlZvYkZVX3dlM1d1SHBWVjhlWkhYb05oSGc?oc=5",
+          "published": "2026-10-22T12:18:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.675,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[부산소식]한수원 고리, 기장군 장애인복지증진대회 후원 등",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93WmMzVExGN1NfUG9tRW9QQnBxWDd2b19kSWxHYzNUV3diT08xME5iR2VEdVNDeU5sdVI2VVNtMEhJSUhfUDFzZ1NZajdaSXJsZ01OM0hJNlR4QzA0VE8wcXlMdGF1bEFFWmlLU2s5SExjVV9pelJoa9IBeEFVX3lxTE93WmMzVExGN1NfUG9tRW9QQnBxWDd2b19kSWxHYzNUV3diT08xME5iR2VEdVNDeU5sdVI2VVNtMEhJSUhfUDFzZ1NZajdaSXJsZ01OM0hJNlR4QzA0VE8wcXlMdGF1bEFFWmlLU2s5SExjVV9pelJoaw?oc=5",
+          "published": "2026-10-22T02:30:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 기장군 장애인복지증진대회 후원",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ma09uY0I4bXA4ODFJb1A5TGhsdnNLSHV2djlnRnk4czk3OGp0eUh1VVcyUHh4Uy1WbHlXUmstcmxLZ0pvQzN0OHZVMjFBckRrT0Y2aDV4OFFUcVo4NXdwOTduQ09JamNjMmRB?oc=5",
+          "published": "2026-10-22T03:58:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 기장군 장애인복지증진대회 후원",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52QUxxMzl6UV8zM2wxYlU4OUtobDA4RXo1Rl9nQjFxVGRnR2xnMFhKWVJNazU3UEJtd2t5ai1qakx3REtsblVzTUQ5WVRoQVpkVXcwX0UxSFJSdw?oc=5",
+          "published": "2026-10-22T09:55:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원전, ‘기장군 장애인복지증진대회’ 후원",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40cS0xbjZ4cUo4RWFaZ3UwZ3ZFR1U5ME44eFQxNVNscUVJS2pIMnljV0JKRlgzbEcyRUFKcEJPSXQ4Z1oxRnRqOTZQZXFycnVKamNRR1c0a0hZb0NtRkJXSFRNSXFtYnZI?oc=5",
+          "published": "2026-10-22T10:38:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.606,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "SMR·핵융합·양자 등 7대 미래기술 육성…정부, 연내 이행전략 마련",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qRWFKSnE2Z2JpU2FrTi1yYmtUdC1NSVFQVU9QbTVTNEl0Wldod1JWS3o2UHdxOVI2N0JEdmlCRjJ6SThQYnNaTTFSTml1OFlZMzJoSkY3Sm5yakVrUjh1Wg?oc=5",
+          "published": "2026-10-22T05:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SMR·핵융합 등 7대 미래기술 키운다…정부, 실행전략 마련",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rS0Jxb2VjSUhCb2tad2lBZ2lMU1drUWFHUnF0bHpMdG1ucXJBMTkyS280aW8xZ01lY21HVHVwaHNnUTJEVF9zUHVpdUZBNWhGYm9LRnpPb0NtTWptVnpGNNIBYEFVX3lxTE1rS0Jxb2VjSUhCb2tad2lBZ2lMU1drUWFHUnF0bHpMdG1ucXJBMTkyS280aW8xZ01lY21HVHVwaHNnUTJEVF9zUHVpdUZBNWhGYm9LRnpPb0NtTWptVnpGNA?oc=5",
+          "published": "2026-10-22T05:01:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SMR·핵융합 등 7대 미래기술 키운다…정부, 실행전략 마련",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oazg2R1JLRHlYLUVjZll5SE5ieS1Vdm9IclctU0JXVU1kN2psd3FIRV9Sa1VmRDhkOHY1UUU5aVZjcGZWQURoTGhYV015SE1QWHc?oc=5",
+          "published": "2026-10-22T05:01:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정부 “SMR·핵융합 등 7대 미래기술 이행전략 연내 마련”",
+          "publisher": "직썰",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iLXNXQmd6NVdHa04weE45QVFLWHJmRGd0ZDhmdjFfb2RQdWJ5ZGNpbHVTZ01hX1U5aDhZbU5aUXY5NzR3Q1pZak9aZE1ZUG1qLWlxVmtvMmZCMm5xREVhNFZ2RWlCX2o40gFsQVVfeXFMTWxVd1l2UU1mQkYzVXc1azZjUXpUOWs3RmRqUmlULWpIeVJreVVoZV9kT21taFExeG9obXlFYkJOTDdzTUhOd0JwNGRoSklqcXJKZG14cDlDZjJCSFBmYmcxLWR6YVNBZnoyYkp4?oc=5",
+          "published": "2026-10-22T05:23:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정부, SMR·양자 등 7대 미래기술 육성… 연내 이행전략 마련",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRNnBfZExDU2c0RTNvb09SSjJyNFB4MnZvc0p1eDhJRlk1eF9iSWtCckFxUHhnRGNRZjFOUDI1dGJ3YVBBNkllbEEzbXVuMzJZRGU3TEhMbXVZUQ?oc=5",
+          "published": "2026-10-22T06:19:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.425,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Canada bolsters space nuclear sector through new center, radioisotope projects funding",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-22/article-8510/canada-bolsters-space-nuclear-sector-through-new-center-radioisotope-projects-funding/",
+          "published": "2026-10-22T15:34:59+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.811,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "GAO: Clarify future land use plans, regulatory scope for cleanup efforts",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-22/article-8509/gao-clarify-future-land-use-plans-regulatory-scope-for-cleanup-efforts/",
+          "published": "2026-10-22T12:19:56+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.676,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "OPG firm joins UK BWRX-300 project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/joint-venture-to-operate-planned-uk-bwrx-300-fleet",
+          "published": "2026-10-22T12:02:58+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.664,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Radiant microreactor selected for deployment by US Navy",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/radiant-microreactor-selected-for-deployment-by-us-navy",
+          "published": "2026-10-22T11:00:53+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.621,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The challenge of securing uranium from seawater - podcast",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/the-challenge-of-securing-uranium-from-seawater---podcast",
+          "published": "2026-10-22T10:52:23+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.615,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "SMRs could be part of Port of Rotterdam's future, says study",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/smrs-could-be-part-of-port-of-rotterdams-future-says-study",
+          "published": "2026-10-22T09:30:35+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.558,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 공론화위원회, 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정",
+          "publisher": "www.newszoom.kr",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oY1VVby00VFl1cnBtTEUwUjFFc3pMQm5zTzR6dXkyd2ZkX3JpSzg4UVdWZFpsdDZGLWJialZWbTg2cEJLc3c?oc=5",
+          "published": "2026-10-22T03:55:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화위원회, 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정",
+          "publisher": "누리일보",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54TnN5QTNld0lvcnJ4U2lrOVVuekN6RmtzZncxWFd2VzRkUDloU1FCYU5sXzE3WGNTN1VFUE90YlE4N3lQeUxBZWtjd0pxWE92NkVkTkl0ZnRDZjBxSVc4?oc=5",
+          "published": "2026-10-22T04:50:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화위원회, 숙의토론 12월 11일~13일 개최 확정",
+          "publisher": "환경신문",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8wRU43dG1rX0VpZG9RVFhuTjJNQ3N6Vm9aWm1hSl9DNDBxQmhDTlI1U2VCd1JTUW1zNGZiRWw2VjhFdEU?oc=5",
+          "published": "2026-10-22T09:28:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.557,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리원자력본부, ‘기장군 장애인복지증진대회’에 물품·가정지원금 전달",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SenhHWWJOWmQzQW80eU1uOU5tcm1lOE9taG1lQktfMkJvbnA4dExvTjd4eW9xYTZ4czBnaVBNdkNRd3Z0X0w2V0FZQk84dFlOc3d3VHA4REY4eXRaT2ZJOVhYVTJvcTc5aXV5enRyM3V0bnN5RjdZMA?oc=5",
+          "published": "2026-10-22T06:12:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 기장군 장애인복지증진대회 성공 개최 위해 다각적 후원",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6RGhCakQtNllRUVFYY09RUURWTHg5c2FxanNTbDdwZ1E1UXJWeGRPWWlfTEpCRmlVQ0M2Y0tYc3ZkWVFidmk4eDNNTzl2T1JKVXF2SU5BRlltR3VoM2dtVDg1Z1lobnlPVm1SQ011MW3SAXBBVV95cUxQekRoQmpELTZZUVFRWGNPUVFEVkx4OXNhcWpzU2w3cGdRNVFyVnhkT1lpX0xKQkZpVUNDNmNLWHN2ZFlRYnZpOHgzTU85dk9SSlVxdklOQUZZbUd1aDNnbVQ4NWdZaG55T1ZtUkNNdTFt?oc=5",
+          "published": "2026-10-22T06:18:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 기장군 장애인 복지 지원",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xenBpM3FvdUI0dFQzWi1vcTZXUjVLMlo0Zzl1WjY3U1pkaTQwSXRoWjVHRi1ielMtb0dhXzBSVWdRUWRBaWtLeWFrSzJQYkc2alVWcnNxWFhzdTFTOEN4bHllbw?oc=5",
+          "published": "2026-10-22T07:04:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.457,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 공론화 전문위원회 9명으로 출범…환경단체 불참 - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXk5OERzTnJEdTZjM0VibU1udzJDRlphNUY2by1wb3o4eXJNZVVTR2JqN2FQZml3TUpIdnctRTlYT2FLTzNOcDFPNkFqY2dlQVA0QUprX1IxSWxLQXlFdW1Vb0JDbkx0MGJmMTNKNk9NbTNCalBuSmwtcUd5WHZ3NE5TcDVnZ9IBmgFBVV95cUxQSEJQYjhnSXdVVDk1R2dEb1I1NUN0LUZUT21Pam9vQmFhYzZPaTc2YVBxakZySHdkeGU4bER3alJNeFJkYWJXVTJTMFV0V0ctUGkzTi1OdUpVQ1NJeFhiRXAwd0dVaTNwYnNNNDFwWmd2STJaTDBnQnY3NEJBODFrVFM2UlJNMzJfQ3ZkNlI0SjYtNGpaWjhFTHZn?oc=5",
+          "published": "2026-10-22T01:32:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "환경단체 빠진 ‘원전 공론화위원회’ 전문위원회 9명 구성",
+          "publisher": "에코타임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNWNrT3lCN3k3YTBGRjBzUWlaOEVjS1VQb2RkV3hVRVpDLUl5Qk5icDR4enh5bV8wcVlXaW05R0hnemlibHpJQzdac19TanNHdVFTRVRDMDFQQXR2RkJDbjVHUmN2cHNtMzNRVNIBb0FVX3lxTFAzUkktM2ppLVFudjFwVDdjbDBJdHkzQ25UTS1LcVp2czVKM0RXeDZaczFkOVJHaWxZQVNOQWpzbVBMdWhZWnFfenJhbDdtVHNlMkZRczJGQklyQlh0OGRldTA2R1RyNFFxTmFGeHNjWQ?oc=5",
+          "published": "2026-10-22T04:36:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화 전문위원회 9명으로 출범… 환경단체는 불참",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fQ0FzNzg2dzdMMk9yRF9JM0VGYmlxZjNWaWJPZ2w3TnZRZmVZS3M1N3ZWOXBoazNjX2wzQ01QLWlqdFl4ai1MdDRoWDNTUF9sUnh3WFhXMGhnY2xwaDhManBidUoxU2t5QzRHYk1B0gFzQVVfeXFMTlhuZnI1Vm12NUtUb1ZERERrVnk5N1pHSG9CYU9yTk85WnZid0lFZzZQWWRvajd1cjFtN1E1b3B4UlMzZ1NDRHhhYjBWVDA1em9QVFJNTmlFN1lkOGRxLWFZOFZkQVJEbU1vU0Z3MTZvN0JqZw?oc=5",
+          "published": "2026-10-22T06:01:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.413,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear developments in Wyoming, Kentucky, and Louisiana",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-21/article-8508/nuclear-developments-in-wyoming-kentucky-and-louisiana/",
+          "published": "2026-10-21T20:52:54+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.032,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA’s Space Reactor-1 (SR-1) Freedom Mission Continues Work on Nuclear Power Module",
+          "publisher": "TechEBlog -",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3bTA1dG9TRHFDU1RBcElwX1k1eWExbHhjMHI4TU9MLXI3ZE41RUxxZ0NlZ1draXJaaDRaajlkNXZyNTFjMmdEdlN1M1pjdkJxTnFLY3RXWFJJN21QWmQ4NDRiS19iTXNWTzdZM1gza3VLNDhFN2U5SVZvNTB2QjA?oc=5",
+          "published": "2026-10-22T06:37:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NASA’s Space Reactor-1 (SR-1) Freedom Mission Continues Work on Nuclear Power Module",
+          "publisher": "https://gnyouth.net/",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWMzTzMyaHNtOXRuSWZldkFJejVzRG5vZmhWd3lfSEJSNWFGbXJGYkJ6cWY3b2lUYS1wYkhfUFFkcHdFUXl1Y0JOWktXaXFfQ3Q1d05ocWVIVHpvU1F1eGRHb254YmFIcVpHczZkNmhZOG9wZFRrSVNyeVNiNjRHY3FFOFpEdEM1SWJXRXVZUWpZenQwTF9PVV96dFlKaml1LWtISg?oc=5",
+          "published": "2026-10-22T12:36:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.687,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 공론화위원회, 전문위원회 구성",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YV0dqSk4zamFNTmpZc1Y0RGdTbmYxNEU1cWVRVzdrdXZjUWhhUDR2d09WYlZ5cFRoWGZSejBCN1o4ZWg4ZTlCQ3hrZk1pM2NKQ295Z2VDb3ZSRlhLRy1wN2Y1aENXaS1yMVRiTlZn?oc=5",
+          "published": "2026-10-22T06:56:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화위원회, ‘전문위원회 및 숙의토론 일정’ 확정",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04R0gwSy03NVBFNUttR1ZVSGVZZ25qZHFDeEppaHViX3UxM0pxSUpERTlMTUFlTTN3RDd4eHQycVdkNG5EWlgxUzdpbUs5M2pRWW5PUG5Icmx0NnRZdWVsMnNsdXBRQVl2?oc=5",
+          "published": "2026-10-22T10:43:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.609,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hungary looks to replace Rosatom in Paks nuclear plant expansion",
+          "publisher": "Around Prague",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMEdLR0J3X2Y4a1A1Tk9MODZJQnFTN1RGdzV0Nml4aEMtUTRhTjU5U3RfdHU3YlRxdWZtMHU3azU3X2VMeXdJMVQ5WHlIU19VTTNkZkJPQ21wVXp4eEotWGJSQU4wVzRud3JNYmI0LVRqaGticzdYbWlQYVpUa3NES2tlRnVwdVZ1SENzSzlVOTRkdlg3M3BMQjRzZHV2cV9FTEFIZnFwVQ?oc=5",
+          "published": "2026-10-21T23:22:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Reuters: Hungary might give up on Rosatom for the expansion of the Paks nuclear power plant",
+          "publisher": "ipn.md",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFlsN3FBaE05YWQ2RFZTcmJYbk9EdWFGamZiZG1jNDR5ak8xQV9SZmdUMllBR1NsZTB1VGd6TnR0SzRBdnVHTE9oU0VVVnRYcTYyN2xnMWZKVzg4YlRJdUp2QzRyUFk3RU05blI0QU9KWHBQOUNCREVlWmpzSnFHQTdHSG5nZzBXLUk3djlWNldpeHJmN3dWYWZ5UzZ3Y2V6S3NrZVQ4OWFsS3owSGc?oc=5",
+          "published": "2026-10-22T09:28:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.557,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "L&T Dispatches 8th Steam Generator for India's Expanding Nuclear Power Programme",
+          "publisher": "Larsen & Toubro",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdzdUNTR2RDA3alRFRkdvZVROVy1VTGpXRE5UcEZ1YVhIaWZjY1R3eUgxcHFTdzR0SHZjdTFyaEEzdGFicm5xcS1WU3dHUGkzNVVua0oyY19PMmp3NkI0RXY4bXIyMzZVYk5KYVpnTVlZYk1tUGlkUmhxa3VJdjR3OUo2NlE0N2hIMWx6LWRtRU16dUVieER0c0N6cks4eXd5WnpqNXVub1F1cjZEMlZnNVMtb1RFTUMwWGlfVlpnVlBZRDJvc2Vqbmt3R0ZpckY4X3ZN?oc=5",
+          "published": "2026-10-22T05:44:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "L&T dispatches eighth steam generator for India’s nuclear power programme",
+          "publisher": "T&D India",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQU9KY3Vsc216TUFoWi02eURZMzNscjdEZW1BV2lsTVhuS2hfWnY3OUE4ZDdhaVl6bk1IYTdZY0JzNC1aSmpCVjI0M1FVRFl2S0ZFWERaNURMc1ZaZV9GNDFqenA0V0EtQzVsSjBkZE9rZVZKckZfSGo1NTRFVUdXUFk3aWd2R0kwRmYzdlB3UlhxdHJSUkhMWU5HblgtZ9IBowFBVV95cUxQR1hRVEFvR28xNDZzYmM2QUI5VkVHeUd5NnlsTTduMHVFYk1XSG1TZi1ST1lnOFF6WlBGRWs4ZFNnMG15MERkaENMVURmck1wU1Znb0xZcjdyeEpSeFJnSGVLMzljUm1kbXZaX2RVREpFQVhoS21QSmJzalN2cFdsTWdEbkkyS3JjejF0MFJqMTRTQWhabUMxRENZU2VqUVZOUnlv?oc=5",
+          "published": "2026-10-22T08:29:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.516,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[단독] 호남 반도체 전력, 원전 5~6기 필요… \"태양광은 여의도 116배 땅 있어야\"",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1E3U016cjRUWldyeUtRbE83ZFN2Z1ZBRHNibE5ZQjJtaDRrMHAzdVdQQXZoWW9TQTZOZE04cGRNYzJvcnpjR3Zwemt2YzdKSGhCdm9XdHo3LVMxVUhRek52U2hmNXF6Y2d3RUZBT1ZLaWFJd0Mwd1RZNkRxOFVxbndQUzY0QQ?oc=5",
+          "published": "2026-10-22T03:01:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "호남 반도체, 1GW급 원전 6기 규모 필요 … 태양광은 여의도 116배 면적",
+          "publisher": "뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNcW11S2VPM19VZHBpUzhySlNGNHQ3XzYzOFlob1BEaVNjX1EzMzJTN3JpTkZYOXY5Zk03Xy1RRVIyOUMtME1iNFJxM1RreWVVSUlUQTZfSjZPM3JMVDhmXzFWMkRULTk0cWxLa1kyRkRXbWdiUXVxRlZia9IBgAFBVV95cUxNclZOMzNLUW5ORnlsNmxScFIxd0pqLU5jWlVNQ2hwSkhqeklpNE4ySmR0RlVhSzdTejlBQTJsVDFTbkNYblh5aWVqYnhoX09aTFdRQ19HSWdVTVE4aGUxY3BwN0xSYnNEejFUYjFTeDZwbG4xRHgyd2JpdjhUQUhZNQ?oc=5",
+          "published": "2026-10-22T05:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.383,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영광군 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 영구화 방지 촉구",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1VDVQMmxZMVdTX3RZTEd6S3FUWHNrWk9HVGtqWTgyMElMOFRaMGZLLXJwT1FodGdPM3lHNDY4OVhUeWFFQ1Q3RVlNcUdIMWtqV2tJNUxfUVRWOXJpdUYxaW1rOXc?oc=5",
+          "published": "2026-10-22T02:05:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "기장군 등 원전소재 5개 지자체, 사용후핵연료 건식저장 지원대책 촉구",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HZS1EbDlqRzJ0VHNlajFocWRjWG9yMV84b2hvazhya1BhblVEODVDd3M4c3UwQ1kyN2xxaUpEenVMZy0yM1dMeVpwRnpLenc0bC0zRFQ3eE1RSGQ1TGxGQXNkM3Q?oc=5",
+          "published": "2026-10-22T02:37:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.271,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tim Allers on nuclear power plant in Oswego County",
+          "publisher": "Auburn Citizen",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UM3VrUmhOYUdBZV83NDBONUdHclpfV1UwNG9SREJjdG51OG1mYVpoN2xrUlp5U0hCRlJpREdiREk3TERXWjNIYUpQeWFFWkRyVzhJZlh4VXlUa1BWb1VveFJ2cWxwS3R5Y3FQMzNzWjdCRkUxakMzRA?oc=5",
+          "published": "2026-10-22T00:09:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Jim Weatherup on nuclear power plant in Oswego County",
+          "publisher": "Auburn Citizen",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qOVRJTHVtektRXy1rTzFXSXJMWFowUWtyQ3FKMG5Mc2FvQ05jbVU2UDk5VlZVMVNYWWhfQnBmcmNwMnNSTUxFdjBFazdvbkVySWRTVWVwdXkta0RDRnd1X1NWQjNiTDRfOFVRYmxaQkhHalFjRW9TMw?oc=5",
+          "published": "2026-10-22T01:26:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.222,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Driver killed in drone attacks at Russian-held Zaporizhzhia nuclear plant, managers say",
+          "publisher": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEd4RnBCQ05aUkY1cFU1bkJveXpweENKMzVKSHlYTDlBbGprTVEtSjlmd3padXVTU2R0aFNrcTBnSUVXT0x3MGlhZ0pjSEkzQjEzOFRLUHlnS3lpZUtQQWlhXzA2eWlnVk1VVy0xaXRDb3VhdlBtWHNqTXZHcjNDeg?oc=5",
+          "published": "2026-10-22T00:10:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Driver at Russian-held Zaporizhzhia nuclear plant killed in drone attacks, managers say",
+          "publisher": "95.7 KELO-FM",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVJHMnZVLXFKWlNRN2lpNTlqQ1VEMGcyaGp2WkxxQWo1RFUyV05HSy0zQVkxYV9YRmdVRXNNTU0xWGZueFk2TW5CYkZOVl9ObVl0TkJqNUhpUkNkYkZ4QXJoVmZoaTFYRzNhMUtTQVNIVkJTNHRQM25vZUVMNU9hM2RmV3RpVElqbFBqTkZINDFId2ZscDZWMUtMdHpRZDExYzc3V051ZS1SZmx3ZUxDQUhXYUl3MW1r?oc=5",
+          "published": "2026-10-22T00:59:20+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.203,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "책 읽는 일터 305곳 인증…독서경영 대상에 한수원",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ERi1QMElTNHNrTEtRcG93RmdKNHFXaC1jWm1md2VuQkVBQ2xBckRFS0M3RVlEMUNFZzJSQzMydG9LS01DYWFnMWV1RHFsWnQ5ZXd4azhZSVVBQQ?oc=5",
+          "published": "2026-10-21T23:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "책 읽는 일터 305곳 인증…독서경영 대상에 한수원",
+          "publisher": "부산파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sXzB0SFNCMWFoTkVJN1RGMGtpR1BxMGZLbThkSU42T1VRN3VHTVpqUTVudVUyWFFRMnV4d0hVNklvY1c2LVd4MFViYy04ZDcxTVB0NnNGZVJtenM?oc=5",
+          "published": "2026-10-21T23:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.12,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Companies announce proposed nuclear power campus in NEKY",
+          "publisher": "Daily Independent",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbEV5R0k1b1paTXRldFpBTFNNdFhaajJoZ2xBRDR4WHVIajM3VUhRSllMVlNaQzNOYXBuWlVYV0RYZHhVM3lMdlc5TlkwN3ZaTzlJX1ItalZMd2JZajZMaXRQMFM5bDFrQ0tCV0JaUWRPNFZrTHhvR1pucHNXUmxDWmxlX3lSYUthN0VoV2ppUC0tYUloUkpPaUZ3MTVtbmRZenBWb2FUQ21IbmlQckZyejhTbk9sdVFOMElaaUZxRWxoSUk2Uy1lMENrdEd4UmpRQjE1XzVKMmFIeUFp?oc=5",
+          "published": "2026-10-21T20:56:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear power campus proposed in eastern Kentucky",
+          "publisher": "WHAS11",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeWMybjRxQXlVbVdCbXVQQ1pDNVlic1d4b0tqalg2QnlTRWJ2WEFma0tfUjZTczRhTlBfQVl3ejNpWXBOSTlQd0NPV1ZURWpCZ1VtaU40dUtNUmd5WjFtUmpSNWxETmp3UUJ6V3BGSHpTa1poRjNZXzRoZVJxTWlEc1JNZVVhOE5NQjNuYWdnOW5xc09DOVp1MVdqZElzRzdRbERuNTlvSTFLV2NwTkQ3V0lHODI0N09TUW5uQlJjS2tLbTNBT2M3bXR1U3hYb0lfc0E?oc=5",
+          "published": "2026-10-21T22:32:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.101,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "(국감)루마니아 원전 사업서 석 달 새 2명 사망…한수원 사장은 '구두 보고'만",
+          "publisher": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43eU9qSTliczVqZE9PZ0VvMHhuRUZnNnZWcjNEd0VnLUF3Rk9aVVRQQ3pOVFFzZXRnTDdaOHNnYWV2LU1vMTkzUUJ4SEhFT09WbDV3cEhORG9sTE9Ba2s0eQ?oc=5",
+          "published": "2026-10-22T14:54:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.783,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[국감2026] 김정관 “산업·에너지 같이 가야”…한전·한수원 주무부처 ‘두집 살림’에 입장 고수",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00U2RhR215RjhTUGZzTDFBbXFfSExRVnFLTFBYN2xkU3phLXQyOUpLbEUzbVVyM1RKMEthRUhCRkVUYjZObXhQaTk3SnhJQy1tenRQNDVydzJnWW1BMV8wRWpxREwtZFJrR3JIVklBdEVXSWVm0gF0QVVfeXFMTTRTZGFHbXlGOFNQZnNMMUFtcV9ITFFWcUtMUFg3bGRTemEtdDI5SktsRTNtVXIzVEowS2FFSEJGRVRiNk5teFBpOTdKeElDLW16dFA0NXJ3MmdZbUExXzBFanFETC1kUmtHckhWSUF0RVdJZWY?oc=5",
+          "published": "2026-10-22T14:29:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.766,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 인재개발원, 울산양육원 청소·아동 돌봄 등 봉사활동 전개",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BTkVZcS1WRUgwYVpaV19Ed3ItNUxHcUM4aDZ6TFZnZ3EyWm1UeVR6MGR3WU1XMTFVNGtUTkJxbHVSZ3pZdzdEZnNDMUMyblFmVkpCUE9Calo3aWpXZHkzZHZiMERQQzZjVDlUcmhPQUfSAXBBVV95cUxOQU5FWXEtVkVIMGFaWldfRHdyLTVMR3FDOGg2ekxWZ2dxMlptVHlUejBkd1lNVzExVTRrVE5CcWx1Umd6WXc3RGZzQzFDMm5RZlZKQlBPQmpaN2lqV2R5M2R2YjBEUEM2Y1Q5VHJoT0FH?oc=5",
+          "published": "2026-10-22T14:16:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.757,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "방사성폐기물학회, 추계학술발표회 개최…방폐물 관리기술-AI 접목 방안 모색",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tRmg2NHc5RUJkakNrWUVrdURKNEZYVEViNFI3anZIbkpxMDFKcmpqQWY3ZmdkVS1QTDRydGEyRTZCbWNKQnBkb2JJU0RtM2p5b1p5Zm1SaVVjOHhuNlViMzNUaXBUbVZPcjJPSTlOckjSAXBBVV95cUxObUZoNjR3OUVCZGpDa1lFa3VESjRGWFRFYjRSN2p2SG5KcTAxSnJqakFmN2ZnZFUtUEw0cnRhMkU2Qm1jSkJwZG9iSVNEbTNqeW9aeWZtUmlVYzh4bjZVYjMzVGlwVG1WT3IyT0k5TnJI?oc=5",
+          "published": "2026-10-22T14:16:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.757,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력(주) 한울원자력본부 다누림 할로윈 데이 좀비 VS 마녀 에너지팜 대소동 개최",
+          "publisher": "m.culturegb.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02Z1BKcGdMSFNOVmhqQzZ3Tkd0RFhGLVhXQ1RpQnNYRmNfY2NCM0F2aHJOVkktWUltODVPY0o1YzQxMGpYak95LVNyNGNiVGlteC0w?oc=5",
+          "published": "2026-10-22T13:12:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.712,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 99,
+      "kept": 95
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 41,
+      "kept": 31
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 84,
+      "kept": 79
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 46,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
