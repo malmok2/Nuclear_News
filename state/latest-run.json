@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-10-25",
-  "started_at": "2026-10-24T18:47:22+00:00",
+  "run_date": "2026-10-26",
+  "started_at": "2026-10-25T19:02:44+00:00",
   "engine": {
     "engine": "pending",
     "reason": "waiting for the Claude Code session"
@@ -10,18 +10,18 @@
   "feeds": {
     "gnews-ko": {
       "ok": true,
-      "entries": 45,
-      "kept": 40
+      "entries": 60,
+      "kept": 54
     },
     "gnews-ko-reg": {
       "ok": true,
-      "entries": 7,
-      "kept": 0
+      "entries": 16,
+      "kept": 1
     },
     "gnews-en": {
       "ok": true,
-      "entries": 82,
-      "kept": 69
+      "entries": 47,
+      "kept": 32
     },
     "wnn": {
       "ok": true,
@@ -41,10 +41,10 @@
     "ans": {
       "ok": true,
       "entries": 50,
-      "kept": 2
+      "kept": 0
     }
   },
-  "days_rendered": 29,
+  "days_rendered": 30,
   "status": "success",
-  "finished_at": "2026-10-24T18:47:27+00:00"
+  "finished_at": "2026-10-25T19:02:47+00:00"
 }
