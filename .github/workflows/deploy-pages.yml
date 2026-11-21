@@ -17,16 +17,26 @@ concurrency:
   group: pages-publish
   cancel-in-progress: false
 
+# Upload and deploy run as separate jobs, like daily-news.yml. With both steps in one job, deploy-pages
+# looked the artifact up about 1 s after the upload and found none (run #41, 2026-11-21). Re-running that
+# job uploaded a second "github-pages" artifact, which deploy-pages rejects as a duplicate.
+# If a deploy fails, use "Re-run failed jobs": it reruns only `deploy` and reuses the one artifact.
+# "Re-run all jobs" uploads a second artifact and fails the same way; use "Run workflow" instead.
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v4
