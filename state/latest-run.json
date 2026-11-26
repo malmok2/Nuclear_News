@@ -1,6 +1,6 @@
 {
-  "run_date": "2026-11-25",
-  "started_at": "2026-11-25T00:43:47+00:00",
+  "run_date": "2026-11-26",
+  "started_at": "2026-11-26T00:19:24+00:00",
   "engine": {
     "engine": "pending",
     "reason": "waiting for the Claude Code session"
@@ -11,32 +11,32 @@
     "gnews-ko": {
       "ok": true,
       "entries": 100,
-      "kept": 96
+      "kept": 97
     },
     "gnews-ko-reg": {
       "ok": true,
-      "entries": 100,
-      "kept": 57
+      "entries": 81,
+      "kept": 72
     },
     "gnews-en": {
       "ok": true,
-      "entries": 56,
-      "kept": 47
+      "entries": 75,
+      "kept": 71
     },
     "wnn": {
       "ok": true,
-      "entries": 51,
+      "entries": 50,
       "kept": 5
     },
     "iaea": {
       "ok": true,
       "entries": 15,
-      "kept": 0
+      "kept": 1
     },
     "nrc": {
       "ok": true,
-      "entries": 173,
-      "kept": 0
+      "entries": 174,
+      "kept": 1
     },
     "ans": {
       "ok": true,
@@ -44,7 +44,7 @@
       "kept": 4
     }
   },
-  "days_rendered": 60,
+  "days_rendered": 61,
   "status": "success",
-  "finished_at": "2026-11-25T00:43:50+00:00"
+  "finished_at": "2026-11-26T00:19:28+00:00"
 }
